@@ -6,6 +6,18 @@ It detects and locks station sensor heads to the exact center of a 1080p canvas,
 
 ---
 
+## 🎬 Video Showcase
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=zIGoHWmwjvs" target="_blank" title="Watch WeatherXM Match-Cut Video on YouTube">
+    <img src="https://img.youtube.com/vi/zIGoHWmwjvs/maxresdefault.jpg" alt="WeatherXM Global Deployments AI Station Detect Slideshow" width="90%">
+  </a>
+  <br>
+  <em>▶ Click to watch the rendered 1080p match-cut montage on YouTube: <a href="https://www.youtube.com/watch?v=zIGoHWmwjvs"><strong>WeatherXM - global deployments AI station detect slideshow</strong></a></em>
+</p>
+
+---
+
 ## 📸 Interactive Web Studios
 
 <p align="center">
@@ -31,6 +43,8 @@ It detects and locks station sensor heads to the exact center of a 1080p canvas,
   - **Version C**: Cinematic slow Ken Burns push-in (8 frames/photo — 2× slower than D with optimized bitrate)
   - **Version D**: Subtle push-in motion (Ken Burns zoompan, 4 frames/photo)
   - **Version E**: Fixed Station match-cut (2 frames/photo @ 24fps — 12 fps photo pace)
+
+> 💡 **Watch the Output**: Preview the rendered montage on YouTube: **[WeatherXM - global deployments AI station detect slideshow](https://www.youtube.com/watch?v=zIGoHWmwjvs)**.
 
 ### 2. Export Video Modal with Real-Time Progress & Finder Integration
 - **Interactive Treatment Tickboxes & Presets**: Checkboxes for Version A, B, C, D, and E with quick presets (`All`, `Only C`, `Only D`, `None`) allow rendering any subset of treatments (e.g. rendering only Version C for fast, targeted exports).
