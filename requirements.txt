@@ -1,0 +1,16 @@
+# Core Deep Learning & Computer Vision
+torch>=2.1.0
+torchvision>=0.16.0
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+pillow>=10.0.0
+numpy>=1.24.0
+
+# Sequence Optimization & Pipeline
+pyyaml>=6.0
+requests>=2.31.0
+transformers>=4.30.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+ortools>=9.7.0
+tqdm>=4.66.0

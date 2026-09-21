@@ -1,0 +1,75 @@
+# Match-Cut Weather Station Video Pipeline Configuration
+
+paths:
+  input_dir: "photos"
+  cache_dir: "cache"
+  output_dir: "output"
+  metadata_dir: "metadata"
+
+canvas:
+  width: 1920
+  height: 1080
+  fps: 30
+
+alignment:
+  target_center_x: 0.50     # Horizontal target center (50% of frame width = 960px)
+  target_center_y: 0.50     # Vertical target center (50% of frame height = 540px)
+  target_height_pct: 0.40   # Station height as fraction of canvas height (40% = 432px)
+  max_auto_scale: 2.5       # Cut-off limit for zoom: prevents digital upscaling beyond 2.5x to avoid blur
+  max_total_scale: 4.0      # Hard maximum scale even with manual zoom slider
+  min_height_pct: 0.08      # Reject box if height < 8% frame height
+  max_height_pct: 0.60      # Reject box if height > 60% frame height
+  max_width_pct: 0.50       # Reject box if width > 50% frame width (prevents background/sky boxes)
+
+detection:
+  confidence_threshold: 0.20
+  skip_failed_detections: true
+  prompts:
+    - "white weather station sensor unit on pole"
+    - "anemometer wind vane weather station sensor head"
+    - "solar powered weather station sensor package"
+    - "small meteorological sensor unit on post"
+
+features:
+  weights:
+    background_color: 0.55     # CIELAB color histogram weight
+    clip_embedding: 0.25       # Visual embedding cosine distance weight
+    brightness_saturation: 0.10 # Brightness & saturation difference weight
+    composition: 0.10          # Sky and ground region composition color weight
+  clip_model_name: "openai/clip-vit-base-patch32"
+
+rendering:
+  treatments:
+    - "A" # Hard cut every 3 frames (8 fps photo pace @ 24fps)
+    - "B" # Rapid hard cut every 1 frame (24 fps photo pace @ 24fps)
+    - "C" # Cinematic slow push-in every 8 frames (3 fps photo pace @ 24fps, 2x slower than D)
+    - "D" # Subtle push-in motion every 4 frames (6 fps photo pace @ 24fps)
+    - "E" # Station perfectly fixed match-cut (12 fps photo pace @ 24fps)
+  frames_per_image: 2
+  fps: 24
+  formats:
+    - "mp4"
+    - "webm"
+  h264_codec: "h264_videotoolbox"
+  webm_codec: "libvpx-vp9"
+  resolutions:
+    - name: "1080p"
+      width: 1920
+      height: 1080
+      bitrate: "10000k"
+      bitrate_max: "15000k"
+      bitrate_bufsize: "20000k"
+      webm_bitrate: "6500k"
+      webm_crf: "20"
+      label: "1080p Full HD Master (High Quality, ~10 Mbps)"
+    - name: "720p"
+      width: 1280
+      height: 720
+      parts: 1
+      bitrate: "1000k"
+      bitrate_max: "1400k"
+      bitrate_bufsize: "2000k"
+      webm_bitrate: "900k"
+      webm_crf: "34"
+      label: "720p HD Web (docs/video.md Spec, ~1.0 Mbps)"
+

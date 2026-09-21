@@ -1,0 +1,56 @@
+# Environments & Python
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Caches & Transient Processing Artifacts
+cache/
+output/
+output*/
+runs/
+debug_vis/
+debug_yolo_world/
+sample_test/
+dataset/
+photos/
+
+
+# Backup & Temp Files
+*.backup.json
+*.tmp
+metadata/backups/
+
+# Large Pretrained Models (Ultralytics auto-downloads as needed)
+# Keep only custom fine-tuned weights under 100MB
+*.pt
+!weights/weatherxm_sensor_head_best.pt
+
+# Intermediate training run folders
+weights/weatherxm_sensor_head/
+
+# Operating System & IDE
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.idea/
+.vscode/
+
+# Credentials & Secrets
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.cert
+*.crt
+id_rsa*
+secrets.json
+credentials.json

@@ -1,0 +1,8236 @@
+{
+  "100_agreeable-sage-atmosphere_2.jpg": {
+    "filename": "100_agreeable-sage-atmosphere_2.jpg",
+    "bbox_pixels": [
+      863.0,
+      563.0,
+      1146.0,
+      927.0
+    ],
+    "bbox_norm": [
+      0.553139,
+      0.184772,
+      0.155837,
+      0.090278
+    ],
+    "img_width": 1816,
+    "img_height": 4032,
+    "station_height_pct": 9.03,
+    "station_width_pct": 15.58,
+    "aspect_ratio": 0.777,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.19,
+    "is_manually_verified": true
+  },
+  "100_agreeable-sage-atmosphere_3.jpg": {
+    "filename": "100_agreeable-sage-atmosphere_3.jpg",
+    "bbox_pixels": [
+      831.9,
+      754.0,
+      1077.1,
+      965.8
+    ],
+    "bbox_norm": [
+      0.236733,
+      0.473515,
+      0.060801,
+      0.116592
+    ],
+    "img_width": 4032,
+    "img_height": 1816,
+    "station_height_pct": 11.66,
+    "station_width_pct": 6.08,
+    "aspect_ratio": 1.158,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.04,
+    "is_manually_verified": true
+  },
+  "100_agreeable-sage-atmosphere_4.jpg": {
+    "filename": "100_agreeable-sage-atmosphere_4.jpg",
+    "bbox_pixels": [
+      848.0,
+      876.5,
+      1012.4,
+      1012.2
+    ],
+    "bbox_norm": [
+      0.230702,
+      0.520012,
+      0.040791,
+      0.074753
+    ],
+    "img_width": 4032,
+    "img_height": 1816,
+    "station_height_pct": 7.48,
+    "station_width_pct": 4.08,
+    "aspect_ratio": 1.212,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 3.18,
+    "is_manually_verified": true
+  },
+  "100_amateur-fiery-wind_1.jpg": {
+    "filename": "100_amateur-fiery-wind_1.jpg",
+    "bbox_pixels": [
+      997.6,
+      1345.9,
+      1361.8,
+      1641.5
+    ],
+    "bbox_norm": [
+      0.384025,
+      0.366106,
+      0.118552,
+      0.072445
+    ],
+    "img_width": 3072,
+    "img_height": 4080,
+    "station_height_pct": 7.24,
+    "station_width_pct": 11.86,
+    "aspect_ratio": 1.232,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.46,
+    "is_manually_verified": true
+  },
+  "100_amateur-fiery-wind_2.jpg": {
+    "filename": "100_amateur-fiery-wind_2.jpg",
+    "bbox_pixels": [
+      1229.9,
+      1388.2,
+      1894.9,
+      1762.9
+    ],
+    "bbox_norm": [
+      0.508591,
+      0.386158,
+      0.216486,
+      0.09185
+    ],
+    "img_width": 3072,
+    "img_height": 4080,
+    "station_height_pct": 9.18,
+    "station_width_pct": 21.65,
+    "aspect_ratio": 1.775,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.15,
+    "is_manually_verified": true
+  },
+  "100_ancient-shamrock-frost_1.jpeg": {
+    "filename": "100_ancient-shamrock-frost_1.jpeg",
+    "bbox_pixels": [
+      806.2,
+      428.8,
+      882.3,
+      481.6
+    ],
+    "bbox_norm": [
+      0.527675,
+      0.379043,
+      0.047582,
+      0.043984
+    ],
+    "img_width": 1600,
+    "img_height": 1201,
+    "station_height_pct": 4.4,
+    "station_width_pct": 4.76,
+    "aspect_ratio": 1.441,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 8.18,
+    "is_manually_verified": true
+  },
+  "100_ancient-shamrock-frost_2.jpeg": {
+    "filename": "100_ancient-shamrock-frost_2.jpeg",
+    "bbox_pixels": [
+      725.5,
+      419.1,
+      773.6,
+      444.0
+    ],
+    "bbox_norm": [
+      0.468467,
+      0.359638,
+      0.030078,
+      0.020699
+    ],
+    "img_width": 1600,
+    "img_height": 1200,
+    "station_height_pct": 2.07,
+    "station_width_pct": 3.01,
+    "aspect_ratio": 1.938,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 17.39,
+    "is_manually_verified": true
+  },
+  "100_ancient-shamrock-frost_3.jpeg": {
+    "filename": "100_ancient-shamrock-frost_3.jpeg",
+    "bbox_pixels": [
+      780.7,
+      400.8,
+      812.4,
+      429.8
+    ],
+    "bbox_norm": [
+      0.497846,
+      0.346069,
+      0.019816,
+      0.024124
+    ],
+    "img_width": 1600,
+    "img_height": 1200,
+    "station_height_pct": 2.41,
+    "station_width_pct": 1.98,
+    "aspect_ratio": 1.095,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 14.92,
+    "is_manually_verified": true
+  },
+  "100_ancient-shamrock-frost_4.jpeg": {
+    "filename": "100_ancient-shamrock-frost_4.jpeg",
+    "bbox_pixels": [
+      758.1,
+      332.2,
+      814.0,
+      374.1
+    ],
+    "bbox_norm": [
+      0.491268,
+      0.294308,
+      0.034929,
+      0.034929
+    ],
+    "img_width": 1600,
+    "img_height": 1200,
+    "station_height_pct": 3.49,
+    "station_width_pct": 3.49,
+    "aspect_ratio": 1.333,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 10.31,
+    "is_manually_verified": true
+  },
+  "100_ancient-vermilion-hygrometer_1.jpg": {
+    "filename": "100_ancient-vermilion-hygrometer_1.jpg",
+    "bbox_pixels": [
+      1602.8,
+      401.4,
+      1992.3,
+      596.1
+    ],
+    "bbox_norm": [
+      0.440583,
+      0.162354,
+      0.095457,
+      0.063389
+    ],
+    "img_width": 4080,
+    "img_height": 3072,
+    "station_height_pct": 6.34,
+    "station_width_pct": 9.55,
+    "aspect_ratio": 2.0,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.22,
+    "is_manually_verified": true
+  },
+  "100_ancient-vermilion-hygrometer_2.jpg": {
+    "filename": "100_ancient-vermilion-hygrometer_2.jpg",
+    "bbox_pixels": [
+      2389.7,
+      433.2,
+      2568.6,
+      643.8
+    ],
+    "bbox_norm": [
+      0.607633,
+      0.175291,
+      0.043832,
+      0.068564
+    ],
+    "img_width": 4080,
+    "img_height": 3072,
+    "station_height_pct": 6.86,
+    "station_width_pct": 4.38,
+    "aspect_ratio": 0.849,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.05,
+    "is_manually_verified": true
+  },
+  "100_ancient-vermilion-hygrometer_3.jpg": {
+    "filename": "100_ancient-vermilion-hygrometer_3.jpg",
+    "bbox_pixels": [
+      2310.2,
+      302.0,
+      2687.8,
+      512.7
+    ],
+    "bbox_norm": [
+      0.612503,
+      0.1326,
+      0.092535,
+      0.068564
+    ],
+    "img_width": 4080,
+    "img_height": 3072,
+    "station_height_pct": 6.86,
+    "station_width_pct": 9.25,
+    "aspect_ratio": 1.792,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.05,
+    "is_manually_verified": true
+  },
+  "100_ancient-vermilion-hygrometer_4.jpg": {
+    "filename": "100_ancient-vermilion-hygrometer_4.jpg",
+    "bbox_pixels": [
+      2123.5,
+      592.1,
+      2373.8,
+      830.6
+    ],
+    "bbox_norm": [
+      0.551138,
+      0.231565,
+      0.061365,
+      0.07762
+    ],
+    "img_width": 4080,
+    "img_height": 3072,
+    "station_height_pct": 7.76,
+    "station_width_pct": 6.14,
+    "aspect_ratio": 1.05,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.81,
+    "is_manually_verified": true
+  },
+  "100_australia_droll-saffron-snowsquall_1.jpg": {
+    "filename": "100_australia_droll-saffron-snowsquall_1.jpg",
+    "bbox_pixels": [
+      890.5,
+      533.2,
+      1122.3,
+      652.4
+    ],
+    "bbox_norm": [
+      0.524148,
+      0.231565,
+      0.120742,
+      0.046572
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 4.66,
+    "station_width_pct": 12.07,
+    "aspect_ratio": 1.944,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 3.62,
+    "is_manually_verified": true
+  },
+  "100_australia_joyous-berry-snowflake_1.jpg": {
+    "filename": "100_australia_joyous-berry-snowflake_1.jpg",
+    "bbox_pixels": [
+      1431.2,
+      101.4,
+      1702.1,
+      258.3
+    ],
+    "bbox_norm": [
+      0.38855,
+      0.079304,
+      0.067176,
+      0.069211
+    ],
+    "img_width": 4032,
+    "img_height": 2268,
+    "station_height_pct": 6.92,
+    "station_width_pct": 6.72,
+    "aspect_ratio": 1.725,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.75,
+    "is_manually_verified": true
+  },
+  "100_australia_joyous-berry-snowflake_2.jpg": {
+    "filename": "100_australia_joyous-berry-snowflake_2.jpg",
+    "bbox_pixels": [
+      1923.7,
+      532.3,
+      2148.3,
+      646.2
+    ],
+    "bbox_norm": [
+      0.504962,
+      0.259796,
+      0.055725,
+      0.050212
+    ],
+    "img_width": 4032,
+    "img_height": 2268,
+    "station_height_pct": 5.02,
+    "station_width_pct": 5.57,
+    "aspect_ratio": 1.973,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 3.79,
+    "is_manually_verified": true
+  },
+  "100_australia_joyous-berry-snowflake_3.jpg": {
+    "filename": "100_australia_joyous-berry-snowflake_3.jpg",
+    "bbox_pixels": [
+      1729.1,
+      0.4,
+      1909.6,
+      259.4
+    ],
+    "bbox_norm": [
+      0.451218,
+      0.057262,
+      0.044769,
+      0.114214
+    ],
+    "img_width": 4032,
+    "img_height": 2268,
+    "station_height_pct": 11.42,
+    "station_width_pct": 4.48,
+    "aspect_ratio": 0.697,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.67,
+    "is_manually_verified": true
+  },
+  "100_australia_joyous-berry-snowflake_4.jpg": {
+    "filename": "100_australia_joyous-berry-snowflake_4.jpg",
+    "bbox_pixels": [
+      2089.9,
+      864.7,
+      2225.3,
+      960.1
+    ],
+    "bbox_norm": [
+      0.535115,
+      0.40229,
+      0.033588,
+      0.04207
+    ],
+    "img_width": 4032,
+    "img_height": 2268,
+    "station_height_pct": 4.21,
+    "station_width_pct": 3.36,
+    "aspect_ratio": 1.419,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 4.53,
+    "is_manually_verified": true
+  },
+  "100_australia_large-bronze-avalanche_1.jpg": {
+    "filename": "100_australia_large-bronze-avalanche_1.jpg",
+    "bbox_pixels": [
+      1113.2,
+      107.4,
+      1189.3,
+      291.0
+    ],
+    "bbox_norm": [
+      0.599594,
+      0.138324,
+      0.039647,
+      0.127549
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 12.75,
+    "station_width_pct": 3.96,
+    "aspect_ratio": 0.414,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.35,
+    "is_manually_verified": true
+  },
+  "100_australia_large-bronze-avalanche_2.jpg": {
+    "filename": "100_australia_large-bronze-avalanche_2.jpg",
+    "bbox_pixels": [
+      749.8,
+      60.5,
+      829.2,
+      279.8
+    ],
+    "bbox_norm": [
+      0.411207,
+      0.118142,
+      0.041326,
+      0.152314
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 15.23,
+    "station_width_pct": 4.13,
+    "aspect_ratio": 0.362,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 1.97,
+    "is_manually_verified": true
+  },
+  "100_australia_large-bronze-avalanche_3.jpg": {
+    "filename": "100_australia_large-bronze-avalanche_3.jpg",
+    "bbox_pixels": [
+      920.9,
+      165.8,
+      1168.6,
+      299.9
+    ],
+    "bbox_norm": [
+      0.544146,
+      0.161708,
+      0.129043,
+      0.093144
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 9.31,
+    "station_width_pct": 12.9,
+    "aspect_ratio": 1.847,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 3.22,
+    "is_manually_verified": true
+  },
+  "100_australia_large-bronze-avalanche_4.jpg": {
+    "filename": "100_australia_large-bronze-avalanche_4.jpg",
+    "bbox_pixels": [
+      853.8,
+      262.7,
+      1047.6,
+      394.9
+    ],
+    "bbox_norm": [
+      0.495149,
+      0.228331,
+      0.100906,
+      0.09185
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 9.18,
+    "station_width_pct": 10.09,
+    "aspect_ratio": 1.465,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 3.27,
+    "is_manually_verified": true
+  },
+  "100_austria_hollow-pine-contrails_1.jpg": {
+    "filename": "100_austria_hollow-pine-contrails_1.jpg",
+    "bbox_pixels": [
+      1785.0,
+      978.0,
+      2133.0,
+      1146.0
+    ],
+    "bbox_norm": [
+      0.485863,
+      0.35119,
+      0.08631,
+      0.055556
+    ],
+    "img_width": 4032,
+    "img_height": 3024,
+    "station_height_pct": 5.56,
+    "station_width_pct": 8.63,
+    "aspect_ratio": 2.071,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_austria_hollow-pine-contrails_2.jpg": {
+    "filename": "100_austria_hollow-pine-contrails_2.jpg",
+    "bbox_pixels": [
+      1879.1,
+      1173.6,
+      2027.7,
+      1330.1
+    ],
+    "bbox_norm": [
+      0.484476,
+      0.413972,
+      0.036869,
+      0.051746
+    ],
+    "img_width": 4032,
+    "img_height": 3024,
+    "station_height_pct": 5.17,
+    "station_width_pct": 3.69,
+    "aspect_ratio": 0.95,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.76,
+    "is_manually_verified": true
+  },
+  "100_austria_hollow-pine-contrails_3.jpg": {
+    "filename": "100_austria_hollow-pine-contrails_3.jpg",
+    "bbox_pixels": [
+      1546.6,
+      709.2,
+      1992.9,
+      995.4
+    ],
+    "bbox_norm": [
+      0.438934,
+      0.281839,
+      0.110687,
+      0.094652
+    ],
+    "img_width": 4032,
+    "img_height": 3024,
+    "station_height_pct": 9.47,
+    "station_width_pct": 11.07,
+    "aspect_ratio": 1.559,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.51,
+    "is_manually_verified": true
+  },
+  "100_austria_hollow-pine-contrails_4.jpg": {
+    "filename": "100_austria_hollow-pine-contrails_4.jpg",
+    "bbox_pixels": [
+      1871.3,
+      1114.9,
+      1984.7,
+      1236.2
+    ],
+    "bbox_norm": [
+      0.478169,
+      0.388745,
+      0.028137,
+      0.040103
+    ],
+    "img_width": 4032,
+    "img_height": 3024,
+    "station_height_pct": 4.01,
+    "station_width_pct": 2.81,
+    "aspect_ratio": 0.935,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 3.56,
+    "is_manually_verified": true
+  },
+  "100_bad-clay-climatologist_1.jpg": {
+    "filename": "100_bad-clay-climatologist_1.jpg",
+    "bbox_pixels": [
+      1256.8,
+      310.5,
+      1810.5,
+      683.1
+    ],
+    "bbox_norm": [
+      0.383409,
+      0.165589,
+      0.138422,
+      0.124191
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 12.42,
+    "station_width_pct": 13.84,
+    "aspect_ratio": 1.486,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.16,
+    "is_manually_verified": true
+  },
+  "100_bad-clay-climatologist_2.jpg": {
+    "filename": "100_bad-clay-climatologist_2.jpg",
+    "bbox_pixels": [
+      1287.8,
+      217.3,
+      1758.7,
+      776.2
+    ],
+    "bbox_norm": [
+      0.380821,
+      0.165589,
+      0.117723,
+      0.186287
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 18.63,
+    "station_width_pct": 11.77,
+    "aspect_ratio": 0.843,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.77,
+    "is_manually_verified": true
+  },
+  "100_bad-clay-climatologist_3.jpg": {
+    "filename": "100_bad-clay-climatologist_3.jpg",
+    "bbox_pixels": [
+      1386.2,
+      486.4,
+      1701.8,
+      838.3
+    ],
+    "bbox_norm": [
+      0.385996,
+      0.220785,
+      0.078913,
+      0.117292
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 11.73,
+    "station_width_pct": 7.89,
+    "aspect_ratio": 0.897,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.23,
+    "is_manually_verified": true
+  },
+  "100_bad-clay-climatologist_4.jpg": {
+    "filename": "100_bad-clay-climatologist_4.jpg",
+    "bbox_pixels": [
+      1209.7,
+      433.2,
+      1677.7,
+      744.4
+    ],
+    "bbox_norm": [
+      0.360922,
+      0.19627,
+      0.116987,
+      0.103718
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 10.37,
+    "station_width_pct": 11.7,
+    "aspect_ratio": 1.504,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.39,
+    "is_manually_verified": true
+  },
+  "100_basic-asparagus-raindrop_1.jpg": {
+    "filename": "100_basic-asparagus-raindrop_1.jpg",
+    "bbox_pixels": [
+      1569.2,
+      1307.9,
+      2271.7,
+      1645.5
+    ],
+    "bbox_norm": [
+      0.48011,
+      0.492238,
+      0.175614,
+      0.112549
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 11.25,
+    "station_width_pct": 17.56,
+    "aspect_ratio": 2.08,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.28,
+    "is_manually_verified": true
+  },
+  "100_basic-asparagus-raindrop_2.jpg": {
+    "filename": "100_basic-asparagus-raindrop_2.jpg",
+    "bbox_pixels": [
+      1759.4,
+      1218.6,
+      2345.4,
+      1684.3
+    ],
+    "bbox_norm": [
+      0.513098,
+      0.483829,
+      0.146507,
+      0.155239
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 15.52,
+    "station_width_pct": 14.65,
+    "aspect_ratio": 1.258,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.93,
+    "is_manually_verified": true
+  },
+  "100_basic-asparagus-raindrop_5.jpg": {
+    "filename": "100_basic-asparagus-raindrop_5.jpg",
+    "bbox_pixels": [
+      1421.7,
+      1168.2,
+      2461.8,
+      1727.0
+    ],
+    "bbox_norm": [
+      0.485446,
+      0.482536,
+      0.260026,
+      0.186287
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 18.63,
+    "station_width_pct": 26.0,
+    "aspect_ratio": 1.861,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.77,
+    "is_manually_verified": true
+  },
+  "100_beautiful-stone-water_1.jpg": {
+    "filename": "100_beautiful-stone-water_1.jpg",
+    "bbox_pixels": [
+      1757.9,
+      496.8,
+      1877.1,
+      596.1
+    ],
+    "bbox_norm": [
+      0.443726,
+      0.177878,
+      0.029107,
+      0.032342
+    ],
+    "img_width": 4096,
+    "img_height": 3072,
+    "station_height_pct": 3.23,
+    "station_width_pct": 2.91,
+    "aspect_ratio": 1.2,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 4.35,
+    "is_manually_verified": true
+  },
+  "100_beautiful-stone-water_2.jpg": {
+    "filename": "100_beautiful-stone-water_2.jpg",
+    "bbox_pixels": [
+      2350.0,
+      413.3,
+      2505.0,
+      528.6
+    ],
+    "bbox_norm": [
+      0.592658,
+      0.153299,
+      0.03784,
+      0.037516
+    ],
+    "img_width": 4096,
+    "img_height": 3072,
+    "station_height_pct": 3.75,
+    "station_width_pct": 3.78,
+    "aspect_ratio": 1.345,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 3.75,
+    "is_manually_verified": true
+  },
+  "100_beautiful-stone-water_3.jpg": {
+    "filename": "100_beautiful-stone-water_3.jpg",
+    "bbox_pixels": [
+      1424.4,
+      269.2,
+      1677.8,
+      480.3
+    ],
+    "bbox_norm": [
+      0.5069,
+      0.09185,
+      0.082794,
+      0.051746
+    ],
+    "img_width": 3060,
+    "img_height": 4080,
+    "station_height_pct": 5.17,
+    "station_width_pct": 8.28,
+    "aspect_ratio": 1.2,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.05,
+    "is_manually_verified": true
+  },
+  "100_beautiful-stone-water_4.jpg": {
+    "filename": "100_beautiful-stone-water_4.jpg",
+    "bbox_pixels": [
+      1144.7,
+      300.9,
+      1630.3,
+      533.1
+    ],
+    "bbox_norm": [
+      0.453428,
+      0.102199,
+      0.158689,
+      0.056921
+    ],
+    "img_width": 3060,
+    "img_height": 4080,
+    "station_height_pct": 5.69,
+    "station_width_pct": 15.87,
+    "aspect_ratio": 2.091,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 1.86,
+    "is_manually_verified": true
+  },
+  "100_beautiful-stone-water_5.jpg": {
+    "filename": "100_beautiful-stone-water_5.jpg",
+    "bbox_pixels": [
+      1419.4,
+      1504.9,
+      1567.8,
+      1594.9
+    ],
+    "bbox_norm": [
+      0.486201,
+      0.378396,
+      0.048297,
+      0.021992
+    ],
+    "img_width": 3072,
+    "img_height": 4096,
+    "station_height_pct": 2.2,
+    "station_width_pct": 4.83,
+    "aspect_ratio": 1.647,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 4.8,
+    "is_manually_verified": true
+  },
+  "100_belgium_agreeable-syrup-fahrenheit_1.jpg": {
+    "filename": "100_belgium_agreeable-syrup-fahrenheit_1.jpg",
+    "bbox_pixels": [
+      1459.7,
+      137.1,
+      1638.6,
+      244.4
+    ],
+    "bbox_norm": [
+      0.33619,
+      0.055196,
+      0.03881,
+      0.031048
+    ],
+    "img_width": 4608,
+    "img_height": 3456,
+    "station_height_pct": 3.1,
+    "station_width_pct": 3.88,
+    "aspect_ratio": 1.667,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 4.03,
+    "is_manually_verified": true
+  },
+  "100_belgium_agreeable-syrup-fahrenheit_2.jpg": {
+    "filename": "100_belgium_agreeable-syrup-fahrenheit_2.jpg",
+    "bbox_pixels": [
+      1477.0,
+      248.0,
+      1574.0,
+      295.0
+    ],
+    "bbox_norm": [
+      0.441406,
+      0.058919,
+      0.028067,
+      0.0102
+    ],
+    "img_width": 3456,
+    "img_height": 4608,
+    "station_height_pct": 1.02,
+    "station_width_pct": 2.81,
+    "aspect_ratio": 2.064,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_belgium_agreeable-syrup-fahrenheit_3.jpg": {
+    "filename": "100_belgium_agreeable-syrup-fahrenheit_3.jpg",
+    "bbox_pixels": [
+      1668.4,
+      351.7,
+      1775.7,
+      411.3
+    ],
+    "bbox_norm": [
+      0.373706,
+      0.110392,
+      0.023286,
+      0.017249
+    ],
+    "img_width": 4608,
+    "img_height": 3456,
+    "station_height_pct": 1.72,
+    "station_width_pct": 2.33,
+    "aspect_ratio": 1.8,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 7.25,
+    "is_manually_verified": true
+  },
+  "100_belgium_agreeable-syrup-fahrenheit_4.jpg": {
+    "filename": "100_belgium_agreeable-syrup-fahrenheit_4.jpg",
+    "bbox_pixels": [
+      1751.8,
+      286.1,
+      1871.1,
+      375.6
+    ],
+    "bbox_norm": [
+      0.393111,
+      0.095731,
+      0.025873,
+      0.025873
+    ],
+    "img_width": 4608,
+    "img_height": 3456,
+    "station_height_pct": 2.59,
+    "station_width_pct": 2.59,
+    "aspect_ratio": 1.333,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 4.83,
+    "is_manually_verified": true
+  },
+  "100_belgium_high-mauvelous-drought_1.jpg": {
+    "filename": "100_belgium_high-mauvelous-drought_1.jpg",
+    "bbox_pixels": [
+      1787.6,
+      900.1,
+      1883.0,
+      971.7
+    ],
+    "bbox_norm": [
+      0.398286,
+      0.270806,
+      0.020699,
+      0.020699
+    ],
+    "img_width": 4608,
+    "img_height": 3456,
+    "station_height_pct": 2.07,
+    "station_width_pct": 2.07,
+    "aspect_ratio": 1.333,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 6.04,
+    "is_manually_verified": true
+  },
+  "100_belgium_high-mauvelous-drought_2.jpg": {
+    "filename": "100_belgium_high-mauvelous-drought_2.jpg",
+    "bbox_pixels": [
+      1638.6,
+      1114.7,
+      1883.0,
+      1245.9
+    ],
+    "bbox_norm": [
+      0.382115,
+      0.341527,
+      0.05304,
+      0.037947
+    ],
+    "img_width": 4608,
+    "img_height": 3456,
+    "station_height_pct": 3.79,
+    "station_width_pct": 5.3,
+    "aspect_ratio": 1.864,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 3.29,
+    "is_manually_verified": true
+  },
+  "100_belgium_high-mauvelous-drought_3.jpg": {
+    "filename": "100_belgium_high-mauvelous-drought_3.jpg",
+    "bbox_pixels": [
+      1501.5,
+      1043.2,
+      1668.4,
+      1150.5
+    ],
+    "bbox_norm": [
+      0.343952,
+      0.317378,
+      0.036223,
+      0.031048
+    ],
+    "img_width": 4608,
+    "img_height": 3456,
+    "station_height_pct": 3.1,
+    "station_width_pct": 3.62,
+    "aspect_ratio": 1.556,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 4.03,
+    "is_manually_verified": true
+  },
+  "100_belgium_high-mauvelous-drought_4.jpg": {
+    "filename": "100_belgium_high-mauvelous-drought_4.jpg",
+    "bbox_pixels": [
+      1728.0,
+      894.2,
+      1883.0,
+      1019.4
+    ],
+    "bbox_norm": [
+      0.391818,
+      0.276843,
+      0.033635,
+      0.036223
+    ],
+    "img_width": 4608,
+    "img_height": 3456,
+    "station_height_pct": 3.62,
+    "station_width_pct": 3.36,
+    "aspect_ratio": 1.238,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 3.45,
+    "is_manually_verified": true
+  },
+  "100_belgium_high-mauvelous-drought_5.jpg": {
+    "filename": "100_belgium_high-mauvelous-drought_5.jpg",
+    "bbox_pixels": [
+      1555.1,
+      643.8,
+      1781.7,
+      798.8
+    ],
+    "bbox_norm": [
+      0.362063,
+      0.208711,
+      0.049159,
+      0.044847
+    ],
+    "img_width": 4608,
+    "img_height": 3456,
+    "station_height_pct": 4.48,
+    "station_width_pct": 4.92,
+    "aspect_ratio": 1.462,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.79,
+    "is_manually_verified": true
+  },
+  "100_belgium_high-mauvelous-drought_6.jpg": {
+    "filename": "100_belgium_high-mauvelous-drought_6.jpg",
+    "bbox_pixels": [
+      1543.2,
+      852.5,
+      1716.1,
+      953.8
+    ],
+    "bbox_norm": [
+      0.353655,
+      0.26132,
+      0.037516,
+      0.029323
+    ],
+    "img_width": 4608,
+    "img_height": 3456,
+    "station_height_pct": 2.93,
+    "station_width_pct": 3.75,
+    "aspect_ratio": 1.706,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 4.26,
+    "is_manually_verified": true
+  },
+  "100_belgium_hot-nickel-stratus_1.jpg": {
+    "filename": "100_belgium_hot-nickel-stratus_1.jpg",
+    "bbox_pixels": [
+      1698.2,
+      1466.5,
+      1906.8,
+      1609.5
+    ],
+    "bbox_norm": [
+      0.391171,
+      0.445019,
+      0.045278,
+      0.041397
+    ],
+    "img_width": 4608,
+    "img_height": 3456,
+    "station_height_pct": 4.14,
+    "station_width_pct": 4.53,
+    "aspect_ratio": 1.458,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 3.02,
+    "is_manually_verified": true
+  },
+  "100_belgium_hot-nickel-stratus_2.jpg": {
+    "filename": "100_belgium_hot-nickel-stratus_2.jpg",
+    "bbox_pixels": [
+      1573.0,
+      1532.0,
+      1799.5,
+      1710.9
+    ],
+    "bbox_norm": [
+      0.365944,
+      0.469168,
+      0.049159,
+      0.051746
+    ],
+    "img_width": 4608,
+    "img_height": 3456,
+    "station_height_pct": 5.17,
+    "station_width_pct": 4.92,
+    "aspect_ratio": 1.267,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.42,
+    "is_manually_verified": true
+  },
+  "100_belgium_hot-nickel-stratus_3.jpg": {
+    "filename": "100_belgium_hot-nickel-stratus_3.jpg",
+    "bbox_pixels": [
+      1418.0,
+      1359.2,
+      1781.7,
+      1579.7
+    ],
+    "bbox_norm": [
+      0.347186,
+      0.425183,
+      0.078913,
+      0.063821
+    ],
+    "img_width": 4608,
+    "img_height": 3456,
+    "station_height_pct": 6.38,
+    "station_width_pct": 7.89,
+    "aspect_ratio": 1.649,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.96,
+    "is_manually_verified": true
+  },
+  "100_belgium_hot-nickel-stratus_4.jpg": {
+    "filename": "100_belgium_hot-nickel-stratus_4.jpg",
+    "bbox_pixels": [
+      1650.5,
+      1472.4,
+      1960.5,
+      1663.2
+    ],
+    "bbox_norm": [
+      0.391818,
+      0.453644,
+      0.06727,
+      0.055196
+    ],
+    "img_width": 4608,
+    "img_height": 3456,
+    "station_height_pct": 5.52,
+    "station_width_pct": 6.73,
+    "aspect_ratio": 1.625,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.26,
+    "is_manually_verified": true
+  },
+  "100_bitter-chocolate-pollution_1.jpg": {
+    "filename": "100_bitter-chocolate-pollution_1.jpg",
+    "bbox_pixels": [
+      1850.4,
+      305.7,
+      2067.2,
+      675.1
+    ],
+    "bbox_norm": [
+      0.489695,
+      0.265375,
+      0.054198,
+      0.199927
+    ],
+    "img_width": 4000,
+    "img_height": 1848,
+    "station_height_pct": 19.99,
+    "station_width_pct": 5.42,
+    "aspect_ratio": 0.587,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 1.17,
+    "is_manually_verified": true
+  },
+  "100_bitter-chocolate-pollution_2.jpg": {
+    "filename": "100_bitter-chocolate-pollution_2.jpg",
+    "bbox_pixels": [
+      1215.3,
+      574.4,
+      2048.9,
+      1212.5
+    ],
+    "bbox_norm": [
+      0.408015,
+      0.483477,
+      0.208397,
+      0.345329
+    ],
+    "img_width": 4000,
+    "img_height": 1848,
+    "station_height_pct": 34.53,
+    "station_width_pct": 20.84,
+    "aspect_ratio": 1.306,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.68,
+    "is_manually_verified": true
+  },
+  "100_bitter-chocolate-pollution_3.jpg": {
+    "filename": "100_bitter-chocolate-pollution_3.jpg",
+    "bbox_pixels": [
+      1578.6,
+      675.1,
+      1926.7,
+      986.6
+    ],
+    "bbox_norm": [
+      0.438168,
+      0.449605,
+      0.087023,
+      0.168534
+    ],
+    "img_width": 4000,
+    "img_height": 1848,
+    "station_height_pct": 16.85,
+    "station_width_pct": 8.7,
+    "aspect_ratio": 1.118,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 1.39,
+    "is_manually_verified": true
+  },
+  "100_bitter-chocolate-pollution_4.jpg": {
+    "filename": "100_bitter-chocolate-pollution_4.jpg",
+    "bbox_pixels": [
+      1805.2,
+      662.4,
+      2117.6,
+      871.0
+    ],
+    "bbox_norm": [
+      0.490346,
+      0.414879,
+      0.07811,
+      0.112846
+    ],
+    "img_width": 4000,
+    "img_height": 1848,
+    "station_height_pct": 11.28,
+    "station_width_pct": 7.81,
+    "aspect_ratio": 1.498,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.07,
+    "is_manually_verified": true
+  },
+  "100_bitter-chocolate-pollution_5.jpg": {
+    "filename": "100_bitter-chocolate-pollution_5.jpg",
+    "bbox_pixels": [
+      1047.3,
+      498.0,
+      2848.9,
+      1447.7
+    ],
+    "bbox_norm": [
+      0.487023,
+      0.526437,
+      0.450382,
+      0.513863
+    ],
+    "img_width": 4000,
+    "img_height": 1848,
+    "station_height_pct": 51.39,
+    "station_width_pct": 45.04,
+    "aspect_ratio": 1.897,
+    "distance_category": "CLOSE_UP",
+    "recommended_zoom": 0.45,
+    "is_manually_verified": true
+  },
+  "100_bitter-chocolate-pollution_6.jpg": {
+    "filename": "100_bitter-chocolate-pollution_6.jpg",
+    "bbox_pixels": [
+      1435.1,
+      653.8,
+      1789.3,
+      864.5
+    ],
+    "bbox_norm": [
+      0.403053,
+      0.410776,
+      0.08855,
+      0.114008
+    ],
+    "img_width": 4000,
+    "img_height": 1848,
+    "station_height_pct": 11.4,
+    "station_width_pct": 8.85,
+    "aspect_ratio": 1.681,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.05,
+    "is_manually_verified": true
+  },
+  "100_blurry-clay-upwind_1.jpg": {
+    "filename": "100_blurry-clay-upwind_1.jpg",
+    "bbox_pixels": [
+      1883.0,
+      1287.1,
+      3013.6,
+      2038.2
+    ],
+    "bbox_norm": [
+      0.607212,
+      0.549806,
+      0.280401,
+      0.248383
+    ],
+    "img_width": 4032,
+    "img_height": 3024,
+    "station_height_pct": 24.84,
+    "station_width_pct": 28.04,
+    "aspect_ratio": 1.505,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.58,
+    "is_manually_verified": true
+  },
+  "100_blurry-clay-upwind_2.jpg": {
+    "filename": "100_blurry-clay-upwind_2.jpg",
+    "bbox_pixels": [
+      1249.2,
+      981.9,
+      1894.7,
+      1635.2
+    ],
+    "bbox_norm": [
+      0.389877,
+      0.43273,
+      0.160091,
+      0.216041
+    ],
+    "img_width": 4032,
+    "img_height": 3024,
+    "station_height_pct": 21.6,
+    "station_width_pct": 16.01,
+    "aspect_ratio": 0.988,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.66,
+    "is_manually_verified": true
+  },
+  "100_blurry-clay-upwind_3.jpg": {
+    "filename": "100_blurry-clay-upwind_3.jpg",
+    "bbox_pixels": [
+      1053.6,
+      645.5,
+      2735.8,
+      1576.5
+    ],
+    "bbox_norm": [
+      0.469922,
+      0.3674,
+      0.417206,
+      0.307891
+    ],
+    "img_width": 4032,
+    "img_height": 3024,
+    "station_height_pct": 30.79,
+    "station_width_pct": 41.72,
+    "aspect_ratio": 1.807,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.46,
+    "is_manually_verified": true
+  },
+  "100_blurry-clay-upwind_4.jpg": {
+    "filename": "100_blurry-clay-upwind_4.jpg",
+    "bbox_pixels": [
+      2078.6,
+      942.8,
+      2837.5,
+      1420.1
+    ],
+    "bbox_norm": [
+      0.609638,
+      0.390686,
+      0.188228,
+      0.157827
+    ],
+    "img_width": 4032,
+    "img_height": 3024,
+    "station_height_pct": 15.78,
+    "station_width_pct": 18.82,
+    "aspect_ratio": 1.59,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.91,
+    "is_manually_verified": true
+  },
+  "100_blustery-graphite-hydrometer_1.jpg": {
+    "filename": "100_blustery-graphite-hydrometer_1.jpg",
+    "bbox_pixels": [
+      1639.7,
+      1500.6,
+      2017.5,
+      1723.2
+    ],
+    "bbox_norm": [
+      0.60953,
+      0.402975,
+      0.125916,
+      0.055627
+    ],
+    "img_width": 3000,
+    "img_height": 4000,
+    "station_height_pct": 5.56,
+    "station_width_pct": 12.59,
+    "aspect_ratio": 1.698,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 1.94,
+    "is_manually_verified": true
+  },
+  "100_blustery-graphite-hydrometer_2.jpg": {
+    "filename": "100_blustery-graphite-hydrometer_2.jpg",
+    "bbox_pixels": [
+      1101.6,
+      1081.5,
+      1494.8,
+      1423.0
+    ],
+    "bbox_norm": [
+      0.43273,
+      0.313066,
+      0.131091,
+      0.085382
+    ],
+    "img_width": 3000,
+    "img_height": 4000,
+    "station_height_pct": 8.54,
+    "station_width_pct": 13.11,
+    "aspect_ratio": 1.152,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.26,
+    "is_manually_verified": true
+  },
+  "100_bouncy-garnet-twister_1.jpg": {
+    "filename": "100_bouncy-garnet-twister_1.jpg",
+    "bbox_pixels": [
+      1331.1,
+      630.2,
+      2027.9,
+      1314.3
+    ],
+    "bbox_norm": [
+      0.514554,
+      0.397154,
+      0.213454,
+      0.279431
+    ],
+    "img_width": 3264,
+    "img_height": 2448,
+    "station_height_pct": 27.94,
+    "station_width_pct": 21.35,
+    "aspect_ratio": 1.019,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.63,
+    "is_manually_verified": true
+  },
+  "100_bouncy-garnet-twister_2.jpg": {
+    "filename": "100_bouncy-garnet-twister_2.jpg",
+    "bbox_pixels": [
+      1654.2,
+      1083.1,
+      1917.0,
+      1184.4
+    ],
+    "bbox_norm": [
+      0.547057,
+      0.463131,
+      0.08053,
+      0.041397
+    ],
+    "img_width": 3264,
+    "img_height": 2448,
+    "station_height_pct": 4.14,
+    "station_width_pct": 8.05,
+    "aspect_ratio": 2.594,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 4.26,
+    "is_manually_verified": true
+  },
+  "100_bouncy-lilac-orographic_1.jpeg": {
+    "filename": "100_bouncy-lilac-orographic_1.jpeg",
+    "bbox_pixels": [
+      380.6,
+      84.9,
+      732.5,
+      364.3
+    ],
+    "bbox_norm": [
+      0.463777,
+      0.140362,
+      0.29323,
+      0.174644
+    ],
+    "img_width": 1200,
+    "img_height": 1600,
+    "station_height_pct": 17.46,
+    "station_width_pct": 29.32,
+    "aspect_ratio": 1.259,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 1.55,
+    "is_manually_verified": true
+  },
+  "100_bouncy-lilac-orographic_2.jpeg": {
+    "filename": "100_bouncy-lilac-orographic_2.jpeg",
+    "bbox_pixels": [
+      508.9,
+      312.5,
+      709.7,
+      505.0
+    ],
+    "bbox_norm": [
+      0.507762,
+      0.255498,
+      0.167313,
+      0.12031
+    ],
+    "img_width": 1200,
+    "img_height": 1600,
+    "station_height_pct": 12.03,
+    "station_width_pct": 16.73,
+    "aspect_ratio": 1.043,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.24,
+    "is_manually_verified": true
+  },
+  "100_brazil_helpful-myrtle-lenticular_1.jpg": {
+    "filename": "100_brazil_helpful-myrtle-lenticular_1.jpg",
+    "bbox_pixels": [
+      893.8,
+      963.7,
+      1013.0,
+      1053.1
+    ],
+    "bbox_norm": [
+      0.49655,
+      0.39392,
+      0.062096,
+      0.034929
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 3.49,
+    "station_width_pct": 6.21,
+    "aspect_ratio": 1.333,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 4.83,
+    "is_manually_verified": true
+  },
+  "100_brazil_helpful-myrtle-lenticular_2.jpg": {
+    "filename": "100_brazil_helpful-myrtle-lenticular_2.jpg",
+    "bbox_pixels": [
+      897.1,
+      791.5,
+      1032.9,
+      937.2
+    ],
+    "bbox_norm": [
+      0.502587,
+      0.337646,
+      0.07072,
+      0.056921
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 5.69,
+    "station_width_pct": 7.07,
+    "aspect_ratio": 0.932,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.96,
+    "is_manually_verified": true
+  },
+  "100_brazil_helpful-myrtle-lenticular_3.jpg": {
+    "filename": "100_brazil_helpful-myrtle-lenticular_3.jpg",
+    "bbox_pixels": [
+      705.0,
+      549.8,
+      1066.0,
+      771.6
+    ],
+    "bbox_norm": [
+      0.46119,
+      0.258085,
+      0.188012,
+      0.086675
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 8.67,
+    "station_width_pct": 18.8,
+    "aspect_ratio": 1.627,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.95,
+    "is_manually_verified": true
+  },
+  "100_brief-mandarin-drought_1.jpg": {
+    "filename": "100_brief-mandarin-drought_1.jpg",
+    "bbox_pixels": [
+      1619.7,
+      395.9,
+      2050.5,
+      846.1
+    ],
+    "bbox_norm": [
+      0.458765,
+      0.206986,
+      0.107697,
+      0.150065
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 15.01,
+    "station_width_pct": 10.77,
+    "aspect_ratio": 0.957,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.96,
+    "is_manually_verified": true
+  },
+  "100_brief-mandarin-drought_3.jpg": {
+    "filename": "100_brief-mandarin-drought_3.jpg",
+    "bbox_pixels": [
+      1646.8,
+      558.9,
+      1965.1,
+      935.3
+    ],
+    "bbox_norm": [
+      0.451488,
+      0.24903,
+      0.07956,
+      0.125485
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 12.55,
+    "station_width_pct": 7.96,
+    "aspect_ratio": 0.845,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.15,
+    "is_manually_verified": true
+  },
+  "100_brief-mandarin-drought_5.jpg": {
+    "filename": "100_brief-mandarin-drought_5.jpg",
+    "bbox_pixels": [
+      1992.2,
+      578.3,
+      2380.3,
+      865.5
+    ],
+    "bbox_norm": [
+      0.546572,
+      0.240621,
+      0.097025,
+      0.095731
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 9.57,
+    "station_width_pct": 9.7,
+    "aspect_ratio": 1.351,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.5,
+    "is_manually_verified": true
+  },
+  "100_bright-smoke-scud_1.jpg": {
+    "filename": "100_bright-smoke-scud_1.jpg",
+    "bbox_pixels": [
+      1980.4,
+      492.8,
+      2389.8,
+      755.1
+    ],
+    "bbox_norm": [
+      0.533473,
+      0.203105,
+      0.099935,
+      0.085382
+    ],
+    "img_width": 4096,
+    "img_height": 3072,
+    "station_height_pct": 8.54,
+    "station_width_pct": 9.99,
+    "aspect_ratio": 1.561,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.65,
+    "is_manually_verified": true
+  },
+  "100_bright-smoke-scud_2.jpg": {
+    "filename": "100_bright-smoke-scud_2.jpg",
+    "bbox_pixels": [
+      1849.3,
+      651.8,
+      2449.4,
+      1045.2
+    ],
+    "bbox_norm": [
+      0.524741,
+      0.276197,
+      0.146507,
+      0.128072
+    ],
+    "img_width": 4096,
+    "img_height": 3072,
+    "station_height_pct": 12.81,
+    "station_width_pct": 14.65,
+    "aspect_ratio": 1.525,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.1,
+    "is_manually_verified": true
+  },
+  "100_bright-smoke-scud_3.jpg": {
+    "filename": "100_bright-smoke-scud_3.jpg",
+    "bbox_pixels": [
+      1753.9,
+      1216.1,
+      2306.3,
+      1545.9
+    ],
+    "bbox_norm": [
+      0.495634,
+      0.449547,
+      0.134864,
+      0.107374
+    ],
+    "img_width": 4096,
+    "img_height": 3072,
+    "station_height_pct": 10.74,
+    "station_width_pct": 13.49,
+    "aspect_ratio": 1.675,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.31,
+    "is_manually_verified": true
+  },
+  "100_bright-smoke-scud_4.jpg": {
+    "filename": "100_bright-smoke-scud_4.jpg",
+    "bbox_pixels": [
+      1825.4,
+      786.9,
+      2306.3,
+      1092.9
+    ],
+    "bbox_norm": [
+      0.504366,
+      0.305951,
+      0.1174,
+      0.099612
+    ],
+    "img_width": 4096,
+    "img_height": 3072,
+    "station_height_pct": 9.96,
+    "station_width_pct": 11.74,
+    "aspect_ratio": 1.571,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.41,
+    "is_manually_verified": true
+  },
+  "100_brisk-magnolia-icicle_1.jpeg": {
+    "filename": "100_brisk-magnolia-icicle_1.jpeg",
+    "bbox_pixels": [
+      435.0,
+      390.0,
+      484.0,
+      428.0
+    ],
+    "bbox_norm": [
+      0.529988,
+      0.353806,
+      0.056517,
+      0.032872
+    ],
+    "img_width": 867,
+    "img_height": 1156,
+    "station_height_pct": 3.29,
+    "station_width_pct": 5.65,
+    "aspect_ratio": 1.289,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_brisk-magnolia-icicle_2.jpeg": {
+    "filename": "100_brisk-magnolia-icicle_2.jpeg",
+    "bbox_pixels": [
+      394.6,
+      263.2,
+      481.4,
+      323.0
+    ],
+    "bbox_norm": [
+      0.505175,
+      0.253558,
+      0.100043,
+      0.051746
+    ],
+    "img_width": 867,
+    "img_height": 1156,
+    "station_height_pct": 5.17,
+    "station_width_pct": 10.0,
+    "aspect_ratio": 1.45,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 7.22,
+    "is_manually_verified": true
+  },
+  "100_bulgaria_bald-sable-permafrost_1.jpg": {
+    "filename": "100_bulgaria_bald-sable-permafrost_1.jpg",
+    "bbox_pixels": [
+      880.5,
+      897.5,
+      1006.4,
+      980.3
+    ],
+    "bbox_norm": [
+      0.491376,
+      0.366753,
+      0.065545,
+      0.032342
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 3.23,
+    "station_width_pct": 6.55,
+    "aspect_ratio": 1.52,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 5.22,
+    "is_manually_verified": true
+  },
+  "100_bulgaria_bald-sable-permafrost_2.jpg": {
+    "filename": "100_bulgaria_bald-sable-permafrost_2.jpg",
+    "bbox_pixels": [
+      954.4,
+      290.6,
+      1094.1,
+      383.8
+    ],
+    "bbox_norm": [
+      0.533473,
+      0.234153,
+      0.072768,
+      0.064683
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 6.47,
+    "station_width_pct": 7.28,
+    "aspect_ratio": 1.5,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 4.64,
+    "is_manually_verified": true
+  },
+  "100_bulgaria_bald-sable-permafrost_3.jpg": {
+    "filename": "100_bulgaria_bald-sable-permafrost_3.jpg",
+    "bbox_pixels": [
+      930.2,
+      367.0,
+      1008.4,
+      443.4
+    ],
+    "bbox_norm": [
+      0.504851,
+      0.281371,
+      0.04075,
+      0.05304
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 5.3,
+    "station_width_pct": 4.08,
+    "aspect_ratio": 1.024,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 5.66,
+    "is_manually_verified": true
+  },
+  "100_bulgaria_bald-sable-permafrost_4.jpg": {
+    "filename": "100_bulgaria_bald-sable-permafrost_4.jpg",
+    "bbox_pixels": [
+      436.7,
+      142.4,
+      754.7,
+      476.9
+    ],
+    "bbox_norm": [
+      0.310263,
+      0.120957,
+      0.165589,
+      0.13066
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 13.07,
+    "station_width_pct": 16.56,
+    "aspect_ratio": 0.95,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.29,
+    "is_manually_verified": true
+  },
+  "100_bulgaria_bald-sable-permafrost_5.jpg": {
+    "filename": "100_bulgaria_bald-sable-permafrost_5.jpg",
+    "bbox_pixels": [
+      930.2,
+      1076.3,
+      1026.2,
+      1149.2
+    ],
+    "bbox_norm": [
+      0.509487,
+      0.43467,
+      0.050022,
+      0.028461
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 2.85,
+    "station_width_pct": 5.0,
+    "aspect_ratio": 1.318,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 5.93,
+    "is_manually_verified": true
+  },
+  "100_bulgaria_bald-sable-permafrost_6.jpg": {
+    "filename": "100_bulgaria_bald-sable-permafrost_6.jpg",
+    "bbox_pixels": [
+      787.0,
+      363.6,
+      885.6,
+      479.9
+    ],
+    "bbox_norm": [
+      0.435557,
+      0.292874,
+      0.051366,
+      0.080804
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 8.08,
+    "station_width_pct": 5.14,
+    "aspect_ratio": 0.848,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 3.71,
+    "is_manually_verified": true
+  },
+  "100_bulgaria_fine-stone-lightning_1.jpg": {
+    "filename": "100_bulgaria_fine-stone-lightning_1.jpg",
+    "bbox_pixels": [
+      1890.8,
+      856.7,
+      2023.8,
+      1001.5
+    ],
+    "bbox_norm": [
+      0.485446,
+      0.307245,
+      0.032988,
+      0.047865
+    ],
+    "img_width": 4032,
+    "img_height": 3024,
+    "station_height_pct": 4.79,
+    "station_width_pct": 3.3,
+    "aspect_ratio": 0.919,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.98,
+    "is_manually_verified": true
+  },
+  "100_bulgaria_fine-stone-lightning_2.jpg": {
+    "filename": "100_bulgaria_fine-stone-lightning_2.jpg",
+    "bbox_pixels": [
+      1096.7,
+      160.4,
+      1452.7,
+      399.0
+    ],
+    "bbox_norm": [
+      0.316138,
+      0.092497,
+      0.088292,
+      0.078913
+    ],
+    "img_width": 4032,
+    "img_height": 3024,
+    "station_height_pct": 7.89,
+    "station_width_pct": 8.83,
+    "aspect_ratio": 1.492,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.81,
+    "is_manually_verified": true
+  },
+  "100_bulgaria_fine-stone-lightning_3.jpg": {
+    "filename": "100_bulgaria_fine-stone-lightning_3.jpg",
+    "bbox_pixels": [
+      2782.2,
+      110.9,
+      3132.8,
+      368.5
+    ],
+    "bbox_norm": [
+      0.733513,
+      0.079272,
+      0.08695,
+      0.08517
+    ],
+    "img_width": 4032,
+    "img_height": 3024,
+    "station_height_pct": 8.52,
+    "station_width_pct": 8.69,
+    "aspect_ratio": 1.361,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.68,
+    "is_manually_verified": true
+  },
+  "100_bulgaria_fine-stone-lightning_4.jpg": {
+    "filename": "100_bulgaria_fine-stone-lightning_4.jpg",
+    "bbox_pixels": [
+      1774.0,
+      962.0,
+      1961.0,
+      1092.0
+    ],
+    "bbox_norm": [
+      0.46317,
+      0.339616,
+      0.046379,
+      0.042989
+    ],
+    "img_width": 4032,
+    "img_height": 3024,
+    "station_height_pct": 4.3,
+    "station_width_pct": 4.64,
+    "aspect_ratio": 1.438,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_bulgaria_jumpy-magnolia-tropic_1.jpg": {
+    "filename": "100_bulgaria_jumpy-magnolia-tropic_1.jpg",
+    "bbox_pixels": [
+      618.9,
+      655.7,
+      1128.9,
+      1076.3
+    ],
+    "bbox_norm": [
+      0.455153,
+      0.338292,
+      0.265632,
+      0.164295
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 16.43,
+    "station_width_pct": 26.56,
+    "aspect_ratio": 1.213,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 1.03,
+    "is_manually_verified": true
+  },
+  "100_bulgaria_jumpy-magnolia-tropic_2.jpg": {
+    "filename": "100_bulgaria_jumpy-magnolia-tropic_2.jpg",
+    "bbox_pixels": [
+      599.0,
+      612.7,
+      1248.1,
+      943.9
+    ],
+    "bbox_norm": [
+      0.481026,
+      0.30401,
+      0.338077,
+      0.129366
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 12.94,
+    "station_width_pct": 33.81,
+    "aspect_ratio": 1.96,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.3,
+    "is_manually_verified": true
+  },
+  "100_bulgaria_jumpy-magnolia-tropic_3.jpg": {
+    "filename": "100_bulgaria_jumpy-magnolia-tropic_3.jpg",
+    "bbox_pixels": [
+      807.7,
+      609.4,
+      1069.3,
+      1006.8
+    ],
+    "bbox_norm": [
+      0.488788,
+      0.315653,
+      0.136266,
+      0.155239
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 15.52,
+    "station_width_pct": 13.63,
+    "aspect_ratio": 0.658,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 1.09,
+    "is_manually_verified": true
+  },
+  "100_calm-mossy-monsoon_1.jpg": {
+    "filename": "100_calm-mossy-monsoon_1.jpg",
+    "bbox_pixels": [
+      1096.4,
+      1795.6,
+      1282.7,
+      1956.0
+    ],
+    "bbox_norm": [
+      0.396507,
+      0.468952,
+      0.062096,
+      0.040103
+    ],
+    "img_width": 3000,
+    "img_height": 4000,
+    "station_height_pct": 4.01,
+    "station_width_pct": 6.21,
+    "aspect_ratio": 1.161,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.69,
+    "is_manually_verified": true
+  },
+  "100_calm-mossy-monsoon_2.jpg": {
+    "filename": "100_calm-mossy-monsoon_2.jpg",
+    "bbox_pixels": [
+      1158.5,
+      1702.5,
+      1531.0,
+      1987.1
+    ],
+    "bbox_norm": [
+      0.448254,
+      0.46119,
+      0.124191,
+      0.071151
+    ],
+    "img_width": 3000,
+    "img_height": 4000,
+    "station_height_pct": 7.12,
+    "station_width_pct": 12.42,
+    "aspect_ratio": 1.309,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.52,
+    "is_manually_verified": true
+  },
+  "100_calm-mossy-monsoon_3.jpg": {
+    "filename": "100_calm-mossy-monsoon_3.jpg",
+    "bbox_pixels": [
+      946.3,
+      1630.0,
+      1086.0,
+      1743.9
+    ],
+    "bbox_norm": [
+      0.338724,
+      0.421734,
+      0.046572,
+      0.028461
+    ],
+    "img_width": 3000,
+    "img_height": 4000,
+    "station_height_pct": 2.85,
+    "station_width_pct": 4.66,
+    "aspect_ratio": 1.227,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 3.79,
+    "is_manually_verified": true
+  },
+  "100_calm-mossy-monsoon_4.jpg": {
+    "filename": "100_calm-mossy-monsoon_4.jpg",
+    "bbox_pixels": [
+      860.9,
+      1161.2,
+      1283.1,
+      1359.6
+    ],
+    "bbox_norm": [
+      0.437904,
+      0.386158,
+      0.172488,
+      0.060802
+    ],
+    "img_width": 2448,
+    "img_height": 3264,
+    "station_height_pct": 6.08,
+    "station_width_pct": 17.25,
+    "aspect_ratio": 2.128,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.18,
+    "is_manually_verified": true
+  },
+  "100_calm-mossy-monsoon_5.jpg": {
+    "filename": "100_calm-mossy-monsoon_5.jpg",
+    "bbox_pixels": [
+      1355.1,
+      1386.8,
+      1624.2,
+      1609.3
+    ],
+    "bbox_norm": [
+      0.49655,
+      0.374515,
+      0.089694,
+      0.055627
+    ],
+    "img_width": 3000,
+    "img_height": 4000,
+    "station_height_pct": 5.56,
+    "station_width_pct": 8.97,
+    "aspect_ratio": 1.209,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 1.94,
+    "is_manually_verified": true
+  },
+  "100_canada_droll-sandstone-graupel_5.jpg": {
+    "filename": "100_canada_droll-sandstone-graupel_5.jpg",
+    "bbox_pixels": [
+      1281.0,
+      1717.0,
+      1598.0,
+      1926.0
+    ],
+    "bbox_norm": [
+      0.414603,
+      0.393923,
+      0.091302,
+      0.045199
+    ],
+    "img_width": 3472,
+    "img_height": 4624,
+    "station_height_pct": 4.52,
+    "station_width_pct": 9.13,
+    "aspect_ratio": 1.517,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.07,
+    "is_manually_verified": true
+  },
+  "100_canada_droll-sandstone-graupel_6.jpg": {
+    "filename": "100_canada_droll-sandstone-graupel_6.jpg",
+    "bbox_pixels": [
+      2285.1,
+      1585.5,
+      2473.7,
+      1751.7
+    ],
+    "bbox_norm": [
+      0.51457,
+      0.480595,
+      0.040797,
+      0.047865
+    ],
+    "img_width": 4624,
+    "img_height": 3472,
+    "station_height_pct": 4.79,
+    "station_width_pct": 4.08,
+    "aspect_ratio": 1.135,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.6,
+    "is_manually_verified": true
+  },
+  "100_canada_droll-sandstone-graupel_7.jpg": {
+    "filename": "100_canada_droll-sandstone-graupel_7.jpg",
+    "bbox_pixels": [
+      2208.7,
+      1536.1,
+      2523.1,
+      1724.8
+    ],
+    "bbox_norm": [
+      0.511656,
+      0.469599,
+      0.067996,
+      0.054334
+    ],
+    "img_width": 4624,
+    "img_height": 3472,
+    "station_height_pct": 5.43,
+    "station_width_pct": 6.8,
+    "aspect_ratio": 1.667,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.29,
+    "is_manually_verified": true
+  },
+  "100_canada_droll-sandstone-graupel_8.jpg": {
+    "filename": "100_canada_droll-sandstone-graupel_8.jpg",
+    "bbox_pixels": [
+      2204.0,
+      1600.0,
+      2298.0,
+      1688.0
+    ],
+    "bbox_norm": [
+      0.486808,
+      0.473502,
+      0.020329,
+      0.025346
+    ],
+    "img_width": 4624,
+    "img_height": 3472,
+    "station_height_pct": 2.53,
+    "station_width_pct": 2.03,
+    "aspect_ratio": 1.068,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_canada_dry-jonquil-hail_1.jpg": {
+    "filename": "100_canada_dry-jonquil-hail_1.jpg",
+    "bbox_pixels": [
+      638.8,
+      314.6,
+      744.7,
+      374.2
+    ],
+    "bbox_norm": [
+      0.360285,
+      0.134541,
+      0.055196,
+      0.023286
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 2.33,
+    "station_width_pct": 5.52,
+    "aspect_ratio": 1.778,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 7.25,
+    "is_manually_verified": true
+  },
+  "100_canada_dry-jonquil-hail_4.jpg": {
+    "filename": "100_canada_dry-jonquil-hail_4.jpg",
+    "bbox_pixels": [
+      526.2,
+      0.0,
+      910.3,
+      609.4
+    ],
+    "bbox_norm": [
+      0.374084,
+      0.119017,
+      0.200086,
+      0.238034
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 23.8,
+    "station_width_pct": 20.01,
+    "aspect_ratio": 0.63,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.71,
+    "is_manually_verified": true
+  },
+  "100_canada_dry-jonquil-hail_5.jpg": {
+    "filename": "100_canada_dry-jonquil-hail_5.jpg",
+    "bbox_pixels": [
+      503.0,
+      427.2,
+      645.4,
+      500.1
+    ],
+    "bbox_norm": [
+      0.299051,
+      0.181113,
+      0.07417,
+      0.028461
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 2.85,
+    "station_width_pct": 7.42,
+    "aspect_ratio": 1.955,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 5.93,
+    "is_manually_verified": true
+  },
+  "100_canada_flat-basil-isotherm_1.jpg": {
+    "filename": "100_canada_flat-basil-isotherm_1.jpg",
+    "bbox_pixels": [
+      906.0,
+      709.8,
+      984.2,
+      775.0
+    ],
+    "bbox_norm": [
+      0.492238,
+      0.515524,
+      0.04075,
+      0.045278
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 4.53,
+    "station_width_pct": 4.08,
+    "aspect_ratio": 1.2,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 6.63,
+    "is_manually_verified": true
+  },
+  "100_canada_flat-basil-isotherm_4.jpg": {
+    "filename": "100_canada_flat-basil-isotherm_4.jpg",
+    "bbox_pixels": [
+      956.3,
+      534.6,
+      1109.0,
+      611.0
+    ],
+    "bbox_norm": [
+      0.53784,
+      0.397801,
+      0.07956,
+      0.05304
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 5.3,
+    "station_width_pct": 7.96,
+    "aspect_ratio": 2.0,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 5.66,
+    "is_manually_verified": true
+  },
+  "100_canada_gorgeous-fossilized-water_1.jpg": {
+    "filename": "100_canada_gorgeous-fossilized-water_1.jpg",
+    "bbox_pixels": [
+      837.1,
+      652.0,
+      885.5,
+      702.3
+    ],
+    "bbox_norm": [
+      0.448577,
+      0.470246,
+      0.025226,
+      0.034929
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 3.49,
+    "station_width_pct": 2.52,
+    "aspect_ratio": 0.963,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 8.59,
+    "is_manually_verified": true
+  },
+  "100_canada_gorgeous-fossilized-water_2.jpg": {
+    "filename": "100_canada_gorgeous-fossilized-water_2.jpg",
+    "bbox_pixels": [
+      878.0,
+      555.1,
+      973.0,
+      618.5
+    ],
+    "bbox_norm": [
+      0.48205,
+      0.407503,
+      0.049483,
+      0.043984
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 4.4,
+    "station_width_pct": 4.95,
+    "aspect_ratio": 1.5,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 6.82,
+    "is_manually_verified": true
+  },
+  "100_canada_gorgeous-fossilized-water_3.jpg": {
+    "filename": "100_canada_gorgeous-fossilized-water_3.jpg",
+    "bbox_pixels": [
+      906.0,
+      570.0,
+      958.1,
+      614.7
+    ],
+    "bbox_norm": [
+      0.485446,
+      0.411384,
+      0.027167,
+      0.031048
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 3.1,
+    "station_width_pct": 2.72,
+    "aspect_ratio": 1.167,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 9.66,
+    "is_manually_verified": true
+  },
+  "100_canada_gorgeous-fossilized-water_4.jpg": {
+    "filename": "100_canada_gorgeous-fossilized-water_4.jpg",
+    "bbox_pixels": [
+      933.9,
+      478.8,
+      1043.8,
+      547.7
+    ],
+    "bbox_norm": [
+      0.515039,
+      0.356404,
+      0.057244,
+      0.047865
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 4.79,
+    "station_width_pct": 5.72,
+    "aspect_ratio": 1.595,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 6.27,
+    "is_manually_verified": true
+  },
+  "100_careful-pear-meteorologist_1.jpeg": {
+    "filename": "100_careful-pear-meteorologist_1.jpeg",
+    "bbox_pixels": [
+      386.0,
+      266.0,
+      598.0,
+      429.0
+    ],
+    "bbox_norm": [
+      0.546667,
+      0.217188,
+      0.235556,
+      0.101875
+    ],
+    "img_width": 900,
+    "img_height": 1600,
+    "station_height_pct": 10.19,
+    "station_width_pct": 23.56,
+    "aspect_ratio": 1.301,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.65,
+    "is_manually_verified": true
+  },
+  "100_careful-pear-meteorologist_2.jpeg": {
+    "filename": "100_careful-pear-meteorologist_2.jpeg",
+    "bbox_pixels": [
+      367.2,
+      227.7,
+      534.9,
+      405.7
+    ],
+    "bbox_norm": [
+      0.50115,
+      0.19793,
+      0.186287,
+      0.111255
+    ],
+    "img_width": 900,
+    "img_height": 1600,
+    "station_height_pct": 11.13,
+    "station_width_pct": 18.63,
+    "aspect_ratio": 0.942,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.43,
+    "is_manually_verified": true
+  },
+  "100_cheerful-vermilion-meteorologist_1.jpeg": {
+    "filename": "100_cheerful-vermilion-meteorologist_1.jpeg",
+    "bbox_pixels": [
+      413.3,
+      393.3,
+      458.9,
+      420.2
+    ],
+    "bbox_norm": [
+      0.56127,
+      0.254204,
+      0.058606,
+      0.016818
+    ],
+    "img_width": 777,
+    "img_height": 1600,
+    "station_height_pct": 1.68,
+    "station_width_pct": 5.86,
+    "aspect_ratio": 1.692,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 16.05,
+    "is_manually_verified": true
+  },
+  "100_cheerful-vermilion-meteorologist_2.jpeg": {
+    "filename": "100_cheerful-vermilion-meteorologist_2.jpeg",
+    "bbox_pixels": [
+      411.3,
+      217.3,
+      463.0,
+      281.5
+    ],
+    "bbox_norm": [
+      0.562602,
+      0.155886,
+      0.066598,
+      0.040103
+    ],
+    "img_width": 777,
+    "img_height": 1600,
+    "station_height_pct": 4.01,
+    "station_width_pct": 6.66,
+    "aspect_ratio": 0.806,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 6.73,
+    "is_manually_verified": true
+  },
+  "100_cheerful-vermilion-meteorologist_4.jpg": {
+    "filename": "100_cheerful-vermilion-meteorologist_4.jpg",
+    "bbox_pixels": [
+      965.6,
+      558.9,
+      1219.1,
+      698.6
+    ],
+    "bbox_norm": [
+      0.273091,
+      0.279183,
+      0.063389,
+      0.062041
+    ],
+    "img_width": 4000,
+    "img_height": 2252,
+    "station_height_pct": 6.2,
+    "station_width_pct": 6.34,
+    "aspect_ratio": 1.815,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 3.09,
+    "is_manually_verified": true
+  },
+  "100_cheesy-blue-windstorm_1.jpg": {
+    "filename": "100_cheesy-blue-windstorm_1.jpg",
+    "bbox_pixels": [
+      1698.9,
+      987.0,
+      1947.0,
+      1140.1
+    ],
+    "bbox_norm": [
+      0.446798,
+      0.347564,
+      0.060802,
+      0.050022
+    ],
+    "img_width": 4080,
+    "img_height": 3060,
+    "station_height_pct": 5.0,
+    "station_width_pct": 6.08,
+    "aspect_ratio": 1.621,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.82,
+    "is_manually_verified": true
+  },
+  "100_cheesy-blue-windstorm_2.jpg": {
+    "filename": "100_cheesy-blue-windstorm_2.jpg",
+    "bbox_pixels": [
+      1297.8,
+      828.7,
+      1530.0,
+      1055.6
+    ],
+    "bbox_norm": [
+      0.346539,
+      0.307891,
+      0.056921,
+      0.07417
+    ],
+    "img_width": 4080,
+    "img_height": 3060,
+    "station_height_pct": 7.42,
+    "station_width_pct": 5.69,
+    "aspect_ratio": 1.023,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.9,
+    "is_manually_verified": true
+  },
+  "100_cheesy-blue-windstorm_3.jpg": {
+    "filename": "100_cheesy-blue-windstorm_3.jpg",
+    "bbox_pixels": [
+      1989.0,
+      765.0,
+      2707.0,
+      1314.0
+    ],
+    "bbox_norm": [
+      0.76732,
+      0.254779,
+      0.234641,
+      0.134559
+    ],
+    "img_width": 3060,
+    "img_height": 4080,
+    "station_height_pct": 13.46,
+    "station_width_pct": 23.46,
+    "aspect_ratio": 1.308,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 0.79,
+    "is_manually_verified": true
+  },
+  "100_cheesy-blue-windstorm_4.jpg": {
+    "filename": "100_cheesy-blue-windstorm_4.jpg",
+    "bbox_pixels": [
+      1677.8,
+      411.7,
+      1936.4,
+      622.8
+    ],
+    "bbox_norm": [
+      0.442917,
+      0.169038,
+      0.063389,
+      0.068995
+    ],
+    "img_width": 4080,
+    "img_height": 3060,
+    "station_height_pct": 6.9,
+    "station_width_pct": 6.34,
+    "aspect_ratio": 1.225,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.05,
+    "is_manually_verified": true
+  },
+  "100_chilly-heather-atmosphere_1.jpg": {
+    "filename": "100_chilly-heather-atmosphere_1.jpg",
+    "bbox_pixels": [
+      728.0,
+      0.0,
+      1320.0,
+      744.0
+    ],
+    "bbox_norm": [
+      0.333333,
+      0.091176,
+      0.192708,
+      0.182353
+    ],
+    "img_width": 3072,
+    "img_height": 4080,
+    "station_height_pct": 18.24,
+    "station_width_pct": 19.27,
+    "aspect_ratio": 0.796,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.58,
+    "is_manually_verified": true
+  },
+  "100_chilly-heather-atmosphere_2.jpg": {
+    "filename": "100_chilly-heather-atmosphere_2.jpg",
+    "bbox_pixels": [
+      939.6,
+      633.4,
+      1631.0,
+      1092.6
+    ],
+    "bbox_norm": [
+      0.418388,
+      0.211514,
+      0.225077,
+      0.112549
+    ],
+    "img_width": 3072,
+    "img_height": 4080,
+    "station_height_pct": 11.25,
+    "station_width_pct": 22.51,
+    "aspect_ratio": 1.506,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 0.94,
+    "is_manually_verified": true
+  },
+  "100_chilly-heather-atmosphere_3.jpg": {
+    "filename": "100_chilly-heather-atmosphere_3.jpg",
+    "bbox_pixels": [
+      411.8,
+      686.2,
+      1198.2,
+      1235.1
+    ],
+    "bbox_norm": [
+      0.262037,
+      0.235446,
+      0.256003,
+      0.134541
+    ],
+    "img_width": 3072,
+    "img_height": 4080,
+    "station_height_pct": 13.45,
+    "station_width_pct": 25.6,
+    "aspect_ratio": 1.433,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 0.79,
+    "is_manually_verified": true
+  },
+  "100_chilly-heather-atmosphere_4.jpg": {
+    "filename": "100_chilly-heather-atmosphere_4.jpg",
+    "bbox_pixels": [
+      939.6,
+      438.1,
+      1430.4,
+      1214.0
+    ],
+    "bbox_norm": [
+      0.385743,
+      0.202458,
+      0.159787,
+      0.190168
+    ],
+    "img_width": 3072,
+    "img_height": 4080,
+    "station_height_pct": 19.02,
+    "station_width_pct": 15.98,
+    "aspect_ratio": 0.633,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.56,
+    "is_manually_verified": true
+  },
+  "100_clean-canvas-hygrometer_1.jpg": {
+    "filename": "100_clean-canvas-hygrometer_1.jpg",
+    "bbox_pixels": [
+      1646.8,
+      791.7,
+      2360.9,
+      1179.8
+    ],
+    "bbox_norm": [
+      0.50097,
+      0.32859,
+      0.178525,
+      0.129366
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 12.94,
+    "station_width_pct": 17.85,
+    "aspect_ratio": 1.84,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.11,
+    "is_manually_verified": true
+  },
+  "100_clean-canvas-hygrometer_2.jpg": {
+    "filename": "100_clean-canvas-hygrometer_2.jpg",
+    "bbox_pixels": [
+      1106.3,
+      836.1,
+      1372.3,
+      1000.7
+    ],
+    "bbox_norm": [
+      0.379689,
+      0.375162,
+      0.081501,
+      0.06727
+    ],
+    "img_width": 3264,
+    "img_height": 2448,
+    "station_height_pct": 6.73,
+    "station_width_pct": 8.15,
+    "aspect_ratio": 1.615,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.62,
+    "is_manually_verified": true
+  },
+  "100_clean-rose-flood_1.jpg": {
+    "filename": "100_clean-rose-flood_1.jpg",
+    "bbox_pixels": [
+      1545.9,
+      2765.1,
+      2225.8,
+      3218.4
+    ],
+    "bbox_norm": [
+      0.269103,
+      0.758563,
+      0.097025,
+      0.114934
+    ],
+    "img_width": 7008,
+    "img_height": 3944,
+    "station_height_pct": 11.49,
+    "station_width_pct": 9.7,
+    "aspect_ratio": 1.5,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 0.95,
+    "is_manually_verified": true
+  },
+  "100_clean-rose-flood_2.jpg": {
+    "filename": "100_clean-rose-flood_2.jpg",
+    "bbox_pixels": [
+      3129.5,
+      401.9,
+      3760.8,
+      931.5
+    ],
+    "bbox_norm": [
+      0.491603,
+      0.16904,
+      0.090076,
+      0.134283
+    ],
+    "img_width": 7008,
+    "img_height": 3944,
+    "station_height_pct": 13.43,
+    "station_width_pct": 9.01,
+    "aspect_ratio": 1.192,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 0.82,
+    "is_manually_verified": true
+  },
+  "100_clear-emerald-ozone_1.jpg": {
+    "filename": "100_clear-emerald-ozone_1.jpg",
+    "bbox_pixels": [
+      1522.0,
+      125.0,
+      1845.0,
+      358.0
+    ],
+    "bbox_norm": [
+      0.550163,
+      0.059191,
+      0.105556,
+      0.057108
+    ],
+    "img_width": 3060,
+    "img_height": 4080,
+    "station_height_pct": 5.71,
+    "station_width_pct": 10.56,
+    "aspect_ratio": 1.386,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 1.85,
+    "is_manually_verified": true
+  },
+  "100_clear-emerald-ozone_2.jpg": {
+    "filename": "100_clear-emerald-ozone_2.jpg",
+    "bbox_pixels": [
+      742.0,
+      1690.0,
+      813.0,
+      1761.0
+    ],
+    "bbox_norm": [
+      0.254085,
+      0.422917,
+      0.023203,
+      0.017402
+    ],
+    "img_width": 3060,
+    "img_height": 4080,
+    "station_height_pct": 1.74,
+    "station_width_pct": 2.32,
+    "aspect_ratio": 1.0,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_clear-emerald-ozone_3.jpg": {
+    "filename": "100_clear-emerald-ozone_3.jpg",
+    "bbox_pixels": [
+      1128.9,
+      649.2,
+      1429.7,
+      929.0
+    ],
+    "bbox_norm": [
+      0.313551,
+      0.25787,
+      0.073739,
+      0.091419
+    ],
+    "img_width": 4080,
+    "img_height": 3060,
+    "station_height_pct": 9.14,
+    "station_width_pct": 7.37,
+    "aspect_ratio": 1.075,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.54,
+    "is_manually_verified": true
+  },
+  "100_clear-flint-icicle_10.jpg": {
+    "filename": "100_clear-flint-icicle_10.jpg",
+    "bbox_pixels": [
+      2008.0,
+      497.0,
+      2128.0,
+      574.0
+    ],
+    "bbox_norm": [
+      0.517,
+      0.1785,
+      0.03,
+      0.025667
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 2.57,
+    "station_width_pct": 3.0,
+    "aspect_ratio": 1.558,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_clear-flint-icicle_4.jpg": {
+    "filename": "100_clear-flint-icicle_4.jpg",
+    "bbox_pixels": [
+      2050.5,
+      690.8,
+      2143.6,
+      784.0
+    ],
+    "bbox_norm": [
+      0.524256,
+      0.245796,
+      0.023286,
+      0.031048
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 3.1,
+    "station_width_pct": 2.33,
+    "aspect_ratio": 1.0,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 4.64,
+    "is_manually_verified": true
+  },
+  "100_clear-flint-icicle_8.jpg": {
+    "filename": "100_clear-flint-icicle_8.jpg",
+    "bbox_pixels": [
+      2120.3,
+      935.3,
+      2190.2,
+      993.5
+    ],
+    "bbox_norm": [
+      0.53881,
+      0.321475,
+      0.017464,
+      0.019405
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 1.94,
+    "station_width_pct": 1.75,
+    "aspect_ratio": 1.2,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 7.42,
+    "is_manually_verified": true
+  },
+  "100_clear-flint-icicle_9.jpg": {
+    "filename": "100_clear-flint-icicle_9.jpg",
+    "bbox_pixels": [
+      1749.0,
+      846.0,
+      2138.0,
+      1284.0
+    ],
+    "bbox_norm": [
+      0.485875,
+      0.355,
+      0.09725,
+      0.146
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 14.6,
+    "station_width_pct": 9.72,
+    "aspect_ratio": 0.888,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 0.99,
+    "is_manually_verified": true
+  },
+  "100_cloudy-butter-cloudburst_1.jpg": {
+    "filename": "100_cloudy-butter-cloudburst_1.jpg",
+    "bbox_pixels": [
+      1761.8,
+      910.1,
+      2004.2,
+      1120.7
+    ],
+    "bbox_norm": [
+      0.461525,
+      0.33053,
+      0.059417,
+      0.068564
+    ],
+    "img_width": 4080,
+    "img_height": 3072,
+    "station_height_pct": 6.86,
+    "station_width_pct": 5.94,
+    "aspect_ratio": 1.151,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.05,
+    "is_manually_verified": true
+  },
+  "100_cloudy-butter-cloudburst_2.jpg": {
+    "filename": "100_cloudy-butter-cloudburst_2.jpg",
+    "bbox_pixels": [
+      1801.6,
+      1144.5,
+      2143.3,
+      1339.3
+    ],
+    "bbox_norm": [
+      0.483441,
+      0.404269,
+      0.083768,
+      0.063389
+    ],
+    "img_width": 4080,
+    "img_height": 3072,
+    "station_height_pct": 6.34,
+    "station_width_pct": 8.38,
+    "aspect_ratio": 1.755,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.22,
+    "is_manually_verified": true
+  },
+  "100_cloudy-butter-cloudburst_3.jpg": {
+    "filename": "100_cloudy-butter-cloudburst_3.jpg",
+    "bbox_pixels": [
+      1666.4,
+      1148.5,
+      1972.4,
+      1315.4
+    ],
+    "bbox_norm": [
+      0.44594,
+      0.401035,
+      0.075002,
+      0.054334
+    ],
+    "img_width": 4080,
+    "img_height": 3072,
+    "station_height_pct": 5.43,
+    "station_width_pct": 7.5,
+    "aspect_ratio": 1.833,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.59,
+    "is_manually_verified": true
+  },
+  "100_cloudy-butter-cloudburst_4.jpg": {
+    "filename": "100_cloudy-butter-cloudburst_4.jpg",
+    "bbox_pixels": [
+      1853.2,
+      882.3,
+      2087.7,
+      1140.6
+    ],
+    "bbox_norm": [
+      0.482954,
+      0.329237,
+      0.057469,
+      0.084088
+    ],
+    "img_width": 4080,
+    "img_height": 3072,
+    "station_height_pct": 8.41,
+    "station_width_pct": 5.75,
+    "aspect_ratio": 0.908,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.67,
+    "is_manually_verified": true
+  },
+  "100_cloudy-mauve-precipitation_1.jpg": {
+    "filename": "100_cloudy-mauve-precipitation_1.jpg",
+    "bbox_pixels": [
+      2888.5,
+      838.0,
+      3172.5,
+      1012.1
+    ],
+    "bbox_norm": [
+      0.757634,
+      0.501656,
+      0.070992,
+      0.094385
+    ],
+    "img_width": 4000,
+    "img_height": 1844,
+    "station_height_pct": 9.44,
+    "station_width_pct": 7.1,
+    "aspect_ratio": 1.632,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.48,
+    "is_manually_verified": true
+  },
+  "100_clumsy-phlox-rainbow_1.jpg": {
+    "filename": "100_clumsy-phlox-rainbow_1.jpg",
+    "bbox_pixels": [
+      1676.5,
+      484.6,
+      1950.9,
+      651.5
+    ],
+    "bbox_norm": [
+      0.453425,
+      0.307389,
+      0.068598,
+      0.090334
+    ],
+    "img_width": 4000,
+    "img_height": 1848,
+    "station_height_pct": 9.03,
+    "station_width_pct": 6.86,
+    "aspect_ratio": 1.644,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.59,
+    "is_manually_verified": true
+  },
+  "100_clumsy-phlox-rainbow_2.jpg": {
+    "filename": "100_clumsy-phlox-rainbow_2.jpg",
+    "bbox_pixels": [
+      1905.3,
+      540.8,
+      2018.3,
+      653.8
+    ],
+    "bbox_norm": [
+      0.490458,
+      0.323205,
+      0.028244,
+      0.061135
+    ],
+    "img_width": 4000,
+    "img_height": 1848,
+    "station_height_pct": 6.11,
+    "station_width_pct": 2.82,
+    "aspect_ratio": 1.0,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 3.82,
+    "is_manually_verified": true
+  },
+  "100_convective-chestnut-moisture_2.jpg": {
+    "filename": "100_convective-chestnut-moisture_2.jpg",
+    "bbox_pixels": [
+      936.0,
+      600.0,
+      1712.0,
+      1527.0
+    ],
+    "bbox_norm": [
+      0.441333,
+      0.265875,
+      0.258667,
+      0.23175
+    ],
+    "img_width": 3000,
+    "img_height": 4000,
+    "station_height_pct": 23.18,
+    "station_width_pct": 25.87,
+    "aspect_ratio": 0.837,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.47,
+    "is_manually_verified": true
+  },
+  "100_convective-chestnut-moisture_3.jpg": {
+    "filename": "100_convective-chestnut-moisture_3.jpg",
+    "bbox_pixels": [
+      713.5,
+      46.6,
+      2322.8,
+      1247.1
+    ],
+    "bbox_norm": [
+      0.379528,
+      0.21561,
+      0.402329,
+      0.400172
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 40.02,
+    "station_width_pct": 40.23,
+    "aspect_ratio": 1.341,
+    "distance_category": "CLOSE_UP",
+    "recommended_zoom": 0.36,
+    "is_manually_verified": true
+  },
+  "100_convective-chestnut-moisture_4.jpg": {
+    "filename": "100_convective-chestnut-moisture_4.jpg",
+    "bbox_pixels": [
+      1219.0,
+      0.0,
+      2052.0,
+      462.0
+    ],
+    "bbox_norm": [
+      0.545167,
+      0.05775,
+      0.277667,
+      0.1155
+    ],
+    "img_width": 3000,
+    "img_height": 4000,
+    "station_height_pct": 11.55,
+    "station_width_pct": 27.77,
+    "aspect_ratio": 1.803,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 0.94,
+    "is_manually_verified": true
+  },
+  "100_creamy-gainsboro-sun_1.jpg": {
+    "filename": "100_creamy-gainsboro-sun_1.jpg",
+    "bbox_pixels": [
+      1984.4,
+      1163.5,
+      2214.7,
+      1375.0
+    ],
+    "bbox_norm": [
+      0.524896,
+      0.679481,
+      0.057577,
+      0.113207
+    ],
+    "img_width": 4000,
+    "img_height": 1868,
+    "station_height_pct": 11.32,
+    "station_width_pct": 5.76,
+    "aspect_ratio": 1.089,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.04,
+    "is_manually_verified": true
+  },
+  "100_creamy-gainsboro-sun_2.jpg": {
+    "filename": "100_creamy-gainsboro-sun_2.jpg",
+    "bbox_pixels": [
+      751.1,
+      1231.7,
+      1203.1,
+      1647.0
+    ],
+    "bbox_norm": [
+      0.244275,
+      0.770527,
+      0.112977,
+      0.222306
+    ],
+    "img_width": 4000,
+    "img_height": 1868,
+    "station_height_pct": 22.23,
+    "station_width_pct": 11.3,
+    "aspect_ratio": 1.088,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 1.04,
+    "is_manually_verified": true
+  },
+  "100_cyprus_delightful-mauve-cumulonimbus_1.jpg": {
+    "filename": "100_cyprus_delightful-mauve-cumulonimbus_1.jpg",
+    "bbox_pixels": [
+      812.8,
+      50.3,
+      1131.4,
+      210.5
+    ],
+    "bbox_norm": [
+      0.506307,
+      0.090556,
+      0.165912,
+      0.111255
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 11.13,
+    "station_width_pct": 16.59,
+    "aspect_ratio": 1.988,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.7,
+    "is_manually_verified": true
+  },
+  "100_cyprus_delightful-mauve-cumulonimbus_2.jpg": {
+    "filename": "100_cyprus_delightful-mauve-cumulonimbus_2.jpg",
+    "bbox_pixels": [
+      682.4,
+      158.3,
+      978.6,
+      424.7
+    ],
+    "bbox_norm": [
+      0.432568,
+      0.202458,
+      0.154269,
+      0.184994
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 18.5,
+    "station_width_pct": 15.43,
+    "aspect_ratio": 1.112,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 1.62,
+    "is_manually_verified": true
+  },
+  "100_cyprus_delightful-mauve-cumulonimbus_3.jpg": {
+    "filename": "100_cyprus_delightful-mauve-cumulonimbus_3.jpg",
+    "bbox_pixels": [
+      874.3,
+      184.4,
+      1081.1,
+      368.8
+    ],
+    "bbox_norm": [
+      0.509217,
+      0.192109,
+      0.107697,
+      0.128072
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 12.81,
+    "station_width_pct": 10.77,
+    "aspect_ratio": 1.121,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.34,
+    "is_manually_verified": true
+  },
+  "100_cyprus_delightful-mauve-cumulonimbus_4.jpg": {
+    "filename": "100_cyprus_delightful-mauve-cumulonimbus_4.jpg",
+    "bbox_pixels": [
+      994.7,
+      271.7,
+      1084.8,
+      451.0
+    ],
+    "bbox_norm": [
+      0.541526,
+      0.250917,
+      0.046942,
+      0.124522
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 12.45,
+    "station_width_pct": 4.69,
+    "aspect_ratio": 0.503,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.41,
+    "is_manually_verified": true
+  },
+  "100_czech-republic_electric-almond-altocumulus_2.jpg": {
+    "filename": "100_czech-republic_electric-almond-altocumulus_2.jpg",
+    "bbox_pixels": [
+      647.0,
+      93.1,
+      937.6,
+      275.7
+    ],
+    "bbox_norm": [
+      0.412678,
+      0.128072,
+      0.151358,
+      0.126779
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 12.68,
+    "station_width_pct": 15.14,
+    "aspect_ratio": 1.592,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.37,
+    "is_manually_verified": true
+  },
+  "100_czech-republic_electric-almond-altocumulus_3.jpg": {
+    "filename": "100_czech-republic_electric-almond-altocumulus_3.jpg",
+    "bbox_pixels": [
+      741.3,
+      204.0,
+      833.0,
+      354.4
+    ],
+    "bbox_norm": [
+      0.409993,
+      0.193878,
+      0.047756,
+      0.104418
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 10.44,
+    "station_width_pct": 4.78,
+    "aspect_ratio": 0.61,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.87,
+    "is_manually_verified": true
+  },
+  "100_czech-republic_electric-almond-altocumulus_4.jpg": {
+    "filename": "100_czech-republic_electric-almond-altocumulus_4.jpg",
+    "bbox_pixels": [
+      857.5,
+      309.2,
+      943.2,
+      402.4
+    ],
+    "bbox_norm": [
+      0.468952,
+      0.247089,
+      0.044631,
+      0.064683
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 6.47,
+    "station_width_pct": 4.46,
+    "aspect_ratio": 0.92,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 4.64,
+    "is_manually_verified": true
+  },
+  "100_czech-republic_electric-almond-altocumulus_5.jpg": {
+    "filename": "100_czech-republic_electric-almond-altocumulus_5.jpg",
+    "bbox_pixels": [
+      1116.5,
+      368.8,
+      1235.7,
+      452.7
+    ],
+    "bbox_norm": [
+      0.612549,
+      0.285252,
+      0.062096,
+      0.058215
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 5.82,
+    "station_width_pct": 6.21,
+    "aspect_ratio": 1.422,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 5.15,
+    "is_manually_verified": true
+  },
+  "100_czech-republic_electric-almond-altocumulus_6.jpg": {
+    "filename": "100_czech-republic_electric-almond-altocumulus_6.jpg",
+    "bbox_pixels": [
+      544.3,
+      328.1,
+      633.8,
+      423.2
+    ],
+    "bbox_norm": [
+      0.306787,
+      0.260673,
+      0.046604,
+      0.065977
+    ],
+    "img_width": 1920,
+    "img_height": 1441,
+    "station_height_pct": 6.6,
+    "station_width_pct": 4.66,
+    "aspect_ratio": 0.941,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 4.54,
+    "is_manually_verified": true
+  },
+  "100_dancing-pine-tornado_1.jpeg": {
+    "filename": "100_dancing-pine-tornado_1.jpeg",
+    "bbox_pixels": [
+      99.1,
+      634.2,
+      554.5,
+      849.5
+    ],
+    "bbox_norm": [
+      0.340448,
+      0.57956,
+      0.474342,
+      0.168176
+    ],
+    "img_width": 960,
+    "img_height": 1280,
+    "station_height_pct": 16.82,
+    "station_width_pct": 47.43,
+    "aspect_ratio": 2.115,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 2.01,
+    "is_manually_verified": true
+  },
+  "100_dancing-pine-tornado_2.jpeg": {
+    "filename": "100_dancing-pine-tornado_2.jpeg",
+    "bbox_pixels": [
+      571.7,
+      122.9,
+      744.3,
+      263.3
+    ],
+    "bbox_norm": [
+      0.514069,
+      0.201164,
+      0.134864,
+      0.146184
+    ],
+    "img_width": 1280,
+    "img_height": 960,
+    "station_height_pct": 14.62,
+    "station_width_pct": 13.49,
+    "aspect_ratio": 1.23,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 3.08,
+    "is_manually_verified": true
+  },
+  "100_dapper-cadet-rainstorm_1.jpg": {
+    "filename": "100_dapper-cadet-rainstorm_1.jpg",
+    "bbox_pixels": [
+      1670.5,
+      1287.9,
+      1960.8,
+      1446.2
+    ],
+    "bbox_norm": [
+      0.594129,
+      0.335058,
+      0.094993,
+      0.03881
+    ],
+    "img_width": 3056,
+    "img_height": 4080,
+    "station_height_pct": 3.88,
+    "station_width_pct": 9.5,
+    "aspect_ratio": 1.833,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.73,
+    "is_manually_verified": true
+  },
+  "100_dapper-cadet-rainstorm_2.jpg": {
+    "filename": "100_dapper-cadet-rainstorm_2.jpg",
+    "bbox_pixels": [
+      1390.8,
+      643.9,
+      1892.2,
+      1029.2
+    ],
+    "bbox_norm": [
+      0.537134,
+      0.205045,
+      0.164078,
+      0.094437
+    ],
+    "img_width": 3056,
+    "img_height": 4080,
+    "station_height_pct": 9.44,
+    "station_width_pct": 16.41,
+    "aspect_ratio": 1.301,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.12,
+    "is_manually_verified": true
+  },
+  "100_decent-fallow-drizzle_3.jpg": {
+    "filename": "100_decent-fallow-drizzle_3.jpg",
+    "bbox_pixels": [
+      1037.8,
+      154.2,
+      1856.1,
+      597.0
+    ],
+    "bbox_norm": [
+      0.47348,
+      0.122898,
+      0.267788,
+      0.14489
+    ],
+    "img_width": 3056,
+    "img_height": 3056,
+    "station_height_pct": 14.49,
+    "station_width_pct": 26.78,
+    "aspect_ratio": 1.848,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 0.98,
+    "is_manually_verified": true
+  },
+  "100_decent-fallow-drizzle_5.jpg": {
+    "filename": "100_decent-fallow-drizzle_5.jpg",
+    "bbox_pixels": [
+      1164.3,
+      751.2,
+      1417.3,
+      1012.1
+    ],
+    "bbox_norm": [
+      0.42238,
+      0.288486,
+      0.082794,
+      0.085382
+    ],
+    "img_width": 3056,
+    "img_height": 3056,
+    "station_height_pct": 8.54,
+    "station_width_pct": 8.28,
+    "aspect_ratio": 0.97,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.66,
+    "is_manually_verified": true
+  },
+  "100_decent-fallow-drizzle_6.jpg": {
+    "filename": "100_decent-fallow-drizzle_6.jpg",
+    "bbox_pixels": [
+      1290.8,
+      569.3,
+      2053.8,
+      940.9
+    ],
+    "bbox_norm": [
+      0.547219,
+      0.247089,
+      0.249677,
+      0.121604
+    ],
+    "img_width": 3056,
+    "img_height": 3056,
+    "station_height_pct": 12.16,
+    "station_width_pct": 24.97,
+    "aspect_ratio": 2.053,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.16,
+    "is_manually_verified": true
+  },
+  "100_decent-jade-sunset_1.jpg": {
+    "filename": "100_decent-jade-sunset_1.jpg",
+    "bbox_pixels": [
+      1536.0,
+      1504.9,
+      2277.8,
+      1981.8
+    ],
+    "bbox_norm": [
+      0.620742,
+      0.425614,
+      0.241483,
+      0.116429
+    ],
+    "img_width": 3072,
+    "img_height": 4096,
+    "station_height_pct": 11.64,
+    "station_width_pct": 24.15,
+    "aspect_ratio": 1.556,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 0.91,
+    "is_manually_verified": true
+  },
+  "100_decent-jade-sunset_2.jpg": {
+    "filename": "100_decent-jade-sunset_2.jpg",
+    "bbox_pixels": [
+      1196.9,
+      1632.0,
+      1673.8,
+      1960.6
+    ],
+    "bbox_norm": [
+      0.467227,
+      0.438551,
+      0.155239,
+      0.080207
+    ],
+    "img_width": 3072,
+    "img_height": 4096,
+    "station_height_pct": 8.02,
+    "station_width_pct": 15.52,
+    "aspect_ratio": 1.452,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.31,
+    "is_manually_verified": true
+  },
+  "100_decent-mystic-flood_1.jpg": {
+    "filename": "100_decent-mystic-flood_1.jpg",
+    "bbox_pixels": [
+      1255.0,
+      370.9,
+      1487.0,
+      489.9
+    ],
+    "bbox_norm": [
+      0.342748,
+      0.233404,
+      0.058015,
+      0.064579
+    ],
+    "img_width": 4000,
+    "img_height": 1844,
+    "station_height_pct": 6.46,
+    "station_width_pct": 5.8,
+    "aspect_ratio": 1.949,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 3.63,
+    "is_manually_verified": true
+  },
+  "100_decent-mystic-flood_2.jpg": {
+    "filename": "100_decent-mystic-flood_2.jpg",
+    "bbox_pixels": [
+      1990.8,
+      566.3,
+      2155.7,
+      660.9
+    ],
+    "bbox_norm": [
+      0.518321,
+      0.332756,
+      0.041221,
+      0.051332
+    ],
+    "img_width": 4000,
+    "img_height": 1844,
+    "station_height_pct": 5.13,
+    "station_width_pct": 4.12,
+    "aspect_ratio": 1.742,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 4.56,
+    "is_manually_verified": true
+  },
+  "100_decent-mystic-flood_3.jpg": {
+    "filename": "100_decent-mystic-flood_3.jpg",
+    "bbox_pixels": [
+      1287.0,
+      606.0,
+      1965.0,
+      1055.0
+    ],
+    "bbox_norm": [
+      0.4065,
+      0.45038,
+      0.1695,
+      0.243492
+    ],
+    "img_width": 4000,
+    "img_height": 1844,
+    "station_height_pct": 24.35,
+    "station_width_pct": 16.95,
+    "aspect_ratio": 1.51,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.96,
+    "is_manually_verified": true
+  },
+  "100_decent-thistle-celsius_1.jpeg": {
+    "filename": "100_decent-thistle-celsius_1.jpeg",
+    "bbox_pixels": [
+      494.4,
+      647.9,
+      614.5,
+      718.2
+    ],
+    "bbox_norm": [
+      0.462053,
+      0.426908,
+      0.100043,
+      0.043984
+    ],
+    "img_width": 1200,
+    "img_height": 1600,
+    "station_height_pct": 4.4,
+    "station_width_pct": 10.0,
+    "aspect_ratio": 1.706,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 6.14,
+    "is_manually_verified": true
+  },
+  "100_decent-thistle-celsius_2.jpeg": {
+    "filename": "100_decent-thistle-celsius_2.jpeg",
+    "bbox_pixels": [
+      544.1,
+      552.7,
+      647.6,
+      621.0
+    ],
+    "bbox_norm": [
+      0.49655,
+      0.366753,
+      0.086244,
+      0.042691
+    ],
+    "img_width": 1200,
+    "img_height": 1600,
+    "station_height_pct": 4.27,
+    "station_width_pct": 8.62,
+    "aspect_ratio": 1.515,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 6.32,
+    "is_manually_verified": true
+  },
+  "100_decent-thistle-celsius_3.jpeg": {
+    "filename": "100_decent-thistle-celsius_3.jpeg",
+    "bbox_pixels": [
+      591.7,
+      589.9,
+      689.0,
+      664.4
+    ],
+    "bbox_norm": [
+      0.533635,
+      0.391979,
+      0.081069,
+      0.046572
+    ],
+    "img_width": 1200,
+    "img_height": 1600,
+    "station_height_pct": 4.66,
+    "station_width_pct": 8.11,
+    "aspect_ratio": 1.306,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 5.8,
+    "is_manually_verified": true
+  },
+  "100_decent-thistle-celsius_4.jpeg": {
+    "filename": "100_decent-thistle-celsius_4.jpeg",
+    "bbox_pixels": [
+      571.0,
+      521.6,
+      672.4,
+      602.3
+    ],
+    "bbox_norm": [
+      0.518111,
+      0.351229,
+      0.084519,
+      0.050453
+    ],
+    "img_width": 1200,
+    "img_height": 1600,
+    "station_height_pct": 5.05,
+    "station_width_pct": 8.45,
+    "aspect_ratio": 1.256,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 5.35,
+    "is_manually_verified": true
+  },
+  "100_decent-wisteria-hail_1.jpg": {
+    "filename": "100_decent-wisteria-hail_1.jpg",
+    "bbox_pixels": [
+      1754.4,
+      1885.7,
+      2624.8,
+      2601.9
+    ],
+    "bbox_norm": [
+      0.312441,
+      0.568922,
+      0.124191,
+      0.181595
+    ],
+    "img_width": 7008,
+    "img_height": 3944,
+    "station_height_pct": 18.16,
+    "station_width_pct": 12.42,
+    "aspect_ratio": 1.215,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.6,
+    "is_manually_verified": true
+  },
+  "100_decent-wisteria-hail_2.jpg": {
+    "filename": "100_decent-wisteria-hail_2.jpg",
+    "bbox_pixels": [
+      3172.3,
+      781.7,
+      3851.7,
+      1359.5
+    ],
+    "bbox_norm": [
+      0.501145,
+      0.271448,
+      0.096947,
+      0.146491
+    ],
+    "img_width": 7008,
+    "img_height": 3944,
+    "station_height_pct": 14.65,
+    "station_width_pct": 9.69,
+    "aspect_ratio": 1.176,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 0.75,
+    "is_manually_verified": true
+  },
+  "100_deep-almond-cold_1.jpg": {
+    "filename": "100_deep-almond-cold_1.jpg",
+    "bbox_pixels": [
+      2307.5,
+      892.8,
+      2495.9,
+      1045.3
+    ],
+    "bbox_norm": [
+      0.519405,
+      0.279431,
+      0.04075,
+      0.043984
+    ],
+    "img_width": 4624,
+    "img_height": 3468,
+    "station_height_pct": 4.4,
+    "station_width_pct": 4.08,
+    "aspect_ratio": 1.235,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.83,
+    "is_manually_verified": true
+  },
+  "100_deep-almond-cold_2.jpg": {
+    "filename": "100_deep-almond-cold_2.jpg",
+    "bbox_pixels": [
+      1888.0,
+      873.0,
+      2066.0,
+      1025.0
+    ],
+    "bbox_norm": [
+      0.49425,
+      0.316333,
+      0.0445,
+      0.050667
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 5.07,
+    "station_width_pct": 4.45,
+    "aspect_ratio": 1.171,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_deep-almond-cold_3.jpg": {
+    "filename": "100_deep-almond-cold_3.jpg",
+    "bbox_pixels": [
+      2123.6,
+      569.8,
+      2379.3,
+      852.4
+    ],
+    "bbox_norm": [
+      0.486902,
+      0.205045,
+      0.055304,
+      0.081501
+    ],
+    "img_width": 4624,
+    "img_height": 3468,
+    "station_height_pct": 8.15,
+    "station_width_pct": 5.53,
+    "aspect_ratio": 0.905,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.53,
+    "is_manually_verified": true
+  },
+  "100_deep-almond-cold_4.jpg": {
+    "filename": "100_deep-almond-cold_4.jpg",
+    "bbox_pixels": [
+      2027.2,
+      966.4,
+      2201.8,
+      1067.3
+    ],
+    "bbox_norm": [
+      0.528622,
+      0.338939,
+      0.043661,
+      0.033635
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 3.36,
+    "station_width_pct": 4.37,
+    "aspect_ratio": 1.731,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 4.28,
+    "is_manually_verified": true
+  },
+  "100_deep-almond-cold_5.jpg": {
+    "filename": "100_deep-almond-cold_5.jpg",
+    "bbox_pixels": [
+      2093.1,
+      442.4,
+      2415.3,
+      671.4
+    ],
+    "bbox_norm": [
+      0.563551,
+      0.18564,
+      0.08053,
+      0.076326
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 7.63,
+    "station_width_pct": 8.05,
+    "aspect_ratio": 1.407,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.89,
+    "is_manually_verified": true
+  },
+  "100_deep-almond-cold_6.jpg": {
+    "filename": "100_deep-almond-cold_6.jpg",
+    "bbox_pixels": [
+      2199.8,
+      610.2,
+      2513.9,
+      834.5
+    ],
+    "bbox_norm": [
+      0.509702,
+      0.208279,
+      0.067917,
+      0.064683
+    ],
+    "img_width": 4624,
+    "img_height": 3468,
+    "station_height_pct": 6.47,
+    "station_width_pct": 6.79,
+    "aspect_ratio": 1.4,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.93,
+    "is_manually_verified": true
+  },
+  "100_delightful-red-hailstones_1.jpg": {
+    "filename": "100_delightful-red-hailstones_1.jpg",
+    "bbox_pixels": [
+      1002.9,
+      1393.4,
+      2296.1,
+      2343.5
+    ],
+    "bbox_norm": [
+      0.404284,
+      0.608223,
+      0.316947,
+      0.309266
+    ],
+    "img_width": 4080,
+    "img_height": 3072,
+    "station_height_pct": 30.93,
+    "station_width_pct": 31.69,
+    "aspect_ratio": 1.361,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.45,
+    "is_manually_verified": true
+  },
+  "100_delightful-red-hailstones_2.jpg": {
+    "filename": "100_delightful-red-hailstones_2.jpg",
+    "bbox_pixels": [
+      1055.7,
+      1256.2,
+      1863.2,
+      2037.4
+    ],
+    "bbox_norm": [
+      0.357712,
+      0.536061,
+      0.19793,
+      0.254285
+    ],
+    "img_width": 4080,
+    "img_height": 3072,
+    "station_height_pct": 25.43,
+    "station_width_pct": 19.79,
+    "aspect_ratio": 1.034,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.55,
+    "is_manually_verified": true
+  },
+  "100_delightful-red-hailstones_3.jpg": {
+    "filename": "100_delightful-red-hailstones_3.jpg",
+    "bbox_pixels": [
+      1018.7,
+      1551.8,
+      1852.7,
+      2195.7
+    ],
+    "bbox_norm": [
+      0.351891,
+      0.609941,
+      0.204398,
+      0.209614
+    ],
+    "img_width": 4080,
+    "img_height": 3072,
+    "station_height_pct": 20.96,
+    "station_width_pct": 20.44,
+    "aspect_ratio": 1.295,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.67,
+    "is_manually_verified": true
+  },
+  "100_delightful-red-hailstones_4.jpg": {
+    "filename": "100_delightful-red-hailstones_4.jpg",
+    "bbox_pixels": [
+      1018.7,
+      1219.2,
+      2348.8,
+      2111.3
+    ],
+    "bbox_norm": [
+      0.412693,
+      0.542074,
+      0.326003,
+      0.290366
+    ],
+    "img_width": 4080,
+    "img_height": 3072,
+    "station_height_pct": 29.04,
+    "station_width_pct": 32.6,
+    "aspect_ratio": 1.491,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.48,
+    "is_manually_verified": true
+  },
+  "100_digital-mint-uv_1.jpg": {
+    "filename": "100_digital-mint-uv_1.jpg",
+    "bbox_pixels": [
+      503.9,
+      568.8,
+      680.3,
+      695.5
+    ],
+    "bbox_norm": [
+      0.411169,
+      0.329237,
+      0.122467,
+      0.065977
+    ],
+    "img_width": 1440,
+    "img_height": 1920,
+    "station_height_pct": 6.6,
+    "station_width_pct": 12.25,
+    "aspect_ratio": 1.392,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 3.41,
+    "is_manually_verified": true
+  },
+  "100_digital-mint-uv_2.jpg": {
+    "filename": "100_digital-mint-uv_2.jpg",
+    "bbox_pixels": [
+      1060.3,
+      337.8,
+      1318.6,
+      576.2
+    ],
+    "bbox_norm": [
+      0.826003,
+      0.238034,
+      0.179388,
+      0.124191
+    ],
+    "img_width": 1440,
+    "img_height": 1920,
+    "station_height_pct": 12.42,
+    "station_width_pct": 17.94,
+    "aspect_ratio": 1.083,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.81,
+    "is_manually_verified": true
+  },
+  "100_digital-mint-uv_3.jpg": {
+    "filename": "100_digital-mint-uv_3.jpg",
+    "bbox_pixels": [
+      665.4,
+      633.4,
+      851.6,
+      745.1
+    ],
+    "bbox_norm": [
+      0.526736,
+      0.358991,
+      0.129366,
+      0.058215
+    ],
+    "img_width": 1440,
+    "img_height": 1920,
+    "station_height_pct": 5.82,
+    "station_width_pct": 12.94,
+    "aspect_ratio": 1.667,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 3.86,
+    "is_manually_verified": true
+  },
+  "100_dizzy-ash-mist_1.jpg": {
+    "filename": "100_dizzy-ash-mist_1.jpg",
+    "bbox_pixels": [
+      1407.8,
+      675.4,
+      1716.7,
+      874.8
+    ],
+    "bbox_norm": [
+      0.478626,
+      0.528005,
+      0.094656,
+      0.135782
+    ],
+    "img_width": 3264,
+    "img_height": 1468,
+    "station_height_pct": 13.58,
+    "station_width_pct": 9.47,
+    "aspect_ratio": 1.55,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.17,
+    "is_manually_verified": true
+  },
+  "100_dizzy-ash-mist_2.jpg": {
+    "filename": "100_dizzy-ash-mist_2.jpg",
+    "bbox_pixels": [
+      497.7,
+      629.8,
+      1606.1,
+      1237.4
+    ],
+    "bbox_norm": [
+      0.262977,
+      0.51866,
+      0.277099,
+      0.337574
+    ],
+    "img_width": 4000,
+    "img_height": 1800,
+    "station_height_pct": 33.76,
+    "station_width_pct": 27.71,
+    "aspect_ratio": 1.824,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.71,
+    "is_manually_verified": true
+  },
+  "100_dizzy-ash-mist_3.jpg": {
+    "filename": "100_dizzy-ash-mist_3.jpg",
+    "bbox_pixels": [
+      1198.5,
+      501.0,
+      1559.7,
+      807.5
+    ],
+    "bbox_norm": [
+      0.422519,
+      0.445687,
+      0.110687,
+      0.208765
+    ],
+    "img_width": 3264,
+    "img_height": 1468,
+    "station_height_pct": 20.88,
+    "station_width_pct": 11.07,
+    "aspect_ratio": 1.179,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 1.41,
+    "is_manually_verified": true
+  },
+  "100_docile-bole-centimeter_1.jpg": {
+    "filename": "100_docile-bole-centimeter_1.jpg",
+    "bbox_pixels": [
+      1208.0,
+      1354.0,
+      1533.0,
+      1515.0
+    ],
+    "bbox_norm": [
+      0.500914,
+      0.393229,
+      0.118787,
+      0.044134
+    ],
+    "img_width": 2736,
+    "img_height": 3648,
+    "station_height_pct": 4.41,
+    "station_width_pct": 11.88,
+    "aspect_ratio": 2.019,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_docile-bole-centimeter_2.jpg": {
+    "filename": "100_docile-bole-centimeter_2.jpg",
+    "bbox_pixels": [
+      1273.6,
+      1524.3,
+      1566.2,
+      1741.4
+    ],
+    "bbox_norm": [
+      0.518974,
+      0.447607,
+      0.106943,
+      0.059508
+    ],
+    "img_width": 2736,
+    "img_height": 3648,
+    "station_height_pct": 5.95,
+    "station_width_pct": 10.69,
+    "aspect_ratio": 1.348,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 1.99,
+    "is_manually_verified": true
+  },
+  "100_docile-bole-centimeter_3.jpg": {
+    "filename": "100_docile-bole-centimeter_3.jpg",
+    "bbox_pixels": [
+      1202.8,
+      1401.6,
+      1556.8,
+      1599.8
+    ],
+    "bbox_norm": [
+      0.504312,
+      0.411384,
+      0.129366,
+      0.054334
+    ],
+    "img_width": 2736,
+    "img_height": 3648,
+    "station_height_pct": 5.43,
+    "station_width_pct": 12.94,
+    "aspect_ratio": 1.786,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.18,
+    "is_manually_verified": true
+  },
+  "100_docile-bole-centimeter_4.jpg": {
+    "filename": "100_docile-bole-centimeter_4.jpg",
+    "bbox_pixels": [
+      1335.0,
+      1581.0,
+      1622.8,
+      1788.6
+    ],
+    "bbox_norm": [
+      0.540535,
+      0.461837,
+      0.105218,
+      0.056921
+    ],
+    "img_width": 2736,
+    "img_height": 3648,
+    "station_height_pct": 5.69,
+    "station_width_pct": 10.52,
+    "aspect_ratio": 1.386,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.08,
+    "is_manually_verified": true
+  },
+  "100_droll-copper-hygrometer_1.jpg": {
+    "filename": "100_droll-copper-hygrometer_1.jpg",
+    "bbox_pixels": [
+      2465.0,
+      1216.1,
+      3019.3,
+      1618.5
+    ],
+    "bbox_norm": [
+      0.595084,
+      0.410091,
+      0.12031,
+      0.116429
+    ],
+    "img_width": 4608,
+    "img_height": 3456,
+    "station_height_pct": 11.64,
+    "station_width_pct": 12.03,
+    "aspect_ratio": 1.378,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.07,
+    "is_manually_verified": true
+  },
+  "100_droll-copper-hygrometer_2.jpg": {
+    "filename": "100_droll-copper-hygrometer_2.jpg",
+    "bbox_pixels": [
+      1745.1,
+      1064.1,
+      2608.0,
+      1377.0
+    ],
+    "bbox_norm": [
+      0.472348,
+      0.353169,
+      0.187257,
+      0.090556
+    ],
+    "img_width": 4608,
+    "img_height": 3456,
+    "station_height_pct": 9.06,
+    "station_width_pct": 18.73,
+    "aspect_ratio": 2.757,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.38,
+    "is_manually_verified": true
+  },
+  "100_droll-copper-hygrometer_3.jpg": {
+    "filename": "100_droll-copper-hygrometer_3.jpg",
+    "bbox_pixels": [
+      2292.9,
+      882.8,
+      2583.9,
+      1337.8
+    ],
+    "bbox_norm": [
+      0.529167,
+      0.32127,
+      0.063156,
+      0.13167
+    ],
+    "img_width": 4608,
+    "img_height": 3456,
+    "station_height_pct": 13.17,
+    "station_width_pct": 6.32,
+    "aspect_ratio": 0.64,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 0.95,
+    "is_manually_verified": true
+  },
+  "100_droll-copper-hygrometer_4.jpg": {
+    "filename": "100_droll-copper-hygrometer_4.jpg",
+    "bbox_pixels": [
+      1879.3,
+      1082.0,
+      2710.9,
+      1488.8
+    ],
+    "bbox_norm": [
+      0.498059,
+      0.371928,
+      0.180466,
+      0.117723
+    ],
+    "img_width": 4608,
+    "img_height": 3456,
+    "station_height_pct": 11.77,
+    "station_width_pct": 18.05,
+    "aspect_ratio": 2.044,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.06,
+    "is_manually_verified": true
+  },
+  "100_early-cerulean-avalanche_6.jpg": {
+    "filename": "100_early-cerulean-avalanche_6.jpg",
+    "bbox_pixels": [
+      1334.7,
+      1747.1,
+      1662.0,
+      1905.4
+    ],
+    "bbox_norm": [
+      0.367238,
+      0.596809,
+      0.080207,
+      0.051746
+    ],
+    "img_width": 4080,
+    "img_height": 3060,
+    "station_height_pct": 5.17,
+    "station_width_pct": 8.02,
+    "aspect_ratio": 2.067,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.73,
+    "is_manually_verified": true
+  },
+  "100_early-cerulean-avalanche_7.jpg": {
+    "filename": "100_early-cerulean-avalanche_7.jpg",
+    "bbox_pixels": [
+      1741.0,
+      1393.0,
+      1894.0,
+      1568.0
+    ],
+    "bbox_norm": [
+      0.593954,
+      0.362868,
+      0.05,
+      0.042892
+    ],
+    "img_width": 3060,
+    "img_height": 4080,
+    "station_height_pct": 4.29,
+    "station_width_pct": 5.0,
+    "aspect_ratio": 0.874,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.47,
+    "is_manually_verified": true
+  },
+  "100_early-cerulean-avalanche_8.jpg": {
+    "filename": "100_early-cerulean-avalanche_8.jpg",
+    "bbox_pixels": [
+      1413.9,
+      1683.7,
+      1894.2,
+      1974.0
+    ],
+    "bbox_norm": [
+      0.405401,
+      0.597671,
+      0.117723,
+      0.094868
+    ],
+    "img_width": 4080,
+    "img_height": 3060,
+    "station_height_pct": 9.49,
+    "station_width_pct": 11.77,
+    "aspect_ratio": 1.655,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.49,
+    "is_manually_verified": true
+  },
+  "100_early-cerulean-avalanche_9.jpg": {
+    "filename": "100_early-cerulean-avalanche_9.jpg",
+    "bbox_pixels": [
+      1450.8,
+      1657.3,
+      1741.1,
+      1916.0
+    ],
+    "bbox_norm": [
+      0.391171,
+      0.583872,
+      0.071151,
+      0.084519
+    ],
+    "img_width": 4080,
+    "img_height": 3060,
+    "station_height_pct": 8.45,
+    "station_width_pct": 7.12,
+    "aspect_ratio": 1.122,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.67,
+    "is_manually_verified": true
+  },
+  "100_el-salvador_cold-claret-longtitude_1.jpg": {
+    "filename": "100_el-salvador_cold-claret-longtitude_1.jpg",
+    "bbox_pixels": [
+      1485.8,
+      1666.6,
+      1727.3,
+      1836.8
+    ],
+    "bbox_norm": [
+      0.393758,
+      0.572445,
+      0.059185,
+      0.055627
+    ],
+    "img_width": 4080,
+    "img_height": 3060,
+    "station_height_pct": 5.56,
+    "station_width_pct": 5.92,
+    "aspect_ratio": 1.419,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.54,
+    "is_manually_verified": true
+  },
+  "100_el-salvador_cold-claret-longtitude_2.jpg": {
+    "filename": "100_el-salvador_cold-claret-longtitude_2.jpg",
+    "bbox_pixels": [
+      1921.2,
+      1318.2,
+      2625.9,
+      1824.9
+    ],
+    "bbox_norm": [
+      0.557244,
+      0.513583,
+      0.172704,
+      0.165589
+    ],
+    "img_width": 4080,
+    "img_height": 3060,
+    "station_height_pct": 16.56,
+    "station_width_pct": 17.27,
+    "aspect_ratio": 1.391,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.85,
+    "is_manually_verified": true
+  },
+  "100_el-salvador_cold-claret-longtitude_3.jpg": {
+    "filename": "100_el-salvador_cold-claret-longtitude_3.jpg",
+    "bbox_pixels": [
+      2206.3,
+      1575.5,
+      2427.9,
+      1813.0
+    ],
+    "bbox_norm": [
+      0.567917,
+      0.553687,
+      0.054334,
+      0.07762
+    ],
+    "img_width": 4080,
+    "img_height": 3060,
+    "station_height_pct": 7.76,
+    "station_width_pct": 5.43,
+    "aspect_ratio": 0.933,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.82,
+    "is_manually_verified": true
+  },
+  "100_el-salvador_cold-claret-longtitude_4.jpg": {
+    "filename": "100_el-salvador_cold-claret-longtitude_4.jpg",
+    "bbox_pixels": [
+      3086.0,
+      1632.0,
+      3218.0,
+      1724.0
+    ],
+    "bbox_norm": [
+      0.772549,
+      0.548366,
+      0.032353,
+      0.030065
+    ],
+    "img_width": 4080,
+    "img_height": 3060,
+    "station_height_pct": 3.01,
+    "station_width_pct": 3.24,
+    "aspect_ratio": 1.435,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_elegant-paisley-inches_1.jpg": {
+    "filename": "100_elegant-paisley-inches_1.jpg",
+    "bbox_pixels": [
+      1472.4,
+      715.3,
+      1933.4,
+      1160.4
+    ],
+    "bbox_norm": [
+      0.554334,
+      0.228978,
+      0.150065,
+      0.108668
+    ],
+    "img_width": 3072,
+    "img_height": 4096,
+    "station_height_pct": 10.87,
+    "station_width_pct": 15.01,
+    "aspect_ratio": 1.036,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 0.97,
+    "is_manually_verified": true
+  },
+  "100_elegant-paisley-inches_2.jpg": {
+    "filename": "100_elegant-paisley-inches_2.jpg",
+    "bbox_pixels": [
+      1308.2,
+      1171.0,
+      1589.0,
+      1441.3
+    ],
+    "bbox_norm": [
+      0.471539,
+      0.318887,
+      0.091419,
+      0.065977
+    ],
+    "img_width": 3072,
+    "img_height": 4096,
+    "station_height_pct": 6.6,
+    "station_width_pct": 9.14,
+    "aspect_ratio": 1.039,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.6,
+    "is_manually_verified": true
+  },
+  "100_elegant-paisley-inches_4.jpg": {
+    "filename": "100_elegant-paisley-inches_4.jpg",
+    "bbox_pixels": [
+      1149.2,
+      752.4,
+      1838.0,
+      1081.0
+    ],
+    "bbox_norm": [
+      0.486201,
+      0.223803,
+      0.224235,
+      0.080207
+    ],
+    "img_width": 3072,
+    "img_height": 4096,
+    "station_height_pct": 8.02,
+    "station_width_pct": 22.42,
+    "aspect_ratio": 2.097,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.31,
+    "is_manually_verified": true
+  },
+  "100_elegant-paisley-inches_5.jpg": {
+    "filename": "100_elegant-paisley-inches_5.jpg",
+    "bbox_pixels": [
+      1403.5,
+      1028.0,
+      1705.6,
+      1277.0
+    ],
+    "bbox_norm": [
+      0.506037,
+      0.281371,
+      0.098318,
+      0.060802
+    ],
+    "img_width": 3072,
+    "img_height": 4096,
+    "station_height_pct": 6.08,
+    "station_width_pct": 9.83,
+    "aspect_ratio": 1.213,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.73,
+    "is_manually_verified": true
+  },
+  "100_elegant-paisley-inches_6.jpg": {
+    "filename": "100_elegant-paisley-inches_6.jpg",
+    "bbox_pixels": [
+      1345.2,
+      879.6,
+      1589.0,
+      1012.1
+    ],
+    "bbox_norm": [
+      0.477577,
+      0.230918,
+      0.079345,
+      0.032342
+    ],
+    "img_width": 3072,
+    "img_height": 4096,
+    "station_height_pct": 3.23,
+    "station_width_pct": 7.93,
+    "aspect_ratio": 1.84,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 3.26,
+    "is_manually_verified": true
+  },
+  "100_energetic-volt-sky_1.jpg": {
+    "filename": "100_energetic-volt-sky_1.jpg",
+    "bbox_pixels": [
+      1251.6,
+      1319.5,
+      1396.5,
+      1412.7
+    ],
+    "bbox_norm": [
+      0.331016,
+      0.455369,
+      0.036223,
+      0.031048
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 3.1,
+    "station_width_pct": 3.62,
+    "aspect_ratio": 1.556,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 4.64,
+    "is_manually_verified": true
+  },
+  "100_energetic-volt-sky_2.jpg": {
+    "filename": "100_energetic-volt-sky_2.jpg",
+    "bbox_pixels": [
+      1417.2,
+      1086.7,
+      1593.1,
+      1247.1
+    ],
+    "bbox_norm": [
+      0.376294,
+      0.388961,
+      0.043984,
+      0.053471
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 5.35,
+    "station_width_pct": 4.4,
+    "aspect_ratio": 1.097,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.69,
+    "is_manually_verified": true
+  },
+  "100_energetic-volt-sky_3.jpg": {
+    "filename": "100_energetic-volt-sky_3.jpg",
+    "bbox_pixels": [
+      1220.6,
+      2018.1,
+      1738.0,
+      2385.5
+    ],
+    "bbox_norm": [
+      0.369825,
+      0.733937,
+      0.129366,
+      0.122467
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 12.25,
+    "station_width_pct": 12.94,
+    "aspect_ratio": 1.408,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.18,
+    "is_manually_verified": true
+  },
+  "100_energetic-volt-sky_4.jpg": {
+    "filename": "100_energetic-volt-sky_4.jpg",
+    "bbox_pixels": [
+      1344.8,
+      1386.8,
+      1650.1,
+      1536.9
+    ],
+    "bbox_norm": [
+      0.374353,
+      0.487279,
+      0.076326,
+      0.050022
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 5.0,
+    "station_width_pct": 7.63,
+    "aspect_ratio": 2.034,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.88,
+    "is_manually_verified": true
+  },
+  "100_energetic-volt-sky_5.jpg": {
+    "filename": "100_energetic-volt-sky_5.jpg",
+    "bbox_pixels": [
+      1500.0,
+      1304.0,
+      1691.5,
+      1448.9
+    ],
+    "bbox_norm": [
+      0.398933,
+      0.458818,
+      0.047865,
+      0.048297
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 4.83,
+    "station_width_pct": 4.79,
+    "aspect_ratio": 1.321,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.98,
+    "is_manually_verified": true
+  },
+  "100_exotic-cinereous-temperature_1.jpeg": {
+    "filename": "100_exotic-cinereous-temperature_1.jpeg",
+    "bbox_pixels": [
+      652.2,
+      418.1,
+      788.9,
+      494.7
+    ],
+    "bbox_norm": [
+      0.59996,
+      0.285252,
+      0.113747,
+      0.047865
+    ],
+    "img_width": 1201,
+    "img_height": 1600,
+    "station_height_pct": 4.79,
+    "station_width_pct": 11.37,
+    "aspect_ratio": 1.784,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 5.64,
+    "is_manually_verified": true
+  },
+  "100_exotic-cinereous-temperature_2.jpeg": {
+    "filename": "100_exotic-cinereous-temperature_2.jpeg",
+    "bbox_pixels": [
+      588.1,
+      374.6,
+      668.8,
+      457.4
+    ],
+    "bbox_norm": [
+      0.523267,
+      0.260026,
+      0.067214,
+      0.051746
+    ],
+    "img_width": 1201,
+    "img_height": 1600,
+    "station_height_pct": 5.17,
+    "station_width_pct": 6.72,
+    "aspect_ratio": 0.975,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 5.22,
+    "is_manually_verified": true
+  },
+  "100_exotic-fawn-fahrenheit_2.jpeg": {
+    "filename": "100_exotic-fawn-fahrenheit_2.jpeg",
+    "bbox_pixels": [
+      720.1,
+      182.1,
+      904.3,
+      327.0
+    ],
+    "bbox_norm": [
+      0.6768,
+      0.15912,
+      0.153514,
+      0.090556
+    ],
+    "img_width": 1200,
+    "img_height": 1600,
+    "station_height_pct": 9.06,
+    "station_width_pct": 15.35,
+    "aspect_ratio": 1.271,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.98,
+    "is_manually_verified": true
+  },
+  "100_exotic-sienna-temperature_12.jpg": {
+    "filename": "100_exotic-sienna-temperature_12.jpg",
+    "bbox_pixels": [
+      859.8,
+      815.3,
+      2149.9,
+      1654.5
+    ],
+    "bbox_norm": [
+      0.482324,
+      0.333118,
+      0.413467,
+      0.226391
+    ],
+    "img_width": 3120,
+    "img_height": 3707,
+    "station_height_pct": 22.64,
+    "station_width_pct": 41.35,
+    "aspect_ratio": 1.537,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.51,
+    "is_manually_verified": true
+  },
+  "100_exotic-sienna-temperature_6.jpg": {
+    "filename": "100_exotic-sienna-temperature_6.jpg",
+    "bbox_pixels": [
+      284.6,
+      457.4,
+      2700.9,
+      2254.9
+    ],
+    "bbox_norm": [
+      0.478439,
+      0.326003,
+      0.774472,
+      0.432083
+    ],
+    "img_width": 3120,
+    "img_height": 4160,
+    "station_height_pct": 43.21,
+    "station_width_pct": 77.45,
+    "aspect_ratio": 1.344,
+    "distance_category": "CLOSE_UP",
+    "recommended_zoom": 0.24,
+    "is_manually_verified": true
+  },
+  "100_exotic-sienna-temperature_7.jpg": {
+    "filename": "100_exotic-sienna-temperature_7.jpg",
+    "bbox_pixels": [
+      388.8,
+      504.5,
+      3440.2,
+      2135.2
+    ],
+    "bbox_norm": [
+      0.46022,
+      0.423027,
+      0.733506,
+      0.522639
+    ],
+    "img_width": 4160,
+    "img_height": 3120,
+    "station_height_pct": 52.26,
+    "station_width_pct": 73.35,
+    "aspect_ratio": 1.871,
+    "distance_category": "CLOSE_UP",
+    "recommended_zoom": 0.26,
+    "is_manually_verified": true
+  },
+  "100_exotic-sienna-temperature_8.jpg": {
+    "filename": "100_exotic-sienna-temperature_8.jpg",
+    "bbox_pixels": [
+      736.6,
+      339.0,
+      2776.2,
+      1533.8
+    ],
+    "bbox_norm": [
+      0.562958,
+      0.225097,
+      0.65373,
+      0.287193
+    ],
+    "img_width": 3120,
+    "img_height": 4160,
+    "station_height_pct": 28.72,
+    "station_width_pct": 65.37,
+    "aspect_ratio": 1.707,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.36,
+    "is_manually_verified": true
+  },
+  "100_exotic-sienna-temperature_9.jpg": {
+    "filename": "100_exotic-sienna-temperature_9.jpg",
+    "bbox_pixels": [
+      540.8,
+      681.0,
+      2963.1,
+      2248.7
+    ],
+    "bbox_norm": [
+      0.561526,
+      0.414618,
+      0.7764,
+      0.443726
+    ],
+    "img_width": 3120,
+    "img_height": 3533,
+    "station_height_pct": 44.37,
+    "station_width_pct": 77.64,
+    "aspect_ratio": 1.545,
+    "distance_category": "CLOSE_UP",
+    "recommended_zoom": 0.28,
+    "is_manually_verified": true
+  },
+  "100_faithful-cloud-climatology_1.jpg": {
+    "filename": "100_faithful-cloud-climatology_1.jpg",
+    "bbox_pixels": [
+      1101.6,
+      1454.1,
+      1924.3,
+      2085.4
+    ],
+    "bbox_norm": [
+      0.378234,
+      0.589909,
+      0.205692,
+      0.210436
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 21.04,
+    "station_width_pct": 20.57,
+    "aspect_ratio": 1.303,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.68,
+    "is_manually_verified": true
+  },
+  "100_faithful-cloud-climatology_2.jpg": {
+    "filename": "100_faithful-cloud-climatology_2.jpg",
+    "bbox_pixels": [
+      522.0,
+      0.0,
+      1613.8,
+      683.1
+    ],
+    "bbox_norm": [
+      0.266979,
+      0.113842,
+      0.272962,
+      0.227684
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 22.77,
+    "station_width_pct": 27.3,
+    "aspect_ratio": 1.598,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.63,
+    "is_manually_verified": true
+  },
+  "100_faithful-cloud-climatology_3.jpg": {
+    "filename": "100_faithful-cloud-climatology_3.jpg",
+    "bbox_pixels": [
+      1334.4,
+      807.2,
+      2214.1,
+      1309.2
+    ],
+    "bbox_norm": [
+      0.443564,
+      0.352738,
+      0.219922,
+      0.167313
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 16.73,
+    "station_width_pct": 21.99,
+    "aspect_ratio": 1.753,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.86,
+    "is_manually_verified": true
+  },
+  "100_faithful-cloud-climatology_4.jpg": {
+    "filename": "100_faithful-cloud-climatology_4.jpg",
+    "bbox_pixels": [
+      410.0,
+      1347.0,
+      484.0,
+      1438.0
+    ],
+    "bbox_norm": [
+      0.149,
+      0.348125,
+      0.024667,
+      0.02275
+    ],
+    "img_width": 3000,
+    "img_height": 4000,
+    "station_height_pct": 2.27,
+    "station_width_pct": 2.47,
+    "aspect_ratio": 0.813,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_faithful-cloud-climatology_5.jpg": {
+    "filename": "100_faithful-cloud-climatology_5.jpg",
+    "bbox_pixels": [
+      961.8,
+      636.5,
+      2033.0,
+      1293.7
+    ],
+    "bbox_norm": [
+      0.374353,
+      0.32169,
+      0.267788,
+      0.21906
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 21.91,
+    "station_width_pct": 26.78,
+    "aspect_ratio": 1.63,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.66,
+    "is_manually_verified": true
+  },
+  "100_faithful-topaz-contrails_1.jpeg": {
+    "filename": "100_faithful-topaz-contrails_1.jpeg",
+    "bbox_pixels": [
+      136.2,
+      184.7,
+      540.6,
+      459.7
+    ],
+    "bbox_norm": [
+      0.470045,
+      0.309185,
+      0.561664,
+      0.263907
+    ],
+    "img_width": 720,
+    "img_height": 1042,
+    "station_height_pct": 26.39,
+    "station_width_pct": 56.17,
+    "aspect_ratio": 1.471,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 1.57,
+    "is_manually_verified": true
+  },
+  "100_faithful-topaz-contrails_2.jpeg": {
+    "filename": "100_faithful-topaz-contrails_2.jpeg",
+    "bbox_pixels": [
+      206.0,
+      586.2,
+      379.9,
+      775.0
+    ],
+    "bbox_norm": [
+      0.406856,
+      0.531695,
+      0.241483,
+      0.147477
+    ],
+    "img_width": 720,
+    "img_height": 1280,
+    "station_height_pct": 14.75,
+    "station_width_pct": 24.15,
+    "aspect_ratio": 0.921,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.29,
+    "is_manually_verified": true
+  },
+  "100_faithfull-lemonade-steam_1.jpeg": {
+    "filename": "100_faithfull-lemonade-steam_1.jpeg",
+    "bbox_pixels": [
+      268.7,
+      263.3,
+      339.5,
+      309.2
+    ],
+    "bbox_norm": [
+      0.237549,
+      0.298189,
+      0.055304,
+      0.047865
+    ],
+    "img_width": 1280,
+    "img_height": 960,
+    "station_height_pct": 4.79,
+    "station_width_pct": 5.53,
+    "aspect_ratio": 1.541,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 9.4,
+    "is_manually_verified": true
+  },
+  "100_faithfull-lemonade-steam_2.jpeg": {
+    "filename": "100_faithfull-lemonade-steam_2.jpeg",
+    "bbox_pixels": [
+      425.4,
+      231.8,
+      557.8,
+      298.1
+    ],
+    "bbox_norm": [
+      0.512074,
+      0.206986,
+      0.137991,
+      0.051746
+    ],
+    "img_width": 960,
+    "img_height": 1280,
+    "station_height_pct": 5.17,
+    "station_width_pct": 13.8,
+    "aspect_ratio": 2.0,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 6.52,
+    "is_manually_verified": true
+  },
+  "100_faithfull-lemonade-steam_3.jpeg": {
+    "filename": "100_faithfull-lemonade-steam_3.jpeg",
+    "bbox_pixels": [
+      382.3,
+      347.7,
+      667.1,
+      538.2
+    ],
+    "bbox_norm": [
+      0.546572,
+      0.346054,
+      0.29668,
+      0.148771
+    ],
+    "img_width": 960,
+    "img_height": 1280,
+    "station_height_pct": 14.88,
+    "station_width_pct": 29.67,
+    "aspect_ratio": 1.496,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.27,
+    "is_manually_verified": true
+  },
+  "100_fancy-chiffon-air_1.jpg": {
+    "filename": "100_fancy-chiffon-air_1.jpg",
+    "bbox_pixels": [
+      1952.6,
+      989.6,
+      2489.1,
+      1287.6
+    ],
+    "bbox_norm": [
+      0.544319,
+      0.370634,
+      0.131497,
+      0.097025
+    ],
+    "img_width": 4080,
+    "img_height": 3072,
+    "station_height_pct": 9.7,
+    "station_width_pct": 13.15,
+    "aspect_ratio": 1.8,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.45,
+    "is_manually_verified": true
+  },
+  "100_fancy-chiffon-air_2.jpg": {
+    "filename": "100_fancy-chiffon-air_2.jpg",
+    "bbox_pixels": [
+      2393.7,
+      1009.4,
+      2954.0,
+      1518.1
+    ],
+    "bbox_norm": [
+      0.655361,
+      0.411384,
+      0.137341,
+      0.165589
+    ],
+    "img_width": 4080,
+    "img_height": 3072,
+    "station_height_pct": 16.56,
+    "station_width_pct": 13.73,
+    "aspect_ratio": 1.102,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.85,
+    "is_manually_verified": true
+  },
+  "100_fancy-chiffon-air_3.jpg": {
+    "filename": "100_fancy-chiffon-air_3.jpg",
+    "bbox_pixels": [
+      1861.2,
+      953.8,
+      2179.1,
+      1144.5
+    ],
+    "bbox_norm": [
+      0.49513,
+      0.341527,
+      0.077924,
+      0.062096
+    ],
+    "img_width": 4080,
+    "img_height": 3072,
+    "station_height_pct": 6.21,
+    "station_width_pct": 7.79,
+    "aspect_ratio": 1.667,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.26,
+    "is_manually_verified": true
+  },
+  "100_fancy-peach-wind_1.jpg": {
+    "filename": "100_fancy-peach-wind_1.jpg",
+    "bbox_pixels": [
+      1871.3,
+      1510.0,
+      2039.5,
+      1623.5
+    ],
+    "bbox_norm": [
+      0.484961,
+      0.518111,
+      0.041721,
+      0.037516
+    ],
+    "img_width": 4032,
+    "img_height": 3024,
+    "station_height_pct": 3.75,
+    "station_width_pct": 4.17,
+    "aspect_ratio": 1.483,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 3.81,
+    "is_manually_verified": true
+  },
+  "100_low-amethyst-water_3.jpg": {
+    "filename": "100_low-amethyst-water_3.jpg",
+    "bbox_pixels": [
+      1512.0,
+      744.0,
+      1664.0,
+      815.0
+    ],
+    "bbox_norm": [
+      0.48652,
+      0.530995,
+      0.046569,
+      0.048365
+    ],
+    "img_width": 3264,
+    "img_height": 1468,
+    "station_height_pct": 4.84,
+    "station_width_pct": 4.66,
+    "aspect_ratio": 2.141,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 6.08,
+    "is_manually_verified": true
+  },
+  "100_united-states_expert-seaweed-corona_1.jpg": {
+    "filename": "100_united-states_expert-seaweed-corona_1.jpg",
+    "bbox_pixels": [
+      880.0,
+      568.0,
+      1106.0,
+      688.0
+    ],
+    "bbox_norm": [
+      0.517188,
+      0.436111,
+      0.117708,
+      0.083333
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 8.33,
+    "station_width_pct": 11.77,
+    "aspect_ratio": 1.883,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 3.6,
+    "is_manually_verified": true
+  },
+  "100_jumpy-corduroy-longtitude_2.jpg": {
+    "filename": "100_jumpy-corduroy-longtitude_2.jpg",
+    "bbox_pixels": [
+      342.0,
+      610.0,
+      410.0,
+      661.0
+    ],
+    "bbox_norm": [
+      0.564565,
+      0.530025,
+      0.102102,
+      0.042535
+    ],
+    "img_width": 666,
+    "img_height": 1199,
+    "station_height_pct": 4.25,
+    "station_width_pct": 10.21,
+    "aspect_ratio": 1.333,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 8.47,
+    "is_manually_verified": true
+  },
+  "100_isobar-wintergreen-rainbow_3.jpg": {
+    "filename": "100_isobar-wintergreen-rainbow_3.jpg",
+    "bbox_pixels": [
+      1805.0,
+      684.0,
+      2231.0,
+      872.0
+    ],
+    "bbox_norm": [
+      0.5045,
+      0.259333,
+      0.1065,
+      0.062667
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 6.27,
+    "station_width_pct": 10.65,
+    "aspect_ratio": 2.266,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.3,
+    "is_manually_verified": true
+  },
+  "100_hungary_beautiful-eigengrau-cumulonimbus_1.jpg": {
+    "filename": "100_hungary_beautiful-eigengrau-cumulonimbus_1.jpg",
+    "bbox_pixels": [
+      929.0,
+      839.0,
+      965.0,
+      869.0
+    ],
+    "bbox_norm": [
+      0.493229,
+      0.333594,
+      0.01875,
+      0.011719
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 1.17,
+    "station_width_pct": 1.88,
+    "aspect_ratio": 1.2,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_italy_joyful-leather-coriolis_4.jpg": {
+    "filename": "100_italy_joyful-leather-coriolis_4.jpg",
+    "bbox_pixels": [
+      2172.0,
+      497.0,
+      2449.0,
+      701.0
+    ],
+    "bbox_norm": [
+      0.564087,
+      0.194987,
+      0.067627,
+      0.066406
+    ],
+    "img_width": 4096,
+    "img_height": 3072,
+    "station_height_pct": 6.64,
+    "station_width_pct": 6.76,
+    "aspect_ratio": 1.358,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.12,
+    "is_manually_verified": true
+  },
+  "100_germany_bumpy-peach-westerlies_4.jpg": {
+    "filename": "100_germany_bumpy-peach-westerlies_4.jpg",
+    "bbox_pixels": [
+      796.0,
+      545.0,
+      913.0,
+      618.0
+    ],
+    "bbox_norm": [
+      0.445052,
+      0.403819,
+      0.060937,
+      0.050694
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 5.07,
+    "station_width_pct": 6.09,
+    "aspect_ratio": 1.603,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 5.92,
+    "is_manually_verified": true
+  },
+  "100_south-africa_exotic-pecan-whirlwind_1.jpg": {
+    "filename": "100_south-africa_exotic-pecan-whirlwind_1.jpg",
+    "bbox_pixels": [
+      1034.0,
+      852.0,
+      3549.0,
+      2174.0
+    ],
+    "bbox_norm": [
+      0.568328,
+      0.500331,
+      0.62376,
+      0.437169
+    ],
+    "img_width": 4032,
+    "img_height": 3024,
+    "station_height_pct": 43.72,
+    "station_width_pct": 62.38,
+    "aspect_ratio": 1.902,
+    "distance_category": "CLOSE_UP",
+    "recommended_zoom": 0.33,
+    "is_manually_verified": true
+  },
+  "100_fluffy-red-rainfall_4.jpg": {
+    "filename": "100_fluffy-red-rainfall_4.jpg",
+    "bbox_pixels": [
+      197.0,
+      500.0,
+      282.0,
+      568.0
+    ],
+    "bbox_norm": [
+      0.332639,
+      0.417187,
+      0.118056,
+      0.053125
+    ],
+    "img_width": 720,
+    "img_height": 1280,
+    "station_height_pct": 5.31,
+    "station_width_pct": 11.81,
+    "aspect_ratio": 1.25,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_united-states_acidic-eggplant-avalanche_2.jpg": {
+    "filename": "100_united-states_acidic-eggplant-avalanche_2.jpg",
+    "bbox_pixels": [
+      1054.0,
+      1066.0,
+      1167.0,
+      1141.0
+    ],
+    "bbox_norm": [
+      0.578385,
+      0.431055,
+      0.058854,
+      0.029297
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 2.93,
+    "station_width_pct": 5.89,
+    "aspect_ratio": 1.507,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_germany_bumpy-peach-westerlies_1.jpg": {
+    "filename": "100_germany_bumpy-peach-westerlies_1.jpg",
+    "bbox_pixels": [
+      901.0,
+      578.0,
+      970.0,
+      613.0
+    ],
+    "bbox_norm": [
+      0.48724,
+      0.413542,
+      0.035937,
+      0.024306
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 2.43,
+    "station_width_pct": 3.59,
+    "aspect_ratio": 1.971,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 12.34,
+    "is_manually_verified": true
+  },
+  "100_fluffy-cardinal-winter_3.jpg": {
+    "filename": "100_fluffy-cardinal-winter_3.jpg",
+    "bbox_pixels": [
+      808.0,
+      2.0,
+      1771.0,
+      572.0
+    ],
+    "bbox_norm": [
+      0.429833,
+      0.07175,
+      0.321,
+      0.1425
+    ],
+    "img_width": 3000,
+    "img_height": 4000,
+    "station_height_pct": 14.25,
+    "station_width_pct": 32.1,
+    "aspect_ratio": 1.689,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 0.76,
+    "is_manually_verified": true
+  },
+  "100_greece_colossal-blonde-haboob_1.jpg": {
+    "filename": "100_greece_colossal-blonde-haboob_1.jpg",
+    "bbox_pixels": [
+      848.0,
+      0.0,
+      1042.0,
+      270.0
+    ],
+    "bbox_norm": [
+      0.492188,
+      0.09375,
+      0.101042,
+      0.1875
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 18.75,
+    "station_width_pct": 10.1,
+    "aspect_ratio": 0.719,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 1.6,
+    "is_manually_verified": true
+  },
+  "100_festive-peach-avalanche_2.jpg": {
+    "filename": "100_festive-peach-avalanche_2.jpg",
+    "bbox_pixels": [
+      1883.0,
+      245.0,
+      1999.0,
+      316.0
+    ],
+    "bbox_norm": [
+      0.48525,
+      0.152115,
+      0.029,
+      0.038503
+    ],
+    "img_width": 4000,
+    "img_height": 1844,
+    "station_height_pct": 3.85,
+    "station_width_pct": 2.9,
+    "aspect_ratio": 1.634,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_norway_inclement-iceberg-dew_2.jpg": {
+    "filename": "100_norway_inclement-iceberg-dew_2.jpg",
+    "bbox_pixels": [
+      2082.0,
+      1243.0,
+      2569.0,
+      1537.0
+    ],
+    "bbox_norm": [
+      0.581375,
+      0.463333,
+      0.12175,
+      0.098
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 9.8,
+    "station_width_pct": 12.17,
+    "aspect_ratio": 1.656,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.47,
+    "is_manually_verified": true
+  },
+  "100_gigantic-syrup-windsock_7.jpg": {
+    "filename": "100_gigantic-syrup-windsock_7.jpg",
+    "bbox_pixels": [
+      1911.0,
+      122.0,
+      2114.0,
+      367.0
+    ],
+    "bbox_norm": [
+      0.49326,
+      0.13317,
+      0.049755,
+      0.133442
+    ],
+    "img_width": 4080,
+    "img_height": 1836,
+    "station_height_pct": 13.34,
+    "station_width_pct": 4.98,
+    "aspect_ratio": 0.829,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.76,
+    "is_manually_verified": true
+  },
+  "100_gigantic-syrup-windsock_5.jpg": {
+    "filename": "100_gigantic-syrup-windsock_5.jpg",
+    "bbox_pixels": [
+      2169.0,
+      33.0,
+      2570.0,
+      267.0
+    ],
+    "bbox_norm": [
+      0.58076,
+      0.081699,
+      0.098284,
+      0.127451
+    ],
+    "img_width": 4080,
+    "img_height": 1836,
+    "station_height_pct": 12.75,
+    "station_width_pct": 9.83,
+    "aspect_ratio": 1.714,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.85,
+    "is_manually_verified": true
+  },
+  "100_mild-fern-frost_1.jpg": {
+    "filename": "100_mild-fern-frost_1.jpg",
+    "bbox_pixels": [
+      1894.0,
+      475.0,
+      2112.0,
+      733.0
+    ],
+    "bbox_norm": [
+      0.50075,
+      0.201333,
+      0.0545,
+      0.086
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 8.6,
+    "station_width_pct": 5.45,
+    "aspect_ratio": 0.845,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.67,
+    "is_manually_verified": true
+  },
+  "100_hot-lava-atmosphere_2.jpg": {
+    "filename": "100_hot-lava-atmosphere_2.jpg",
+    "bbox_pixels": [
+      550.0,
+      123.0,
+      1378.0,
+      707.0
+    ],
+    "bbox_norm": [
+      0.235352,
+      0.135091,
+      0.202148,
+      0.190104
+    ],
+    "img_width": 4096,
+    "img_height": 3072,
+    "station_height_pct": 19.01,
+    "station_width_pct": 20.21,
+    "aspect_ratio": 1.418,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.74,
+    "is_manually_verified": true
+  },
+  "100_magic-berry-kelvin_4.jpg": {
+    "filename": "100_magic-berry-kelvin_4.jpg",
+    "bbox_pixels": [
+      857.0,
+      1156.0,
+      2424.0,
+      2226.0
+    ],
+    "bbox_norm": [
+      0.599598,
+      0.463542,
+      0.572734,
+      0.293311
+    ],
+    "img_width": 2736,
+    "img_height": 3648,
+    "station_height_pct": 29.33,
+    "station_width_pct": 57.27,
+    "aspect_ratio": 1.464,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.4,
+    "is_manually_verified": true
+  },
+  "100_mexico_glamorous-emerald-isotherm_2.jpg": {
+    "filename": "100_mexico_glamorous-emerald-isotherm_2.jpg",
+    "bbox_pixels": [
+      2122.0,
+      293.0,
+      2711.0,
+      690.0
+    ],
+    "bbox_norm": [
+      0.589966,
+      0.159993,
+      0.143799,
+      0.129232
+    ],
+    "img_width": 4096,
+    "img_height": 3072,
+    "station_height_pct": 12.92,
+    "station_width_pct": 14.38,
+    "aspect_ratio": 1.484,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.09,
+    "is_manually_verified": true
+  },
+  "100_gorgeous-umber-gustnado_6.jpg": {
+    "filename": "100_gorgeous-umber-gustnado_6.jpg",
+    "bbox_pixels": [
+      2388.0,
+      809.0,
+      3437.0,
+      2221.0
+    ],
+    "bbox_norm": [
+      0.71106,
+      0.493164,
+      0.256104,
+      0.459635
+    ],
+    "img_width": 4096,
+    "img_height": 3072,
+    "station_height_pct": 45.96,
+    "station_width_pct": 25.61,
+    "aspect_ratio": 0.743,
+    "distance_category": "CLOSE_UP",
+    "recommended_zoom": 0.31,
+    "is_manually_verified": true
+  },
+  "100_gorgeous-umber-gustnado_9.jpg": {
+    "filename": "100_gorgeous-umber-gustnado_9.jpg",
+    "bbox_pixels": [
+      1056.0,
+      1019.0,
+      2966.0,
+      2448.0
+    ],
+    "bbox_norm": [
+      0.490967,
+      0.56429,
+      0.466309,
+      0.465169
+    ],
+    "img_width": 4096,
+    "img_height": 3072,
+    "station_height_pct": 46.52,
+    "station_width_pct": 46.63,
+    "aspect_ratio": 1.337,
+    "distance_category": "CLOSE_UP",
+    "recommended_zoom": 0.3,
+    "is_manually_verified": true
+  },
+  "100_south-africa_macho-walnut-climatologist_2.jpg": {
+    "filename": "100_south-africa_macho-walnut-climatologist_2.jpg",
+    "bbox_pixels": [
+      717.0,
+      1471.0,
+      2441.0,
+      2691.0
+    ],
+    "bbox_norm": [
+      0.522156,
+      0.516121,
+      0.570106,
+      0.302579
+    ],
+    "img_width": 3024,
+    "img_height": 4032,
+    "station_height_pct": 30.26,
+    "station_width_pct": 57.01,
+    "aspect_ratio": 1.413,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 0.35,
+    "is_manually_verified": true
+  },
+  "100_united-states_mean-neon-corona_3.jpg": {
+    "filename": "100_united-states_mean-neon-corona_3.jpg",
+    "bbox_pixels": [
+      912.0,
+      557.0,
+      1077.0,
+      634.0
+    ],
+    "bbox_norm": [
+      0.517969,
+      0.413542,
+      0.085938,
+      0.053472
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 5.35,
+    "station_width_pct": 8.59,
+    "aspect_ratio": 2.143,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_united-states_kind-plum-dust_3.jpg": {
+    "filename": "100_united-states_kind-plum-dust_3.jpg",
+    "bbox_pixels": [
+      2379.0,
+      1754.0,
+      2546.0,
+      1818.0
+    ],
+    "bbox_norm": [
+      0.591947,
+      0.572436,
+      0.040144,
+      0.020513
+    ],
+    "img_width": 4160,
+    "img_height": 3120,
+    "station_height_pct": 2.05,
+    "station_width_pct": 4.01,
+    "aspect_ratio": 2.609,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_hazy-powder-hygrometer_3.jpg": {
+    "filename": "100_hazy-powder-hygrometer_3.jpg",
+    "bbox_pixels": [
+      2929.0,
+      748.0,
+      3032.0,
+      834.0
+    ],
+    "bbox_norm": [
+      0.745125,
+      0.439444,
+      0.02575,
+      0.047778
+    ],
+    "img_width": 4000,
+    "img_height": 1800,
+    "station_height_pct": 4.78,
+    "station_width_pct": 2.57,
+    "aspect_ratio": 1.198,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_howling-mauve-cloud_1.jpg": {
+    "filename": "100_howling-mauve-cloud_1.jpg",
+    "bbox_pixels": [
+      2514.0,
+      943.0,
+      2609.0,
+      991.0
+    ],
+    "bbox_norm": [
+      0.640375,
+      0.429396,
+      0.02375,
+      0.021314
+    ],
+    "img_width": 4000,
+    "img_height": 2252,
+    "station_height_pct": 2.13,
+    "station_width_pct": 2.38,
+    "aspect_ratio": 1.979,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_united-states_mean-neon-corona_4.jpg": {
+    "filename": "100_united-states_mean-neon-corona_4.jpg",
+    "bbox_pixels": [
+      933.0,
+      443.0,
+      1037.0,
+      520.0
+    ],
+    "bbox_norm": [
+      0.513021,
+      0.334375,
+      0.054167,
+      0.053472
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 5.35,
+    "station_width_pct": 5.42,
+    "aspect_ratio": 1.351,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_romania_big-clear-temperature_2.jpg": {
+    "filename": "100_romania_big-clear-temperature_2.jpg",
+    "bbox_pixels": [
+      767.0,
+      1473.0,
+      1210.0,
+      1770.0
+    ],
+    "bbox_norm": [
+      0.514844,
+      0.633398,
+      0.230729,
+      0.116016
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 11.6,
+    "station_width_pct": 23.07,
+    "aspect_ratio": 1.492,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.45,
+    "is_manually_verified": true
+  },
+  "100_fantastic-flint-ice_3.jpg": {
+    "filename": "100_fantastic-flint-ice_3.jpg",
+    "bbox_pixels": [
+      1969.0,
+      1438.0,
+      2161.0,
+      1535.0
+    ],
+    "bbox_norm": [
+      0.50415,
+      0.483887,
+      0.046875,
+      0.031576
+    ],
+    "img_width": 4096,
+    "img_height": 3072,
+    "station_height_pct": 3.16,
+    "station_width_pct": 4.69,
+    "aspect_ratio": 1.979,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_greece_best-sienna-gust_1.jpg": {
+    "filename": "100_greece_best-sienna-gust_1.jpg",
+    "bbox_pixels": [
+      807.0,
+      434.0,
+      975.0,
+      595.0
+    ],
+    "bbox_norm": [
+      0.464062,
+      0.476389,
+      0.0875,
+      0.149074
+    ],
+    "img_width": 1920,
+    "img_height": 1080,
+    "station_height_pct": 14.91,
+    "station_width_pct": 8.75,
+    "aspect_ratio": 1.043,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_greece_itchy-velvet-rainbow_4.jpg": {
+    "filename": "100_greece_itchy-velvet-rainbow_4.jpg",
+    "bbox_pixels": [
+      798.0,
+      438.0,
+      977.0,
+      587.0
+    ],
+    "bbox_norm": [
+      0.46224,
+      0.474537,
+      0.093229,
+      0.137963
+    ],
+    "img_width": 1920,
+    "img_height": 1080,
+    "station_height_pct": 13.8,
+    "station_width_pct": 9.32,
+    "aspect_ratio": 1.201,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_south-africa_feisty-vinyl-sunrise_2.jpg": {
+    "filename": "100_south-africa_feisty-vinyl-sunrise_2.jpg",
+    "bbox_pixels": [
+      487.0,
+      442.0,
+      836.0,
+      683.0
+    ],
+    "bbox_norm": [
+      0.344531,
+      0.520833,
+      0.181771,
+      0.223148
+    ],
+    "img_width": 1920,
+    "img_height": 1080,
+    "station_height_pct": 22.31,
+    "station_width_pct": 18.18,
+    "aspect_ratio": 1.448,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 1.79,
+    "is_manually_verified": true
+  },
+  "100_hungary_glamorous-chartreuse-deluge_1.jpg": {
+    "filename": "100_hungary_glamorous-chartreuse-deluge_1.jpg",
+    "bbox_pixels": [
+      654.0,
+      337.0,
+      782.0,
+      403.0
+    ],
+    "bbox_norm": [
+      0.373958,
+      0.256944,
+      0.066667,
+      0.045833
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 4.58,
+    "station_width_pct": 6.67,
+    "aspect_ratio": 1.939,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_modern-clear-cloudburst_4.jpg": {
+    "filename": "100_modern-clear-cloudburst_4.jpg",
+    "bbox_pixels": [
+      1988.0,
+      1851.0,
+      2206.0,
+      1940.0
+    ],
+    "bbox_norm": [
+      0.520089,
+      0.626819,
+      0.054067,
+      0.029431
+    ],
+    "img_width": 4032,
+    "img_height": 3024,
+    "station_height_pct": 2.94,
+    "station_width_pct": 5.41,
+    "aspect_ratio": 2.449,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_france_muscular-keppel-moisture_1.jpg": {
+    "filename": "100_france_muscular-keppel-moisture_1.jpg",
+    "bbox_pixels": [
+      2381.0,
+      1873.0,
+      2527.0,
+      1956.0
+    ],
+    "bbox_norm": [
+      0.532552,
+      0.553964,
+      0.031684,
+      0.024016
+    ],
+    "img_width": 4608,
+    "img_height": 3456,
+    "station_height_pct": 2.4,
+    "station_width_pct": 3.17,
+    "aspect_ratio": 1.759,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_south-africa_cold-grape-deluge_2.jpg": {
+    "filename": "100_south-africa_cold-grape-deluge_2.jpg",
+    "bbox_pixels": [
+      920.0,
+      637.0,
+      995.0,
+      701.0
+    ],
+    "bbox_norm": [
+      0.498698,
+      0.464583,
+      0.039062,
+      0.044444
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 4.44,
+    "station_width_pct": 3.91,
+    "aspect_ratio": 1.172,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_united-states_lone-brass-climatologist_2.jpg": {
+    "filename": "100_united-states_lone-brass-climatologist_2.jpg",
+    "bbox_pixels": [
+      920.0,
+      515.0,
+      1016.0,
+      557.0
+    ],
+    "bbox_norm": [
+      0.504167,
+      0.372222,
+      0.05,
+      0.029167
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 2.92,
+    "station_width_pct": 5.0,
+    "aspect_ratio": 2.286,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_united-states_lone-brass-climatologist_6.jpg": {
+    "filename": "100_united-states_lone-brass-climatologist_6.jpg",
+    "bbox_pixels": [
+      896.0,
+      454.0,
+      963.0,
+      493.0
+    ],
+    "bbox_norm": [
+      0.484115,
+      0.328819,
+      0.034896,
+      0.027083
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 2.71,
+    "station_width_pct": 3.49,
+    "aspect_ratio": 1.718,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_united-states_humid-vinyl-meteorology_2.jpg": {
+    "filename": "100_united-states_humid-vinyl-meteorology_2.jpg",
+    "bbox_pixels": [
+      846.0,
+      690.0,
+      1016.0,
+      826.0
+    ],
+    "bbox_norm": [
+      0.484896,
+      0.526389,
+      0.088542,
+      0.094444
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 9.44,
+    "station_width_pct": 8.85,
+    "aspect_ratio": 1.25,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_united-states_humid-vinyl-meteorology_1.jpg": {
+    "filename": "100_united-states_humid-vinyl-meteorology_1.jpg",
+    "bbox_pixels": [
+      830.0,
+      624.0,
+      910.0,
+      717.0
+    ],
+    "bbox_norm": [
+      0.453125,
+      0.465625,
+      0.041667,
+      0.064583
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 6.46,
+    "station_width_pct": 4.17,
+    "aspect_ratio": 0.86,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_germany_brilliant-celadon-sunlight_2.jpg": {
+    "filename": "100_germany_brilliant-celadon-sunlight_2.jpg",
+    "bbox_pixels": [
+      932.0,
+      740.0,
+      1073.0,
+      802.0
+    ],
+    "bbox_norm": [
+      0.522135,
+      0.301172,
+      0.073438,
+      0.024219
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 2.42,
+    "station_width_pct": 7.34,
+    "aspect_ratio": 2.274,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_germany_brilliant-celadon-sunlight_3.jpg": {
+    "filename": "100_germany_brilliant-celadon-sunlight_3.jpg",
+    "bbox_pixels": [
+      833.0,
+      702.0,
+      979.0,
+      764.0
+    ],
+    "bbox_norm": [
+      0.471875,
+      0.286328,
+      0.076042,
+      0.024219
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 2.42,
+    "station_width_pct": 7.6,
+    "aspect_ratio": 2.355,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_itchy-burlywood-climatologist_4.jpg": {
+    "filename": "100_itchy-burlywood-climatologist_4.jpg",
+    "bbox_pixels": [
+      2122.0,
+      1831.0,
+      2249.0,
+      1897.0
+    ],
+    "bbox_norm": [
+      0.546375,
+      0.621333,
+      0.03175,
+      0.022
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 2.2,
+    "station_width_pct": 3.17,
+    "aspect_ratio": 1.924,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_netherlands_formal-camel-haze_1.jpg": {
+    "filename": "100_netherlands_formal-camel-haze_1.jpg",
+    "bbox_pixels": [
+      519.0,
+      1312.0,
+      674.0,
+      1400.0
+    ],
+    "bbox_norm": [
+      0.509829,
+      0.535545,
+      0.132479,
+      0.034755
+    ],
+    "img_width": 1170,
+    "img_height": 2532,
+    "station_height_pct": 3.48,
+    "station_width_pct": 13.25,
+    "aspect_ratio": 1.761,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_greece_melodic-brunette-mammatus_4.jpg": {
+    "filename": "100_greece_melodic-brunette-mammatus_4.jpg",
+    "bbox_pixels": [
+      548.0,
+      0.0,
+      686.0,
+      140.0
+    ],
+    "bbox_norm": [
+      0.321354,
+      0.048611,
+      0.071875,
+      0.097222
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 9.72,
+    "station_width_pct": 7.19,
+    "aspect_ratio": 0.986,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_united-states_lucky-mauvelous-downburst_1.jpg": {
+    "filename": "100_united-states_lucky-mauvelous-downburst_1.jpg",
+    "bbox_pixels": [
+      1031.0,
+      574.0,
+      1105.0,
+      634.0
+    ],
+    "bbox_norm": [
+      0.55625,
+      0.419444,
+      0.038542,
+      0.041667
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 4.17,
+    "station_width_pct": 3.85,
+    "aspect_ratio": 1.233,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_united-states_merry-sunset-altocumulus_4.jpg": {
+    "filename": "100_united-states_merry-sunset-altocumulus_4.jpg",
+    "bbox_pixels": [
+      211.0,
+      267.0,
+      2397.0,
+      2152.0
+    ],
+    "bbox_norm": [
+      0.476608,
+      0.331552,
+      0.798977,
+      0.516721
+    ],
+    "img_width": 2736,
+    "img_height": 3648,
+    "station_height_pct": 51.67,
+    "station_width_pct": 79.9,
+    "aspect_ratio": 1.16,
+    "distance_category": "CLOSE_UP",
+    "recommended_zoom": 0.23,
+    "is_manually_verified": true
+  },
+  "100_mild-green-sandstorm_6.jpg": {
+    "filename": "100_mild-green-sandstorm_6.jpg",
+    "bbox_pixels": [
+      409.0,
+      542.0,
+      606.0,
+      690.0
+    ],
+    "bbox_norm": [
+      0.335205,
+      0.385,
+      0.130119,
+      0.0925
+    ],
+    "img_width": 1514,
+    "img_height": 1600,
+    "station_height_pct": 9.25,
+    "station_width_pct": 13.01,
+    "aspect_ratio": 1.331,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_switzerland_cheesy-taffy-whirlwind_1.jpg": {
+    "filename": "100_switzerland_cheesy-taffy-whirlwind_1.jpg",
+    "bbox_pixels": [
+      1356.0,
+      661.0,
+      1398.0,
+      682.0
+    ],
+    "bbox_norm": [
+      0.717187,
+      0.466319,
+      0.021875,
+      0.014583
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 1.46,
+    "station_width_pct": 2.19,
+    "aspect_ratio": 2.0,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_united-states_immense-crepe-longitude_1.jpg": {
+    "filename": "100_united-states_immense-crepe-longitude_1.jpg",
+    "bbox_pixels": [
+      1873.0,
+      1399.0,
+      1978.0,
+      1465.0
+    ],
+    "bbox_norm": [
+      0.481375,
+      0.477333,
+      0.02625,
+      0.022
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 2.2,
+    "station_width_pct": 2.62,
+    "aspect_ratio": 1.591,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_micro-beige-rainfall_3.jpg": {
+    "filename": "100_micro-beige-rainfall_3.jpg",
+    "bbox_pixels": [
+      1131.0,
+      1747.0,
+      1478.0,
+      1991.0
+    ],
+    "bbox_norm": [
+      0.434833,
+      0.46725,
+      0.115667,
+      0.061
+    ],
+    "img_width": 3000,
+    "img_height": 4000,
+    "station_height_pct": 6.1,
+    "station_width_pct": 11.57,
+    "aspect_ratio": 1.422,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.77,
+    "is_manually_verified": true
+  },
+  "100_fluffy-cardinal-winter_2.jpg": {
+    "filename": "100_fluffy-cardinal-winter_2.jpg",
+    "bbox_pixels": [
+      1448.0,
+      1659.0,
+      1618.0,
+      1814.0
+    ],
+    "bbox_norm": [
+      0.511,
+      0.434125,
+      0.056667,
+      0.03875
+    ],
+    "img_width": 3000,
+    "img_height": 4000,
+    "station_height_pct": 3.88,
+    "station_width_pct": 5.67,
+    "aspect_ratio": 1.097,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_howling-mauve-cloud_2.jpg": {
+    "filename": "100_howling-mauve-cloud_2.jpg",
+    "bbox_pixels": [
+      2665.0,
+      1079.0,
+      2779.0,
+      1370.0
+    ],
+    "bbox_norm": [
+      0.6805,
+      0.543739,
+      0.0285,
+      0.129218
+    ],
+    "img_width": 4000,
+    "img_height": 2252,
+    "station_height_pct": 12.92,
+    "station_width_pct": 2.85,
+    "aspect_ratio": 0.392,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.48,
+    "is_manually_verified": true
+  },
+  "100_united-states_expert-seaweed-corona_2.jpg": {
+    "filename": "100_united-states_expert-seaweed-corona_2.jpg",
+    "bbox_pixels": [
+      896.0,
+      493.0,
+      1000.0,
+      586.0
+    ],
+    "bbox_norm": [
+      0.49375,
+      0.374653,
+      0.054167,
+      0.064583
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 6.46,
+    "station_width_pct": 5.42,
+    "aspect_ratio": 1.118,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_fine-mulberry-shower_2.jpg": {
+    "filename": "100_fine-mulberry-shower_2.jpg",
+    "bbox_pixels": [
+      1801.0,
+      1626.0,
+      1906.0,
+      1715.0
+    ],
+    "bbox_norm": [
+      0.463375,
+      0.556833,
+      0.02625,
+      0.029667
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 2.97,
+    "station_width_pct": 2.62,
+    "aspect_ratio": 1.18,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_isobar-wintergreen-rainbow_1.jpg": {
+    "filename": "100_isobar-wintergreen-rainbow_1.jpg",
+    "bbox_pixels": [
+      1723.0,
+      967.0,
+      2050.0,
+      1094.0
+    ],
+    "bbox_norm": [
+      0.471625,
+      0.3435,
+      0.08175,
+      0.042333
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 4.23,
+    "station_width_pct": 8.18,
+    "aspect_ratio": 2.575,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_fierce-powder-weather_1.jpg": {
+    "filename": "100_fierce-powder-weather_1.jpg",
+    "bbox_pixels": [
+      1474.0,
+      586.0,
+      1758.0,
+      780.0
+    ],
+    "bbox_norm": [
+      0.495098,
+      0.279003,
+      0.08701,
+      0.079248
+    ],
+    "img_width": 3264,
+    "img_height": 2448,
+    "station_height_pct": 7.92,
+    "station_width_pct": 8.7,
+    "aspect_ratio": 1.464,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.23,
+    "is_manually_verified": true
+  },
+  "100_fluffy-red-rainfall_1.jpg": {
+    "filename": "100_fluffy-red-rainfall_1.jpg",
+    "bbox_pixels": [
+      430.0,
+      559.0,
+      499.0,
+      602.0
+    ],
+    "bbox_norm": [
+      0.483854,
+      0.453516,
+      0.071875,
+      0.033594
+    ],
+    "img_width": 960,
+    "img_height": 1280,
+    "station_height_pct": 3.36,
+    "station_width_pct": 7.19,
+    "aspect_ratio": 1.605,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_germany_leeward-tiger-lightning_1.jpg": {
+    "filename": "100_germany_leeward-tiger-lightning_1.jpg",
+    "bbox_pixels": [
+      738.0,
+      1113.0,
+      1073.0,
+      1331.0
+    ],
+    "bbox_norm": [
+      0.471615,
+      0.477344,
+      0.174479,
+      0.085156
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 8.52,
+    "station_width_pct": 17.45,
+    "aspect_ratio": 1.537,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.98,
+    "is_manually_verified": true
+  },
+  "100_slovakia_muscular-red-hypercane_1.jpg": {
+    "filename": "100_slovakia_muscular-red-hypercane_1.jpg",
+    "bbox_pixels": [
+      1690.0,
+      1438.0,
+      2078.0,
+      1643.0
+    ],
+    "bbox_norm": [
+      0.471,
+      0.5135,
+      0.097,
+      0.068333
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 6.83,
+    "station_width_pct": 9.7,
+    "aspect_ratio": 1.893,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.11,
+    "is_manually_verified": true
+  },
+  "100_france_muscular-keppel-moisture_3.jpg": {
+    "filename": "100_france_muscular-keppel-moisture_3.jpg",
+    "bbox_pixels": [
+      2432.0,
+      750.0,
+      2795.0,
+      986.0
+    ],
+    "bbox_norm": [
+      0.567166,
+      0.251157,
+      0.078776,
+      0.068287
+    ],
+    "img_width": 4608,
+    "img_height": 3456,
+    "station_height_pct": 6.83,
+    "station_width_pct": 7.88,
+    "aspect_ratio": 1.538,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.83,
+    "is_manually_verified": true
+  },
+  "100_united-states_low-brick-weather_2.jpg": {
+    "filename": "100_united-states_low-brick-weather_2.jpg",
+    "bbox_pixels": [
+      862.0,
+      66.0,
+      1053.0,
+      312.0
+    ],
+    "bbox_norm": [
+      0.498698,
+      0.13125,
+      0.099479,
+      0.170833
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 17.08,
+    "station_width_pct": 9.95,
+    "aspect_ratio": 0.776,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 1.76,
+    "is_manually_verified": true
+  },
+  "100_switzerland_cheesy-taffy-whirlwind_2.jpg": {
+    "filename": "100_switzerland_cheesy-taffy-whirlwind_2.jpg",
+    "bbox_pixels": [
+      944.0,
+      733.0,
+      981.0,
+      757.0
+    ],
+    "bbox_norm": [
+      0.501302,
+      0.517361,
+      0.019271,
+      0.016667
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 1.67,
+    "station_width_pct": 1.93,
+    "aspect_ratio": 1.542,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_hazy-white-windstorm_1.jpg": {
+    "filename": "100_hazy-white-windstorm_1.jpg",
+    "bbox_pixels": [
+      1241.0,
+      663.0,
+      2096.0,
+      1822.0
+    ],
+    "bbox_norm": [
+      0.408946,
+      0.541159,
+      0.209559,
+      0.504791
+    ],
+    "img_width": 4080,
+    "img_height": 2296,
+    "station_height_pct": 50.48,
+    "station_width_pct": 20.96,
+    "aspect_ratio": 0.738,
+    "distance_category": "CLOSE_UP",
+    "recommended_zoom": 0.37,
+    "is_manually_verified": true
+  },
+  "100_howling-mauve-cloud_4.jpg": {
+    "filename": "100_howling-mauve-cloud_4.jpg",
+    "bbox_pixels": [
+      2916.0,
+      1013.0,
+      3050.0,
+      1082.0
+    ],
+    "bbox_norm": [
+      0.74575,
+      0.465142,
+      0.0335,
+      0.030639
+    ],
+    "img_width": 4000,
+    "img_height": 2252,
+    "station_height_pct": 3.06,
+    "station_width_pct": 3.35,
+    "aspect_ratio": 1.942,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_magic-stone-graupel_1.jpg": {
+    "filename": "100_magic-stone-graupel_1.jpg",
+    "bbox_pixels": [
+      675.0,
+      1385.0,
+      1185.0,
+      1828.0
+    ],
+    "bbox_norm": [
+      0.497859,
+      0.401625,
+      0.273019,
+      0.11075
+    ],
+    "img_width": 1868,
+    "img_height": 4000,
+    "station_height_pct": 11.07,
+    "station_width_pct": 27.3,
+    "aspect_ratio": 1.151,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 0.98,
+    "is_manually_verified": true
+  },
+  "100_united-states_huge-aureolin-pileus_4.jpg": {
+    "filename": "100_united-states_huge-aureolin-pileus_4.jpg",
+    "bbox_pixels": [
+      907.0,
+      238.0,
+      1005.0,
+      334.0
+    ],
+    "bbox_norm": [
+      0.497917,
+      0.198611,
+      0.051042,
+      0.066667
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 6.67,
+    "station_width_pct": 5.1,
+    "aspect_ratio": 1.021,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_united-states_humid-vinyl-meteorology_4.jpg": {
+    "filename": "100_united-states_humid-vinyl-meteorology_4.jpg",
+    "bbox_pixels": [
+      864.0,
+      602.0,
+      1053.0,
+      682.0
+    ],
+    "bbox_norm": [
+      0.499219,
+      0.445833,
+      0.098437,
+      0.055556
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 5.56,
+    "station_width_pct": 9.84,
+    "aspect_ratio": 2.362,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_modern-clear-cloudburst_3.jpg": {
+    "filename": "100_modern-clear-cloudburst_3.jpg",
+    "bbox_pixels": [
+      1575.0,
+      1661.0,
+      1754.0,
+      1795.0
+    ],
+    "bbox_norm": [
+      0.412822,
+      0.571429,
+      0.044395,
+      0.044312
+    ],
+    "img_width": 4032,
+    "img_height": 3024,
+    "station_height_pct": 4.43,
+    "station_width_pct": 4.44,
+    "aspect_ratio": 1.336,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_hungary_frontal-eggplant-gust_1.jpg": {
+    "filename": "100_hungary_frontal-eggplant-gust_1.jpg",
+    "bbox_pixels": [
+      702.0,
+      331.0,
+      822.0,
+      398.0
+    ],
+    "bbox_norm": [
+      0.396875,
+      0.253125,
+      0.0625,
+      0.046528
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 4.65,
+    "station_width_pct": 6.25,
+    "aspect_ratio": 1.791,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_romania_clear-capri-troposphere_3.jpg": {
+    "filename": "100_romania_clear-capri-troposphere_3.jpg",
+    "bbox_pixels": [
+      1252.0,
+      2412.0,
+      1340.0,
+      2508.0
+    ],
+    "bbox_norm": [
+      0.575488,
+      0.615,
+      0.039076,
+      0.024
+    ],
+    "img_width": 2252,
+    "img_height": 4000,
+    "station_height_pct": 2.4,
+    "station_width_pct": 3.91,
+    "aspect_ratio": 0.917,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_frosty-chili-hydrometer_4.jpg": {
+    "filename": "100_frosty-chili-hydrometer_4.jpg",
+    "bbox_pixels": [
+      912.0,
+      1563.0,
+      993.0,
+      1622.0
+    ],
+    "bbox_norm": [
+      0.422957,
+      0.398125,
+      0.035968,
+      0.01475
+    ],
+    "img_width": 2252,
+    "img_height": 4000,
+    "station_height_pct": 1.47,
+    "station_width_pct": 3.6,
+    "aspect_ratio": 1.373,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_italy_joyful-leather-coriolis_1.jpg": {
+    "filename": "100_italy_joyful-leather-coriolis_1.jpg",
+    "bbox_pixels": [
+      2212.0,
+      968.0,
+      2337.0,
+      1132.0
+    ],
+    "bbox_norm": [
+      0.555298,
+      0.341797,
+      0.030518,
+      0.053385
+    ],
+    "img_width": 4096,
+    "img_height": 3072,
+    "station_height_pct": 5.34,
+    "station_width_pct": 3.05,
+    "aspect_ratio": 0.762,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_genuine-fleece-squall_3.jpg": {
+    "filename": "100_genuine-fleece-squall_3.jpg",
+    "bbox_pixels": [
+      1771.0,
+      316.0,
+      2320.0,
+      1219.0
+    ],
+    "bbox_norm": [
+      0.511375,
+      0.416215,
+      0.13725,
+      0.489696
+    ],
+    "img_width": 4000,
+    "img_height": 1844,
+    "station_height_pct": 48.97,
+    "station_width_pct": 13.73,
+    "aspect_ratio": 0.608,
+    "distance_category": "CLOSE_UP",
+    "recommended_zoom": 0.48,
+    "is_manually_verified": true
+  },
+  "100_itchy-burlywood-climatologist_2.jpg": {
+    "filename": "100_itchy-burlywood-climatologist_2.jpg",
+    "bbox_pixels": [
+      2105.0,
+      1593.0,
+      2194.0,
+      1637.0
+    ],
+    "bbox_norm": [
+      0.537375,
+      0.538333,
+      0.02225,
+      0.014667
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 1.47,
+    "station_width_pct": 2.23,
+    "aspect_ratio": 2.023,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_germany_clumsy-thistle-haze_1.jpg": {
+    "filename": "100_germany_clumsy-thistle-haze_1.jpg",
+    "bbox_pixels": [
+      1126.0,
+      1865.0,
+      1303.0,
+      1961.0
+    ],
+    "bbox_norm": [
+      0.539298,
+      0.47825,
+      0.078597,
+      0.024
+    ],
+    "img_width": 2252,
+    "img_height": 4000,
+    "station_height_pct": 2.4,
+    "station_width_pct": 7.86,
+    "aspect_ratio": 1.844,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_united-states_inclement-iron-wind_4.jpg": {
+    "filename": "100_united-states_inclement-iron-wind_4.jpg",
+    "bbox_pixels": [
+      1607.0,
+      728.0,
+      1951.0,
+      867.0
+    ],
+    "bbox_norm": [
+      0.44122,
+      0.351631,
+      0.085317,
+      0.061287
+    ],
+    "img_width": 4032,
+    "img_height": 2268,
+    "station_height_pct": 6.13,
+    "station_width_pct": 8.53,
+    "aspect_ratio": 2.475,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_united-states_inclement-iron-wind_1.jpg": {
+    "filename": "100_united-states_inclement-iron-wind_1.jpg",
+    "bbox_pixels": [
+      1859.0,
+      698.0,
+      2216.0,
+      907.0
+    ],
+    "bbox_norm": [
+      0.505332,
+      0.353836,
+      0.088542,
+      0.092152
+    ],
+    "img_width": 4032,
+    "img_height": 2268,
+    "station_height_pct": 9.22,
+    "station_width_pct": 8.85,
+    "aspect_ratio": 1.708,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.07,
+    "is_manually_verified": true
+  },
+  "100_united-states_fit-orchid-uv_3.jpg": {
+    "filename": "100_united-states_fit-orchid-uv_3.jpg",
+    "bbox_pixels": [
+      920.0,
+      414.0,
+      1034.0,
+      485.0
+    ],
+    "bbox_norm": [
+      0.508854,
+      0.312153,
+      0.059375,
+      0.049306
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 4.93,
+    "station_width_pct": 5.94,
+    "aspect_ratio": 1.606,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_united-states_electric-bamboo-sunrise_3.jpg": {
+    "filename": "100_united-states_electric-bamboo-sunrise_3.jpg",
+    "bbox_pixels": [
+      2083.0,
+      668.0,
+      2216.0,
+      818.0
+    ],
+    "bbox_norm": [
+      0.537375,
+      0.247667,
+      0.03325,
+      0.05
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 5.0,
+    "station_width_pct": 3.33,
+    "aspect_ratio": 0.887,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_micro-beige-rainfall_4.jpg": {
+    "filename": "100_micro-beige-rainfall_4.jpg",
+    "bbox_pixels": [
+      1316.0,
+      1673.0,
+      1721.0,
+      1976.0
+    ],
+    "bbox_norm": [
+      0.506167,
+      0.456125,
+      0.135,
+      0.07575
+    ],
+    "img_width": 3000,
+    "img_height": 4000,
+    "station_height_pct": 7.58,
+    "station_width_pct": 13.5,
+    "aspect_ratio": 1.337,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.43,
+    "is_manually_verified": true
+  },
+  "100_micro-beige-rainfall_1.jpg": {
+    "filename": "100_micro-beige-rainfall_1.jpg",
+    "bbox_pixels": [
+      1254.0,
+      1783.0,
+      1810.0,
+      1990.0
+    ],
+    "bbox_norm": [
+      0.510667,
+      0.471625,
+      0.185333,
+      0.05175
+    ],
+    "img_width": 3000,
+    "img_height": 4000,
+    "station_height_pct": 5.17,
+    "station_width_pct": 18.53,
+    "aspect_ratio": 2.686,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.09,
+    "is_manually_verified": true
+  },
+  "100_melted-cherry-cloud_8.jpg": {
+    "filename": "100_melted-cherry-cloud_8.jpg",
+    "bbox_pixels": [
+      904.0,
+      1475.0,
+      1132.0,
+      1625.0
+    ],
+    "bbox_norm": [
+      0.452043,
+      0.3875,
+      0.101243,
+      0.0375
+    ],
+    "img_width": 2252,
+    "img_height": 4000,
+    "station_height_pct": 3.75,
+    "station_width_pct": 10.12,
+    "aspect_ratio": 1.52,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_melted-cherry-cloud_7.jpg": {
+    "filename": "100_melted-cherry-cloud_7.jpg",
+    "bbox_pixels": [
+      1008.0,
+      1304.0,
+      1325.0,
+      1452.0
+    ],
+    "bbox_norm": [
+      0.517984,
+      0.3445,
+      0.140764,
+      0.037
+    ],
+    "img_width": 2252,
+    "img_height": 4000,
+    "station_height_pct": 3.7,
+    "station_width_pct": 14.08,
+    "aspect_ratio": 2.142,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_fluffy-red-rainfall_2.jpg": {
+    "filename": "100_fluffy-red-rainfall_2.jpg",
+    "bbox_pixels": [
+      471.0,
+      585.0,
+      553.0,
+      644.0
+    ],
+    "bbox_norm": [
+      0.533333,
+      0.480078,
+      0.085417,
+      0.046094
+    ],
+    "img_width": 960,
+    "img_height": 1280,
+    "station_height_pct": 4.61,
+    "station_width_pct": 8.54,
+    "aspect_ratio": 1.39,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_festive-hondeydwe-cirrocumulus_1.jpeg": {
+    "filename": "100_festive-hondeydwe-cirrocumulus_1.jpeg",
+    "bbox_pixels": [
+      594.0,
+      581.0,
+      650.0,
+      619.0
+    ],
+    "bbox_norm": [
+      0.518333,
+      0.375,
+      0.046667,
+      0.02375
+    ],
+    "img_width": 1200,
+    "img_height": 1600,
+    "station_height_pct": 2.38,
+    "station_width_pct": 4.67,
+    "aspect_ratio": 1.474,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_muscular-lime-cumulus_1.jpg": {
+    "filename": "100_muscular-lime-cumulus_1.jpg",
+    "bbox_pixels": [
+      1557.0,
+      792.0,
+      1659.0,
+      876.0
+    ],
+    "bbox_norm": [
+      0.463134,
+      0.240207,
+      0.029378,
+      0.024194
+    ],
+    "img_width": 3472,
+    "img_height": 3472,
+    "station_height_pct": 2.42,
+    "station_width_pct": 2.94,
+    "aspect_ratio": 1.214,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_greece_fantastic-cloud-climatologist_8.jpg": {
+    "filename": "100_greece_fantastic-cloud-climatologist_8.jpg",
+    "bbox_pixels": [
+      1195.0,
+      1518.0,
+      1316.0,
+      1645.0
+    ],
+    "bbox_norm": [
+      0.408691,
+      0.386108,
+      0.039388,
+      0.031006
+    ],
+    "img_width": 3072,
+    "img_height": 4096,
+    "station_height_pct": 3.1,
+    "station_width_pct": 3.94,
+    "aspect_ratio": 0.953,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_isobar-peach-blizzard_3.jpg": {
+    "filename": "100_isobar-peach-blizzard_3.jpg",
+    "bbox_pixels": [
+      1947.0,
+      996.0,
+      2178.0,
+      1131.0
+    ],
+    "bbox_norm": [
+      0.50354,
+      0.346191,
+      0.056396,
+      0.043945
+    ],
+    "img_width": 4096,
+    "img_height": 3072,
+    "station_height_pct": 4.39,
+    "station_width_pct": 5.64,
+    "aspect_ratio": 1.711,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_isobar-peach-blizzard_1.jpg": {
+    "filename": "100_isobar-peach-blizzard_1.jpg",
+    "bbox_pixels": [
+      1960.0,
+      1076.0,
+      2182.0,
+      1212.0
+    ],
+    "bbox_norm": [
+      0.505615,
+      0.372396,
+      0.054199,
+      0.044271
+    ],
+    "img_width": 4096,
+    "img_height": 3072,
+    "station_height_pct": 4.43,
+    "station_width_pct": 5.42,
+    "aspect_ratio": 1.632,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_greece_fantastic-cloud-climatologist_12.jpg": {
+    "filename": "100_greece_fantastic-cloud-climatologist_12.jpg",
+    "bbox_pixels": [
+      1367.0,
+      1141.0,
+      1525.0,
+      1306.0
+    ],
+    "bbox_norm": [
+      0.470703,
+      0.298706,
+      0.051432,
+      0.040283
+    ],
+    "img_width": 3072,
+    "img_height": 4096,
+    "station_height_pct": 4.03,
+    "station_width_pct": 5.14,
+    "aspect_ratio": 0.958,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_united-states_lucky-mauvelous-downburst_2.jpg": {
+    "filename": "100_united-states_lucky-mauvelous-downburst_2.jpg",
+    "bbox_pixels": [
+      1170.0,
+      544.0,
+      1274.0,
+      661.0
+    ],
+    "bbox_norm": [
+      0.636458,
+      0.418403,
+      0.054167,
+      0.08125
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 8.12,
+    "station_width_pct": 5.42,
+    "aspect_ratio": 0.889,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_united-states_fluffy-latte-haboob_2.jpg": {
+    "filename": "100_united-states_fluffy-latte-haboob_2.jpg",
+    "bbox_pixels": [
+      803.0,
+      557.0,
+      902.0,
+      640.0
+    ],
+    "bbox_norm": [
+      0.44401,
+      0.415625,
+      0.051562,
+      0.057639
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 5.76,
+    "station_width_pct": 5.16,
+    "aspect_ratio": 1.193,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_germany_clumsy-thistle-haze_2.jpg": {
+    "filename": "100_germany_clumsy-thistle-haze_2.jpg",
+    "bbox_pixels": [
+      1094.0,
+      1721.0,
+      1242.0,
+      1853.0
+    ],
+    "bbox_norm": [
+      0.51865,
+      0.44675,
+      0.065719,
+      0.033
+    ],
+    "img_width": 2252,
+    "img_height": 4000,
+    "station_height_pct": 3.3,
+    "station_width_pct": 6.57,
+    "aspect_ratio": 1.121,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_greece_fantastic-cloud-climatologist_9.jpg": {
+    "filename": "100_greece_fantastic-cloud-climatologist_9.jpg",
+    "bbox_pixels": [
+      1400.0,
+      897.0,
+      1619.0,
+      988.0
+    ],
+    "bbox_norm": [
+      0.491374,
+      0.230103,
+      0.071289,
+      0.022217
+    ],
+    "img_width": 3072,
+    "img_height": 4096,
+    "station_height_pct": 2.22,
+    "station_width_pct": 7.13,
+    "aspect_ratio": 2.407,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_hazy-powder-hygrometer_2.jpg": {
+    "filename": "100_hazy-powder-hygrometer_2.jpg",
+    "bbox_pixels": [
+      3067.0,
+      584.0,
+      3503.0,
+      938.0
+    ],
+    "bbox_norm": [
+      0.82125,
+      0.422778,
+      0.109,
+      0.196667
+    ],
+    "img_width": 4000,
+    "img_height": 1800,
+    "station_height_pct": 19.67,
+    "station_width_pct": 10.9,
+    "aspect_ratio": 1.232,
+    "distance_category": "MEDIUM",
+    "recommended_zoom": 1.22,
+    "is_manually_verified": true
+  },
+  "100_frontal-bisque-orographic_4.jpg": {
+    "filename": "100_frontal-bisque-orographic_4.jpg",
+    "bbox_pixels": [
+      1695.0,
+      1564.0,
+      1850.0,
+      1675.0
+    ],
+    "bbox_norm": [
+      0.443125,
+      0.538398,
+      0.03875,
+      0.036902
+    ],
+    "img_width": 4000,
+    "img_height": 3008,
+    "station_height_pct": 3.69,
+    "station_width_pct": 3.88,
+    "aspect_ratio": 1.396,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_germany_clean-fuchsia-stratus_2.jpg": {
+    "filename": "100_germany_clean-fuchsia-stratus_2.jpg",
+    "bbox_pixels": [
+      878.0,
+      658.0,
+      965.0,
+      725.0
+    ],
+    "bbox_norm": [
+      0.479948,
+      0.480208,
+      0.045312,
+      0.046528
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 4.65,
+    "station_width_pct": 4.53,
+    "aspect_ratio": 1.299,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_united-states_inclement-iron-wind_2.jpg": {
+    "filename": "100_united-states_inclement-iron-wind_2.jpg",
+    "bbox_pixels": [
+      1454.0,
+      994.0,
+      1768.0,
+      1120.0
+    ],
+    "bbox_norm": [
+      0.399554,
+      0.466049,
+      0.077877,
+      0.055556
+    ],
+    "img_width": 4032,
+    "img_height": 2268,
+    "station_height_pct": 5.56,
+    "station_width_pct": 7.79,
+    "aspect_ratio": 2.492,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_mild-fern-frost_4.jpg": {
+    "filename": "100_mild-fern-frost_4.jpg",
+    "bbox_pixels": [
+      2118.0,
+      867.0,
+      2381.0,
+      1050.0
+    ],
+    "bbox_norm": [
+      0.562375,
+      0.3195,
+      0.06575,
+      0.061
+    ],
+    "img_width": 4000,
+    "img_height": 3000,
+    "station_height_pct": 6.1,
+    "station_width_pct": 6.58,
+    "aspect_ratio": 1.437,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.36,
+    "is_manually_verified": true
+  },
+  "100_south-africa_inclement-nylon-nowcast_3.jpg": {
+    "filename": "100_south-africa_inclement-nylon-nowcast_3.jpg",
+    "bbox_pixels": [
+      1454.0,
+      169.0,
+      1577.0,
+      345.0
+    ],
+    "bbox_norm": [
+      0.371446,
+      0.111934,
+      0.030147,
+      0.076655
+    ],
+    "img_width": 4080,
+    "img_height": 2296,
+    "station_height_pct": 7.67,
+    "station_width_pct": 3.01,
+    "aspect_ratio": 0.699,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.45,
+    "is_manually_verified": true
+  },
+  "100_greece_best-pear-isotherm_2.jpg": {
+    "filename": "100_greece_best-pear-isotherm_2.jpg",
+    "bbox_pixels": [
+      1335.0,
+      925.0,
+      1488.0,
+      1103.0
+    ],
+    "bbox_norm": [
+      0.432445,
+      0.414216,
+      0.046875,
+      0.072712
+    ],
+    "img_width": 3264,
+    "img_height": 2448,
+    "station_height_pct": 7.27,
+    "station_width_pct": 4.69,
+    "aspect_ratio": 0.86,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.43,
+    "is_manually_verified": true
+  },
+  "100_united-states_inclement-golden-spring_2.jpg": {
+    "filename": "100_united-states_inclement-golden-spring_2.jpg",
+    "bbox_pixels": [
+      1960.0,
+      1057.0,
+      2153.0,
+      1208.0
+    ],
+    "bbox_norm": [
+      0.504044,
+      0.368652,
+      0.047304,
+      0.049154
+    ],
+    "img_width": 4080,
+    "img_height": 3072,
+    "station_height_pct": 4.92,
+    "station_width_pct": 4.73,
+    "aspect_ratio": 1.278,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_united-states_mean-neon-corona_2.jpg": {
+    "filename": "100_united-states_mean-neon-corona_2.jpg",
+    "bbox_pixels": [
+      835.0,
+      517.0,
+      1053.0,
+      621.0
+    ],
+    "bbox_norm": [
+      0.491667,
+      0.395139,
+      0.113542,
+      0.072222
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 7.22,
+    "station_width_pct": 11.35,
+    "aspect_ratio": 2.096,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_united-states_lone-brass-climatologist_4.jpg": {
+    "filename": "100_united-states_lone-brass-climatologist_4.jpg",
+    "bbox_pixels": [
+      886.0,
+      459.0,
+      928.0,
+      533.0
+    ],
+    "bbox_norm": [
+      0.472396,
+      0.344444,
+      0.021875,
+      0.051389
+    ],
+    "img_width": 1920,
+    "img_height": 1440,
+    "station_height_pct": 5.14,
+    "station_width_pct": 2.19,
+    "aspect_ratio": 0.568,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_united-states_glamorous-daisy-halo_1.jpg": {
+    "filename": "100_united-states_glamorous-daisy-halo_1.jpg",
+    "bbox_pixels": [
+      583.0,
+      362.0,
+      947.0,
+      540.0
+    ],
+    "bbox_norm": [
+      0.252976,
+      0.111855,
+      0.12037,
+      0.044147
+    ],
+    "img_width": 3024,
+    "img_height": 4032,
+    "station_height_pct": 4.41,
+    "station_width_pct": 12.04,
+    "aspect_ratio": 2.045,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.43,
+    "is_manually_verified": true
+  },
+  "100_isobar-peach-blizzard_4.jpg": {
+    "filename": "100_isobar-peach-blizzard_4.jpg",
+    "bbox_pixels": [
+      2200.0,
+      860.0,
+      2333.0,
+      954.0
+    ],
+    "bbox_norm": [
+      0.553345,
+      0.295247,
+      0.032471,
+      0.030599
+    ],
+    "img_width": 4096,
+    "img_height": 3072,
+    "station_height_pct": 3.06,
+    "station_width_pct": 3.25,
+    "aspect_ratio": 1.415,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_france_genuine-chocolate-heat_1.jpg": {
+    "filename": "100_france_genuine-chocolate-heat_1.jpg",
+    "bbox_pixels": [
+      1348.0,
+      1739.0,
+      1519.0,
+      1888.0
+    ],
+    "bbox_norm": [
+      0.474041,
+      0.449777,
+      0.056548,
+      0.036954
+    ],
+    "img_width": 3024,
+    "img_height": 4032,
+    "station_height_pct": 3.7,
+    "station_width_pct": 5.65,
+    "aspect_ratio": 1.148,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_romania_broad-blush-snowfall_3.jpg": {
+    "filename": "100_romania_broad-blush-snowfall_3.jpg",
+    "bbox_pixels": [
+      648.0,
+      225.0,
+      809.0,
+      354.0
+    ],
+    "bbox_norm": [
+      0.379427,
+      0.113086,
+      0.083854,
+      0.050391
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 5.04,
+    "station_width_pct": 8.39,
+    "aspect_ratio": 1.248,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_norway_large-khaki-condensation_2.jpg": {
+    "filename": "100_norway_large-khaki-condensation_2.jpg",
+    "bbox_pixels": [
+      943.0,
+      1305.0,
+      1059.0,
+      1394.0
+    ],
+    "bbox_norm": [
+      0.541667,
+      0.337375,
+      0.062771,
+      0.02225
+    ],
+    "img_width": 1848,
+    "img_height": 4000,
+    "station_height_pct": 2.23,
+    "station_width_pct": 6.28,
+    "aspect_ratio": 1.303,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_frosty-iceberg-breeze_1.jpg": {
+    "filename": "100_frosty-iceberg-breeze_1.jpg",
+    "bbox_pixels": [
+      685.0,
+      1652.0,
+      940.0,
+      1769.0
+    ],
+    "bbox_norm": [
+      0.451389,
+      0.427625,
+      0.141667,
+      0.02925
+    ],
+    "img_width": 1800,
+    "img_height": 4000,
+    "station_height_pct": 2.93,
+    "station_width_pct": 14.17,
+    "aspect_ratio": 2.179,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_genuine-velvet-lion.jpg": {
+    "filename": "100_genuine-velvet-lion.jpg",
+    "bbox_pixels": [
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "bbox_norm": [
+      0.078125,
+      0.138889,
+      0.052083,
+      0.092593
+    ],
+    "img_width": 1920,
+    "img_height": 1080,
+    "station_height_pct": 9.26,
+    "station_width_pct": 5.21,
+    "aspect_ratio": 1.0,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_genuine-velvet-lightning_1.jpg": {
+    "filename": "100_genuine-velvet-lightning_1.jpg",
+    "bbox_pixels": [
+      1370.0,
+      1688.0,
+      1666.0,
+      2021.0
+    ],
+    "bbox_norm": [
+      0.506,
+      0.463625,
+      0.098667,
+      0.08325
+    ],
+    "img_width": 3000,
+    "img_height": 4000,
+    "station_height_pct": 8.33,
+    "station_width_pct": 9.87,
+    "aspect_ratio": 0.889,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 1.3,
+    "is_manually_verified": true
+  },
+  "100_south-africa_cold-grape-deluge_1.jpg": {
+    "filename": "100_south-africa_cold-grape-deluge_1.jpg",
+    "bbox_pixels": [
+      750.0,
+      815.0,
+      916.0,
+      1002.0
+    ],
+    "bbox_norm": [
+      0.433854,
+      0.354883,
+      0.086458,
+      0.073047
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 7.3,
+    "station_width_pct": 8.65,
+    "aspect_ratio": 0.888,
+    "distance_category": "DISTANT",
+    "recommended_zoom": 2.31,
+    "is_manually_verified": true
+  },
+  "100_italy_joyful-leather-coriolis_3.jpg": {
+    "filename": "100_italy_joyful-leather-coriolis_3.jpg",
+    "bbox_pixels": [
+      1930.0,
+      1014.0,
+      2133.0,
+      1157.0
+    ],
+    "bbox_norm": [
+      0.495972,
+      0.353353,
+      0.049561,
+      0.046549
+    ],
+    "img_width": 4096,
+    "img_height": 3072,
+    "station_height_pct": 4.65,
+    "station_width_pct": 4.96,
+    "aspect_ratio": 1.42,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_macho-lipstick-uv_1.jpg": {
+    "filename": "100_macho-lipstick-uv_1.jpg",
+    "bbox_pixels": [
+      1920.0,
+      310.0,
+      2055.0,
+      392.0
+    ],
+    "bbox_norm": [
+      0.664271,
+      0.117313,
+      0.04512,
+      0.027406
+    ],
+    "img_width": 2992,
+    "img_height": 2992,
+    "station_height_pct": 2.74,
+    "station_width_pct": 4.51,
+    "aspect_ratio": 1.646,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_germany_bumpy-peach-westerlies_3.jpg": {
+    "filename": "100_germany_bumpy-peach-westerlies_3.jpg",
+    "bbox_pixels": [
+      1289.0,
+      689.0,
+      1478.0,
+      766.0
+    ],
+    "bbox_norm": [
+      0.720573,
+      0.28418,
+      0.098437,
+      0.030078
+    ],
+    "img_width": 1920,
+    "img_height": 2560,
+    "station_height_pct": 3.01,
+    "station_width_pct": 9.84,
+    "aspect_ratio": 2.455,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  },
+  "100_melted-raspberry-millimeter_2.jpg": {
+    "filename": "100_melted-raspberry-millimeter_2.jpg",
+    "bbox_pixels": [
+      2215.0,
+      516.0,
+      2332.0,
+      602.0
+    ],
+    "bbox_norm": [
+      0.568375,
+      0.302489,
+      0.02925,
+      0.046537
+    ],
+    "img_width": 4000,
+    "img_height": 1848,
+    "station_height_pct": 4.65,
+    "station_width_pct": 2.93,
+    "aspect_ratio": 1.36,
+    "distance_category": "TOO_FAR",
+    "recommended_zoom": 2.5,
+    "is_manually_verified": true
+  }
+}

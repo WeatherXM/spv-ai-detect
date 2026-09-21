@@ -1,0 +1,46 @@
+# Sample Test Pipeline Configuration
+
+paths:
+  input_dir: "sample_test"
+  cache_dir: "sample_test/cache"
+  output_dir: "sample_test/output"
+  metadata_dir: "metadata"
+
+canvas:
+  width: 1920
+  height: 1080
+  fps: 30
+
+alignment:
+  target_center_x: 0.50
+  target_center_y: 0.48
+  target_height_pct: 0.40
+  min_height_pct: 0.08
+  max_height_pct: 0.60
+  max_width_pct: 0.50
+
+detection:
+  confidence_threshold: 0.20
+  skip_failed_detections: true
+  prompts:
+    - "white weather station sensor unit on pole"
+    - "anemometer wind vane weather station sensor head"
+    - "solar powered weather station sensor package"
+    - "small meteorological sensor unit on post"
+
+features:
+  weights:
+    background_color: 0.55
+    clip_embedding: 0.25
+    brightness_saturation: 0.10
+    composition: 0.10
+  clip_model_name: "openai/clip-vit-base-patch32"
+
+rendering:
+  treatments:
+    - "A"
+    - "B"
+    - "C"
+    - "D"
+    - "E"
+  codec: "h264_videotoolbox"
