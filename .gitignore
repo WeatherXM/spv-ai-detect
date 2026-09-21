@@ -1,0 +1,21 @@
+# Ignore files and artifacts from other branches
+__pycache__/
+cache/
+dataset/
+debug_vis/
+debug_yolo_world/
+metadata/
+photos/
+pipeline/
+runs/
+sample_test/
+weights/
+*.pt
+*.log
+*.py
+*.html
+*.yaml
+*.txt
+.venv/
+.DS_Store
+output/**/.DS_Store
